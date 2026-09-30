@@ -18,17 +18,59 @@ const page = await browser.newPage({
   locale: 'en-US'
 });
 
-// Airtable keeps background requests open, so networkidle can hang forever.
 await page.goto(SOURCE_URL, { waitUntil: 'domcontentloaded', timeout: 45000 });
 await page.waitForFunction(
   () => /Quantity\s*Available/i.test(document.body?.innerText || '') || /Tier\s*A1\s*Price/i.test(document.body?.innerText || ''),
   { timeout: 60000 }
 ).catch(() => {});
-await page.waitForTimeout(4000);
+await page.waitForTimeout(3500);
 
-// Scroll the largest scrollable containers because Airtable card views often
-// virtualize inside a div rather than using the browser window.
-for (let i = 0; i < 70; i++) {
+const seen = new Map();
+
+async function collectVisible() {
+  const cards = await page.evaluate(() => {
+    const marker = /Quantity\s*Available/i;
+    const hasAll = t => marker.test(t) && /Tier\s*A1\s*Price/i.test(t) && /Tier\s*B1\s*Price/i.test(t) && /Tier\s*C1\s*Price/i.test(t);
+    const out = [];
+
+    for (const el of [...document.querySelectorAll('body *')]) {
+      const base = (el.innerText || '').trim();
+      if (!base || !hasAll(base) || base.length > 1800) continue;
+
+      // Start from the smallest field block, then climb until we include the card title/image.
+      let node = el;
+      let chosen = null;
+      for (let depth = 0; depth < 7 && node; depth++, node = node.parentElement) {
+        const txt = (node.innerText || '').trim();
+        if (!hasAll(txt) || txt.length > 2600) continue;
+        const q = txt.search(marker);
+        const prefix = q >= 0 ? txt.slice(0, q).trim() : '';
+        const img = node.querySelector('img');
+        if (prefix && prefix.length <= 400) {
+          chosen = { text: txt, titleHint: prefix.split(/\n+/).map(x => x.trim()).filter(Boolean).join(' '), image: img?.src || null };
+          break;
+        }
+      }
+
+      if (!chosen) continue;
+      if (!chosen.titleHint || /^Quantity\s*Available$/i.test(chosen.titleHint)) continue;
+      out.push(chosen);
+    }
+
+    return out;
+  });
+
+  for (const c of cards) {
+    const key = `${c.titleHint}|${c.text}`;
+    seen.set(key, c);
+  }
+}
+
+// Capture cards at the top before Airtable virtualizes them away.
+await collectVisible();
+
+// Scroll the main Airtable containers and collect on every step so virtualized cards aren't lost.
+for (let i = 0; i < 90; i++) {
   await page.evaluate(() => {
     const els = [...document.querySelectorAll('*')]
       .filter(el => {
@@ -38,75 +80,60 @@ for (let i = 0; i < 70; i++) {
       .sort((a, b) => b.scrollHeight - a.scrollHeight)
       .slice(0, 5);
     for (const el of els) {
-      el.scrollTop = Math.min(el.scrollTop + Math.max(700, el.clientHeight * 0.9), el.scrollHeight);
+      el.scrollTop = Math.min(el.scrollTop + Math.max(500, el.clientHeight * 0.7), el.scrollHeight);
     }
-    window.scrollBy(0, 1000);
+    window.scrollBy(0, 800);
   });
-  await page.waitForTimeout(180);
+  await page.waitForTimeout(160);
+  await collectVisible();
 }
-await page.waitForTimeout(1500);
+await page.waitForTimeout(1000);
+await collectVisible();
 
-const rawCards = await page.evaluate(() => {
-  const all = [...document.querySelectorAll('body *')];
-  const cards = [];
-  for (const el of all) {
-    const text = (el.innerText || '').trim();
-    if (!text) continue;
-    if (!/Tier\s*A1\s*Price/i.test(text)) continue;
-    if (!/Tier\s*B1\s*Price/i.test(text)) continue;
-    if (!/Tier\s*C1\s*Price/i.test(text)) continue;
-    if (!/Quantity\s*Available/i.test(text)) continue;
-    if (text.length > 1800) continue;
-
-    const childMatch = [...el.children].some(c => {
-      const t = (c.innerText || '').trim();
-      return t.length < 1800 && /Tier\s*A1\s*Price/i.test(t) && /Tier\s*B1\s*Price/i.test(t) && /Tier\s*C1\s*Price/i.test(t) && /Quantity\s*Available/i.test(t);
-    });
-    if (childMatch) continue;
-
-    const img = el.querySelector('img');
-    cards.push({ text, image: img?.src || null });
-  }
-  return cards;
-});
-
-const moneyRe = /\$\s*(\d[\d,]*(?:\.\d{1,2})?)/g;
-function bumpMoney(s) {
-  return String(s).replace(moneyRe, (_, num) => {
-    const decimals = num.includes('.') ? 2 : 0;
-    const value = Number(num.replace(/,/g, '')) + MARKUP;
-    return '$' + value.toLocaleString('en-US', { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
-  });
+const moneyRe = /\$\s*(\d[\d,]*(?:\.\d{1,2})?)/;
+function bumped(value) {
+  const m = String(value).match(moneyRe);
+  if (!m) return String(value).trim();
+  const original = m[1];
+  const amount = Number(original.replace(/,/g, '')) + MARKUP;
+  const decimals = original.includes('.') ? 2 : 0;
+  return '$' + amount.toLocaleString('en-US', { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
 }
 
-function parseCard(text) {
-  const lines = text.split(/\n+/).map(x => x.trim()).filter(Boolean);
-  const title = lines[0] || 'Product';
+function capture(text, re) {
+  const m = text.match(re);
+  return m ? m[1].trim() : '';
+}
+
+function parseCard(card) {
+  const text = card.text.replace(/\r/g, '');
+  const title = card.titleHint.trim();
+  const qty = capture(text, /Quantity\s*Available\s*\n?\s*([^\n]+)/i);
+  const a = capture(text, /Tier\s*A1\s*Price\s*\(1-10\s*lbs\)\s*\n?\s*([^\n]+)/i);
+  const b = capture(text, /Tier\s*B1\s*Price\s*\(10-50\s*lbs\)\s*\n?\s*([^\n]+)/i);
+  const c = capture(text, /Tier\s*C1\s*Price\s*\(50\+\s*lbs\)\s*\n?\s*([^\n]+)/i);
+  const quality = capture(text, /Quality\s*\n?\s*([^\n]+)/i);
+
   const fields = [];
-  for (let i = 1; i < lines.length; i++) {
-    const label = lines[i];
-    if (/^(Quantity\s*Available|Quality|Tier\s*A1\s*Price.*|Tier\s*B1\s*Price.*|Tier\s*C1\s*Price.*)$/i.test(label) && i + 1 < lines.length) {
-      const raw = lines[++i];
-      fields.push({
-        label,
-        value: /Price/i.test(label) ? bumpMoney(raw) : raw,
-        kind: /Price/i.test(label) ? 'price' : 'text'
-      });
-    }
-  }
-  return { title, fields };
+  if (qty) fields.push({ label: 'Quantity Available', value: qty, kind: 'text' });
+  if (a) fields.push({ label: 'Tier A1 Price (1-10 lbs)', value: bumped(a), kind: 'price' });
+  if (b) fields.push({ label: 'Tier B1 Price (10-50 lbs)', value: bumped(b), kind: 'price' });
+  if (c) fields.push({ label: 'Tier C1 Price (50+ lbs)', value: bumped(c), kind: 'price' });
+  if (quality) fields.push({ label: 'Quality', value: quality, kind: 'text' });
+
+  return { title, fields, imageUrl: card.image };
 }
 
-const unique = new Map();
-for (const card of rawCards) {
-  const parsed = parseCard(card.text);
-  if (!parsed.title || parsed.fields.length < 4) continue;
-  unique.set(parsed.title + '|' + card.text, { ...parsed, imageUrl: card.image });
+const byTitle = new Map();
+for (const card of seen.values()) {
+  const parsed = parseCard(card);
+  if (!parsed.title || parsed.fields.filter(f => f.kind === 'price').length < 3) continue;
+  byTitle.set(parsed.title, parsed);
 }
 
 const products = [];
 let idx = 0;
-for (const item of unique.values()) {
+for (const item of byTitle.values()) {
   let image = null;
   if (item.imageUrl?.startsWith('http')) {
     try {
@@ -126,18 +153,19 @@ for (const item of unique.values()) {
 }
 
 if (!products.length) {
-  const bodyText = (await page.locator('body').innerText()).slice(0, 8000);
+  const bodyText = (await page.locator('body').innerText()).slice(0, 10000);
   console.error('PAGE TEXT START');
   console.error(bodyText);
   console.error('PAGE TEXT END');
   throw new Error('No catalog product cards detected');
 }
 
+products.sort((x, y) => x.title.localeCompare(y.title));
 await fs.writeFile(path.join(outDir, 'catalog.json'), JSON.stringify({
   updatedAt: new Date().toISOString(),
   count: products.length,
   products
 }, null, 2));
 
-console.log(`Synced ${products.length} products with +$${MARKUP} pricing.`);
+console.log(`Synced ${products.length} products with names and +$${MARKUP} pricing.`);
 await browser.close();
