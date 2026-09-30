@@ -12,15 +12,39 @@ const imageDir = path.join(outDir, 'images');
 await fs.mkdir(imageDir, { recursive: true });
 
 const browser = await chromium.launch({ headless: true });
-const page = await browser.newPage({ viewport: { width: 1440, height: 1200 } });
-await page.goto(SOURCE_URL, { waitUntil: 'networkidle', timeout: 90000 });
-await page.waitForTimeout(3000);
+const page = await browser.newPage({
+  viewport: { width: 1440, height: 1200 },
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36',
+  locale: 'en-US'
+});
 
-// Scroll through the public shared view so lazy-loaded cards are rendered.
-for (let i = 0; i < 50; i++) {
-  await page.mouse.wheel(0, 1200);
-  await page.waitForTimeout(250);
+// Airtable keeps background requests open, so networkidle can hang forever.
+await page.goto(SOURCE_URL, { waitUntil: 'domcontentloaded', timeout: 45000 });
+await page.waitForFunction(
+  () => /Quantity\s*Available/i.test(document.body?.innerText || '') || /Tier\s*A1\s*Price/i.test(document.body?.innerText || ''),
+  { timeout: 60000 }
+).catch(() => {});
+await page.waitForTimeout(4000);
+
+// Scroll the largest scrollable containers because Airtable card views often
+// virtualize inside a div rather than using the browser window.
+for (let i = 0; i < 70; i++) {
+  await page.evaluate(() => {
+    const els = [...document.querySelectorAll('*')]
+      .filter(el => {
+        const s = getComputedStyle(el);
+        return /(auto|scroll)/.test(s.overflowY) && el.scrollHeight > el.clientHeight + 100;
+      })
+      .sort((a, b) => b.scrollHeight - a.scrollHeight)
+      .slice(0, 5);
+    for (const el of els) {
+      el.scrollTop = Math.min(el.scrollTop + Math.max(700, el.clientHeight * 0.9), el.scrollHeight);
+    }
+    window.scrollBy(0, 1000);
+  });
+  await page.waitForTimeout(180);
 }
+await page.waitForTimeout(1500);
 
 const rawCards = await page.evaluate(() => {
   const all = [...document.querySelectorAll('body *')];
@@ -33,11 +57,13 @@ const rawCards = await page.evaluate(() => {
     if (!/Tier\s*C1\s*Price/i.test(text)) continue;
     if (!/Quantity\s*Available/i.test(text)) continue;
     if (text.length > 1800) continue;
+
     const childMatch = [...el.children].some(c => {
       const t = (c.innerText || '').trim();
-      return /Tier\s*A1\s*Price/i.test(t) && /Tier\s*B1\s*Price/i.test(t) && /Tier\s*C1\s*Price/i.test(t) && /Quantity\s*Available/i.test(t);
+      return t.length < 1800 && /Tier\s*A1\s*Price/i.test(t) && /Tier\s*B1\s*Price/i.test(t) && /Tier\s*C1\s*Price/i.test(t) && /Quantity\s*Available/i.test(t);
     });
     if (childMatch) continue;
+
     const img = el.querySelector('img');
     cards.push({ text, image: img?.src || null });
   }
@@ -100,8 +126,10 @@ for (const item of unique.values()) {
 }
 
 if (!products.length) {
-  const bodyText = (await page.locator('body').innerText()).slice(0, 5000);
+  const bodyText = (await page.locator('body').innerText()).slice(0, 8000);
+  console.error('PAGE TEXT START');
   console.error(bodyText);
+  console.error('PAGE TEXT END');
   throw new Error('No catalog product cards detected');
 }
 
