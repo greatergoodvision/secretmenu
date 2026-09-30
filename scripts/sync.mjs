@@ -9,6 +9,8 @@ if (!SOURCE_URL) throw new Error('Missing AIRTABLE_SOURCE_URL');
 
 const outDir = path.resolve('public');
 const imageDir = path.join(outDir, 'images');
+await fs.mkdir(outDir, { recursive: true });
+await fs.rm(imageDir, { recursive: true, force: true });
 await fs.mkdir(imageDir, { recursive: true });
 
 const browser = await chromium.launch({ headless: true });
@@ -33,21 +35,37 @@ async function collectVisible() {
     const hasAll = t => marker.test(t) && /Tier\s*A1\s*Price/i.test(t) && /Tier\s*B1\s*Price/i.test(t) && /Tier\s*C1\s*Price/i.test(t);
     const out = [];
 
+    function imageFrom(root) {
+      const img = root.querySelector('img');
+      if (img?.currentSrc?.startsWith('http')) return img.currentSrc;
+      if (img?.src?.startsWith('http')) return img.src;
+
+      const nodes = [root, ...root.querySelectorAll('*')];
+      for (const n of nodes) {
+        const bg = getComputedStyle(n).backgroundImage || '';
+        const m = bg.match(/url\(["']?(https?:\/\/[^"')]+)["']?\)/i);
+        if (m) return m[1];
+      }
+      return null;
+    }
+
     for (const el of [...document.querySelectorAll('body *')]) {
       const base = (el.innerText || '').trim();
       if (!base || !hasAll(base) || base.length > 1800) continue;
 
-      // Start from the smallest field block, then climb until we include the card title/image.
       let node = el;
       let chosen = null;
-      for (let depth = 0; depth < 7 && node; depth++, node = node.parentElement) {
+      for (let depth = 0; depth < 9 && node; depth++, node = node.parentElement) {
         const txt = (node.innerText || '').trim();
-        if (!hasAll(txt) || txt.length > 2600) continue;
+        if (!hasAll(txt) || txt.length > 3000) continue;
         const q = txt.search(marker);
         const prefix = q >= 0 ? txt.slice(0, q).trim() : '';
-        const img = node.querySelector('img');
-        if (prefix && prefix.length <= 400) {
-          chosen = { text: txt, titleHint: prefix.split(/\n+/).map(x => x.trim()).filter(Boolean).join(' '), image: img?.src || null };
+        if (prefix && prefix.length <= 500) {
+          chosen = {
+            text: txt,
+            titleHint: prefix.split(/\n+/).map(x => x.trim()).filter(Boolean).join(' '),
+            image: imageFrom(node)
+          };
           break;
         }
       }
@@ -62,14 +80,13 @@ async function collectVisible() {
 
   for (const c of cards) {
     const key = `${c.titleHint}|${c.text}`;
-    seen.set(key, c);
+    const prior = seen.get(key);
+    if (!prior || (!prior.image && c.image)) seen.set(key, c);
   }
 }
 
-// Capture cards at the top before Airtable virtualizes them away.
 await collectVisible();
 
-// Scroll the main Airtable containers and collect on every step so virtualized cards aren't lost.
 for (let i = 0; i < 90; i++) {
   await page.evaluate(() => {
     const els = [...document.querySelectorAll('*')]
@@ -128,23 +145,26 @@ const byTitle = new Map();
 for (const card of seen.values()) {
   const parsed = parseCard(card);
   if (!parsed.title || parsed.fields.filter(f => f.kind === 'price').length < 3) continue;
-  byTitle.set(parsed.title, parsed);
+  const prior = byTitle.get(parsed.title);
+  if (!prior || (!prior.imageUrl && parsed.imageUrl)) byTitle.set(parsed.title, parsed);
 }
 
 const products = [];
 let idx = 0;
+let imageCount = 0;
 for (const item of byTitle.values()) {
   let image = null;
   if (item.imageUrl?.startsWith('http')) {
     try {
-      const res = await fetch(item.imageUrl);
+      const res = await fetch(item.imageUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
       if (res.ok) {
         const buf = Buffer.from(await res.arrayBuffer());
         const type = res.headers.get('content-type') || '';
-        const ext = type.includes('png') ? '.png' : type.includes('webp') ? '.webp' : '.jpg';
-        const file = crypto.createHash('sha1').update(item.title + idx).digest('hex').slice(0, 16) + ext;
+        const ext = type.includes('png') ? '.png' : type.includes('webp') ? '.webp' : type.includes('gif') ? '.gif' : '.jpg';
+        const file = crypto.createHash('sha1').update(item.title).digest('hex').slice(0, 16) + ext;
         await fs.writeFile(path.join(imageDir, file), buf);
         image = `images/${file}`;
+        imageCount++;
       }
     } catch {}
   }
@@ -164,8 +184,9 @@ products.sort((x, y) => x.title.localeCompare(y.title));
 await fs.writeFile(path.join(outDir, 'catalog.json'), JSON.stringify({
   updatedAt: new Date().toISOString(),
   count: products.length,
+  imageCount,
   products
 }, null, 2));
 
-console.log(`Synced ${products.length} products with names and +$${MARKUP} pricing.`);
+console.log(`Synced ${products.length} products, ${imageCount} images, with +$${MARKUP} pricing.`);
 await browser.close();
