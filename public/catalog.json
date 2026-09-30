@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-30T13:33:36.479Z",
+  "updatedAt": "2026-09-30T14:37:45.098Z",
   "count": 208,
-  "imageCount": 142,
+  "imageCount": 148,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -94,7 +94,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/77a067cef7cc6f82.jpg"
+      "image": "images/77a067cef7cc6f82.png"
     },
     {
       "title": "Animal Funk Small (R1E9-IXB)",
@@ -2016,7 +2016,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/76b5c9fd15c670ca.jpg"
+      "image": "images/76b5c9fd15c670ca.png"
     },
     {
       "title": "E 85 Big (C1H1-IXC)",
@@ -2109,7 +2109,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/aed90e8fd089ac45.jpg"
     },
     {
       "title": "Frosted Cereal Bomb Big (L9E9-IXC)",
@@ -2171,7 +2171,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/5e1245ea65fffc5f.jpg"
+      "image": "images/5e1245ea65fffc5f.png"
     },
     {
       "title": "Galactic Warheads Big (S5M4-IXE)",
@@ -3597,7 +3597,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/2a3d4a5e1abbcc32.jpg"
+      "image": "images/2a3d4a5e1abbcc32.png"
     },
     {
       "title": "LCG Big (R1E9-VIIID)",
@@ -4310,7 +4310,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/2658515db6f91e03.jpg"
+      "image": "images/2658515db6f91e03.png"
     },
     {
       "title": "Nuclear Slurpee Big (R1E9-VIIID)",
@@ -4589,7 +4589,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/82a3eda1545efbe5.jpg"
     },
     {
       "title": "Pineapple Express Big (G8N4-VIIA)",
@@ -4713,7 +4713,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/d2bec707d9edcff4.jpg"
     },
     {
       "title": "Pink Runtz Big (H3S9-IXC)",
@@ -5705,7 +5705,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/fdc730f45c104a47.jpg"
+      "image": "images/fdc730f45c104a47.png"
     },
     {
       "title": "Skywalker OG Big (G8N4-VIIID)",
@@ -6139,7 +6139,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/3ffbd34c00278e6f.jpg"
     },
     {
       "title": "Tropicana Big (C9M5-IXD)",
@@ -6387,7 +6387,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/b3191c9127a2394c.jpg"
     },
     {
       "title": "Zookies Big (L3S4-VIIID)",
@@ -6449,7 +6449,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/e03dfa058cafd416.jpg"
     }
   ]
 }
