@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-30T19:31:10.717Z",
+  "updatedAt": "2026-09-30T20:31:12.948Z",
   "count": 183,
-  "imageCount": 127,
+  "imageCount": 128,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -249,7 +249,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/39c77a7b27e38848.jpg"
     },
     {
       "title": "Archive Runtz Big (E0M4-IXE)",
@@ -1644,7 +1644,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/b1e02714c5d0ec88.jpg"
+      "image": "images/b1e02714c5d0ec88.png"
     },
     {
       "title": "Donny Burger Big (G1E3-VIIIC)",
