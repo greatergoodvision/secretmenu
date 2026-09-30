@@ -2,6 +2,12 @@ name: Sync secret menu
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/**'
+      - 'package.json'
   schedule:
     - cron: '17 * * * *'
 
