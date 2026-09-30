@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-30T18:34:02.692Z",
+  "updatedAt": "2026-09-30T19:31:10.717Z",
   "count": 183,
-  "imageCount": 125,
+  "imageCount": 127,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -590,7 +590,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/071048a34df63cd4.jpg"
+      "image": "images/071048a34df63cd4.png"
     },
     {
       "title": "Black Runtz Small (T8M3-IXE)",
@@ -1799,7 +1799,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/a9f48d81286cfd5d.jpg"
     },
     {
       "title": "Eye Candy Big (G7O4-IXD)",
@@ -3256,7 +3256,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/73eb425640cf1188.jpg"
     },
     {
       "title": "Lemon Mintz Big (T9V3-VIIIC)",
@@ -4558,7 +4558,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/8920b17b83231367.jpg"
+      "image": "images/8920b17b83231367.png"
     },
     {
       "title": "Rainbow Big (G9Y3-VIIE)",
