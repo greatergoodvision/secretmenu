@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-30T12:41:15.145Z",
+  "updatedAt": "2026-09-30T13:33:36.479Z",
   "count": 208,
-  "imageCount": 126,
+  "imageCount": 142,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -63,7 +63,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/fcfe89c805fbc391.jpg"
+      "image": "images/fcfe89c805fbc391.png"
     },
     {
       "title": "Animal Funk Big (R1E9-IXA)",
@@ -156,7 +156,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/be86b2f46abce9f7.jpg"
+      "image": "images/be86b2f46abce9f7.png"
     },
     {
       "title": "Animal Tree Big (T9V3-IXB)",
@@ -404,7 +404,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/ef9133a6bb210c82.jpg"
     },
     {
       "title": "BBG Small (B3A0-IXB)",
@@ -590,7 +590,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/0f2ab9775d04376e.jpg"
+      "image": "images/0f2ab9775d04376e.png"
     },
     {
       "title": "Black Cherry Punch Big (T9V3-VIIIC)",
@@ -745,7 +745,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/071048a34df63cd4.jpg"
+      "image": "images/071048a34df63cd4.png"
     },
     {
       "title": "Blue Andeez Big (S5M4-IXC)",
@@ -1365,7 +1365,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/4a93d397385830f2.jpg"
     },
     {
       "title": "Bubblegum Runtz Big (H3S9-IXC)",
@@ -1830,7 +1830,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/6418d4459ad709eb.jpg"
     },
     {
       "title": "Cream Smoothie Big (G7O4-IXC)",
@@ -1892,7 +1892,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/64db81d010089145.jpg"
     },
     {
       "title": "Crunch Berries Big (T9V3-IXB)",
@@ -2264,7 +2264,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/6918d08ec884d94a.jpg"
     },
     {
       "title": "Garlotti Big (F4L1-VIIIB)",
@@ -2574,7 +2574,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/e911b963ed3eda15.jpg"
+      "image": "images/e911b963ed3eda15.png"
     },
     {
       "title": "Girlscout Cookie Small (G8N4-IXA)",
@@ -2698,7 +2698,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/d20fdf5f37eb5499.jpg"
+      "image": "images/d20fdf5f37eb5499.png"
     },
     {
       "title": "GMO Big (B3M3-VIID)",
@@ -2884,7 +2884,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/003af1afec34e963.jpg"
     },
     {
       "title": "Gush Mintz Small (C9M5-IXB)",
@@ -3194,7 +3194,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/a7cc39a0f48b52af.jpg"
     },
     {
       "title": "Jelly Roll Small (T0E8-IXD)",
@@ -3318,7 +3318,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/0aa158486c72e055.jpg"
     },
     {
       "title": "Jetlato Big (G8Y5-VIIIC)",
@@ -3411,7 +3411,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/bf370a35579f92ad.jpg"
+      "image": "images/bf370a35579f92ad.png"
     },
     {
       "title": "Kept Secret Small (H3S9-IXC)",
@@ -3504,7 +3504,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/71f79474cf22985c.jpg"
+      "image": "images/71f79474cf22985c.png"
     },
     {
       "title": "Larry OG Big (G9Y3-VIIE)",
@@ -3566,7 +3566,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/68c573ac02cf4db6.jpg"
+      "image": "images/68c573ac02cf4db6.png"
     },
     {
       "title": "LCG Big (R1E9-IXD)",
@@ -3597,7 +3597,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/2a3d4a5e1abbcc32.jpg"
     },
     {
       "title": "LCG Big (R1E9-VIIID)",
@@ -3721,7 +3721,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/da6c31692c10181b.jpg"
+      "image": "images/da6c31692c10181b.png"
     },
     {
       "title": "Lemon Cherry Fuel Big (G1E3-IXD)",
@@ -3907,7 +3907,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/7062712725212a29.jpg"
+      "image": "images/7062712725212a29.png"
     },
     {
       "title": "Lipsmackers Big (B3M3-VIIC)",
@@ -4186,7 +4186,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/dec2ed112e9e59fc.jpg"
+      "image": "images/dec2ed112e9e59fc.png"
     },
     {
       "title": "MOB Big (P5T7-VIIID)",
@@ -4217,7 +4217,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/7c0f2562931d17de.jpg"
+      "image": "images/7c0f2562931d17de.png"
     },
     {
       "title": "MOB Small (B3A0-IXB)",
@@ -4341,7 +4341,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/06379d90861ca030.jpg"
+      "image": "images/06379d90861ca030.png"
     },
     {
       "title": "Oakland Runtz Big (M8A0-IXB)",
@@ -4527,7 +4527,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/3c407cf9780e90f0.jpg"
     },
     {
       "title": "Papaya Punch Small (C9M5-IXB)",
@@ -4806,7 +4806,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/6e6215e80ecdca74.jpg"
     },
     {
       "title": "Pink Slurpee Big (H0D7-VIIID)",
@@ -5147,7 +5147,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/8920b17b83231367.jpg"
+      "image": "images/8920b17b83231367.png"
     },
     {
       "title": "Rainbow Big (G9Y3-VIIE)",
@@ -5612,7 +5612,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/e4002add54ebe623.jpg"
+      "image": "images/e4002add54ebe623.png"
     },
     {
       "title": "Sin Mintz Big (G7O4-IXD)",
@@ -5643,7 +5643,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/d98773756b234632.jpg"
     },
     {
       "title": "Skittlez Big (G7O4-IXD)",
@@ -5674,7 +5674,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/cda5a0b2b5e705f9.jpg"
     },
     {
       "title": "Skywalker Big (G7O4-IXC)",
@@ -6170,7 +6170,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/73a90515f89e3eba.jpg"
     },
     {
       "title": "White Runtz Big (G7O4-IXD)",
@@ -6201,7 +6201,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/5791bd6906879ff7.jpg"
     },
     {
       "title": "White Runtz Small (T0E8-IXD)",
@@ -6356,7 +6356,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/5d7ac04e75d252b4.jpg"
     },
     {
       "title": "Zonutz Big (G7O4-IXD)",
