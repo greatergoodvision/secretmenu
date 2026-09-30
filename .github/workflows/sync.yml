@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/**'
+      - 'public/index.html'
       - '.github/workflows/**'
       - 'package.json'
   schedule:
