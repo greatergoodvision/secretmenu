@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Secret Menu</title>
+<style>
+:root{font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#0d0d0f;color:#f5f5f5}*{box-sizing:border-box}body{margin:0;background:#0d0d0f}main{max-width:1180px;margin:auto;padding:32px 18px 60px}.top{display:flex;gap:16px;align-items:end;justify-content:space-between;flex-wrap:wrap;margin-bottom:24px}.eyebrow{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#9c9ca5}.title{font-size:clamp(30px,5vw,54px);font-weight:800;margin:4px 0 0}.sub{color:#aaaab4;margin-top:6px}.search{min-width:min(100%,360px);padding:14px 16px;border:1px solid #303037;border-radius:14px;background:#17171b;color:#fff;font-size:16px;outline:none}.meta{font-size:13px;color:#8d8d96;margin:10px 0 22px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:18px}.card{background:#17171b;border:1px solid #2c2c33;border-radius:18px;overflow:hidden;box-shadow:0 10px 30px rgba(0,0,0,.22)}.photo{width:100%;aspect-ratio:4/3;object-fit:cover;background:#232329;display:block}.placeholder{aspect-ratio:4/3;display:grid;place-items:center;background:#232329;color:#777;font-size:13px}.body{padding:18px}.name{font-size:21px;font-weight:800;margin-bottom:14px}.row{display:flex;justify-content:space-between;gap:16px;padding:9px 0;border-top:1px solid #292930;font-size:14px}.label{color:#a8a8b2}.value{text-align:right;font-weight:650}.row.price .value{font-size:17px;color:#fff}.empty{padding:48px 10px;text-align:center;color:#999}.stamp{display:inline-block;padding:5px 9px;border-radius:999px;background:#222228;border:1px solid #303038}
+</style>
+</head>
+<body>
+<main>
+  <div class="top">
+    <div>
+      <div class="eyebrow">Private catalog</div>
+      <div class="title">Secret Menu</div>
+      <div class="sub">Current availability & pricing</div>
+    </div>
+    <input id="search" class="search" placeholder="Search products..." autocomplete="off" />
+  </div>
+  <div id="meta" class="meta">Loading current catalog…</div>
+  <div id="grid" class="grid"></div>
+</main>
+<script>
+const grid=document.getElementById('grid');const meta=document.getElementById('meta');const search=document.getElementById('search');let products=[];
+function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]))}
+function render(){const q=search.value.trim().toLowerCase();const list=products.filter(p=>!q||JSON.stringify(p).toLowerCase().includes(q));grid.innerHTML=list.length?list.map(p=>`<article class="card">${p.image?`<img class="photo" src="${esc(p.image)}" alt="${esc(p.title)}">`:`<div class="placeholder">Product image</div>`}<div class="body"><div class="name">${esc(p.title)}</div>${(p.fields||[]).map(f=>`<div class="row ${f.kind==='price'?'price':''}"><div class="label">${esc(f.label)}</div><div class="value">${esc(f.value)}</div></div>`).join('')}</div></article>`).join(''):'<div class="empty">No products match your search.</div>'}
+search.addEventListener('input',render);
+fetch('catalog.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('catalog unavailable');return r.json()}).then(d=>{products=d.products||[];const when=d.updatedAt?new Date(d.updatedAt).toLocaleString():'';meta.innerHTML=`<span class="stamp">${products.length} products</span>${when?` &nbsp; Updated ${esc(when)}`:''}`;render()}).catch(()=>{meta.textContent='Catalog is being prepared. Please check back shortly.';grid.innerHTML='<div class="empty">No catalog data yet.</div>'});
+</script>
+</body>
+</html>
