@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-30T16:41:50.316Z",
+  "updatedAt": "2026-09-30T17:31:33.014Z",
   "count": 183,
-  "imageCount": 122,
+  "imageCount": 125,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -280,7 +280,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/79524eb293a7d87f.jpg"
     },
     {
       "title": "Astro Runtz Big (E0M4-IXD)",
@@ -373,7 +373,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/9fe96371f14ed28f.jpg"
+      "image": "images/9fe96371f14ed28f.png"
     },
     {
       "title": "Biscotti Cream Big (G1E3-IXC)",
@@ -2636,7 +2636,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/8456e3df2c6de6c7.jpg"
+      "image": "images/8456e3df2c6de6c7.png"
     },
     {
       "title": "Jealousy Skittlez Big (G7O4-IXD)",
@@ -2791,7 +2791,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/0aa158486c72e055.jpg"
+      "image": "images/0aa158486c72e055.png"
     },
     {
       "title": "Jetlato Big (G8Y5-VIIIC)",
@@ -3194,7 +3194,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/c28965546486faab.jpg"
     },
     {
       "title": "Lemon Fuel Gelato Big (G1E3-IXD)",
@@ -4341,7 +4341,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/c703f2866fea5f44.jpg"
     },
     {
       "title": "Platinum Lemon Gelato Big (F4L1-VIIB)",
