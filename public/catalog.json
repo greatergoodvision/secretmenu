@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-01T21:31:05.752Z",
+  "updatedAt": "2026-10-01T22:35:04.086Z",
   "count": 201,
-  "imageCount": 121,
+  "imageCount": 137,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -63,7 +63,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/fcfe89c805fbc391.jpg"
+      "image": "images/fcfe89c805fbc391.png"
     },
     {
       "title": "Animal Funk Small (R1E9-IXB)",
@@ -280,7 +280,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/7818902882f53e72.jpg"
     },
     {
       "title": "Astro Runtz Big (E0M4-IXD)",
@@ -404,7 +404,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/9fe96371f14ed28f.jpg"
+      "image": "images/9fe96371f14ed28f.png"
     },
     {
       "title": "Biscotti Cream Big (G1E3-IXC)",
@@ -621,7 +621,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/1b6ba8678f55a09a.jpg"
     },
     {
       "title": "Black Magic Med (H3S9-IXD)",
@@ -683,7 +683,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/071048a34df63cd4.jpg"
+      "image": "images/071048a34df63cd4.png"
     },
     {
       "title": "Black Runtz Small (T8M3-IXE)",
@@ -807,7 +807,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/72003f9eebd4b5cc.jpg"
     },
     {
       "title": "Blue Nerdz Big (T0E8-IXE)",
@@ -1179,7 +1179,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/dcbcacdb204e810f.jpg"
     },
     {
       "title": "Bubblegum Runtz Big (H3S9-IXC)",
@@ -1799,7 +1799,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/d4a87196b7a4f859.jpg"
     },
     {
       "title": "Donny Burger Big (G1E3-VIIIC)",
@@ -2078,7 +2078,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/76031ac72fdb5509.jpg"
+      "image": "images/76031ac72fdb5509.png"
     },
     {
       "title": "G41 Big (B3S9-IXE)",
@@ -2109,7 +2109,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/3fb41da2edcbc5dd.jpg"
     },
     {
       "title": "Galactic Warheads Big (S5M4-IXE)",
@@ -2171,7 +2171,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/6918d08ec884d94a.jpg"
+      "image": "images/6918d08ec884d94a.png"
     },
     {
       "title": "Gas Runtz Small (T0S2-IXD)",
@@ -2450,7 +2450,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/e911b963ed3eda15.jpg"
+      "image": "images/e911b963ed3eda15.png"
     },
     {
       "title": "Glitter Bomb Big (B3M3-VIIIC)",
@@ -2543,7 +2543,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/d20fdf5f37eb5499.jpg"
+      "image": "images/d20fdf5f37eb5499.png"
     },
     {
       "title": "GMO Big (B3M3-VIID)",
@@ -2760,7 +2760,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/215796df4ffbd5a8.jpg"
     },
     {
       "title": "Gumbo Big (F3E9-IXE)",
@@ -2791,7 +2791,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/6635b89840c9754a.jpg"
     },
     {
       "title": "Gumbo Mintz Big (G7O4-IXD)",
@@ -3039,7 +3039,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/8456e3df2c6de6c7.jpg"
+      "image": "images/8456e3df2c6de6c7.png"
     },
     {
       "title": "Jealousy Skittlez Big (G7O4-IXD)",
@@ -3256,7 +3256,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/bf370a35579f92ad.jpg"
+      "image": "images/bf370a35579f92ad.png"
     },
     {
       "title": "Kept Secret Small (H3S9-IXC)",
@@ -3380,7 +3380,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/8ad7ef8f60314894.jpg"
+      "image": "images/8ad7ef8f60314894.png"
     },
     {
       "title": "Lava Candy Big (P5T7-VIIID)",
@@ -3411,7 +3411,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/68c573ac02cf4db6.jpg"
+      "image": "images/68c573ac02cf4db6.png"
     },
     {
       "title": "LCG Big (R1E9-VIIID)",
@@ -3690,7 +3690,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/7062712725212a29.jpg"
+      "image": "images/7062712725212a29.png"
     },
     {
       "title": "Lipsmackers Big (B3M3-VIIC)",
@@ -4000,7 +4000,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/7c0f2562931d17de.jpg"
+      "image": "images/7c0f2562931d17de.png"
     },
     {
       "title": "Mob Big (S3M0-IXE)",
@@ -4155,7 +4155,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/06379d90861ca030.jpg"
+      "image": "images/06379d90861ca030.png"
     },
     {
       "title": "OG Big (K3M5-IXE)",
@@ -4372,7 +4372,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/2c8e883d6d0c23d6.jpg"
     },
     {
       "title": "Peanut Butter Breath Big (H3S9-IXD)",
@@ -4434,7 +4434,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/a80479f9be96a012.jpg"
     },
     {
       "title": "Pheno Hunt Big (G7O4-IXD)",
@@ -4589,7 +4589,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/663d08066adcae6b.jpg"
     },
     {
       "title": "Pink Runtz Big (G7O4-IXD)",
@@ -4806,7 +4806,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/cfd3619d05b94812.jpg"
     },
     {
       "title": "Purple Bandz Big (H0D7-IXD)",
@@ -4961,7 +4961,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/8920b17b83231367.jpg"
+      "image": "images/8920b17b83231367.png"
     },
     {
       "title": "Rainbow Big (G9Y3-VIIE)",
@@ -4992,7 +4992,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/3a128f0b5b6e2203.jpg"
+      "image": "images/3a128f0b5b6e2203.png"
     },
     {
       "title": "Rainbow Inferno Big (P1R8-VIIIB)",
@@ -5178,7 +5178,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/8c320c362b14ab6a.jpg"
     },
     {
       "title": "Rocket Pops Big (H3S9-IXE)",
@@ -5209,7 +5209,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/4851986361e8073a.jpg"
     },
     {
       "title": "Runtz Big (H7L6-VIIID)",
@@ -5674,7 +5674,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/0d522d7b8725dd26.jpg"
     },
     {
       "title": "Spash Big (T9V3-VIIC)",
@@ -5984,7 +5984,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/35a9c817bc8ce04b.jpg"
     },
     {
       "title": "White Runtz Big (G7O4-IXD)",
