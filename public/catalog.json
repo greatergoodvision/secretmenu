@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-01T16:31:38.250Z",
+  "updatedAt": "2026-10-01T17:31:48.787Z",
   "count": 201,
-  "imageCount": 115,
+  "imageCount": 121,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -1055,7 +1055,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/e842829cdd427037.jpg"
+      "image": "images/e842829cdd427037.png"
     },
     {
       "title": "Blue Zangria Big (T9V3-VIIC)",
@@ -1520,7 +1520,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/72ff36748f43e022.jpg"
+      "image": "images/72ff36748f43e022.png"
     },
     {
       "title": "Cheetah Piss Big (C1H1-IXC)",
@@ -1706,7 +1706,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/990983e200e2a5e7.jpg"
     },
     {
       "title": "Cream Smoothie Big (G7O4-IXC)",
@@ -2636,7 +2636,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/a8b7e7fdeb16a2c5.jpg"
+      "image": "images/a8b7e7fdeb16a2c5.png"
     },
     {
       "title": "Grape Stomper Big (B3S9-IXE)",
@@ -2698,7 +2698,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/f0ae57d33dcd32bc.jpg"
     },
     {
       "title": "Guava Pie Small (C9M5-IXB)",
@@ -3318,7 +3318,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/dcebccaf1f133756.jpg"
     },
     {
       "title": "Lance Big (M8A0-IXB)",
@@ -3473,7 +3473,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/4a9df6f7a7fb1862.jpg"
+      "image": "images/4a9df6f7a7fb1862.png"
     },
     {
       "title": "Lemon Cherry Gas Big (E0M4-IXE)",
@@ -3938,7 +3938,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/a588fff63cf1e25b.jpg"
     },
     {
       "title": "MOB Big (P5T7-IXB)",
@@ -4062,7 +4062,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/bf4a700770d3c463.jpg"
     },
     {
       "title": "Modified Sunset Big (H7N4-IXD)",
@@ -4124,7 +4124,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/e116d0f315510c4c.jpg"
     },
     {
       "title": "Nuclear Slurpee Big (R1E9-VIIID)",
@@ -4651,7 +4651,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/2a42306a98cf795d.jpg"
+      "image": "images/2a42306a98cf795d.png"
     },
     {
       "title": "Pink Runtz Big (T6U9-IXD)",
@@ -5240,7 +5240,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/9e28b5b3e46fdea0.jpg"
+      "image": "images/9e28b5b3e46fdea0.png"
     },
     {
       "title": "Runtz Big (T0E8-IXD)",
