@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-02T20:30:11.146Z",
+  "updatedAt": "2026-10-02T21:30:54.282Z",
   "count": 232,
-  "imageCount": 130,
+  "imageCount": 145,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -125,7 +125,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/be86b2f46abce9f7.jpg"
+      "image": "images/be86b2f46abce9f7.png"
     },
     {
       "title": "Animal Tree Big (T9V3-VIID)",
@@ -242,14 +242,9 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$1,275",
           "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/35b2df42a8716c07.jpg"
     },
     {
       "title": "Astro Candy Big (H3S9-IXE)",
@@ -497,7 +492,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/9349c600188d1077.jpg"
     },
     {
       "title": "Black Amber Big (G7O4-IXE)",
@@ -559,7 +554,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/0f2ab9775d04376e.jpg"
+      "image": "images/0f2ab9775d04376e.png"
     },
     {
       "title": "Black Ice Big (L4Y2-IXE)",
@@ -1117,7 +1112,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/acd0a6922ff065b7.jpg"
     },
     {
       "title": "Bubble Blaster Big (T9V3-IXB)",
@@ -1241,7 +1236,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/f1dd569aba4fd611.jpg"
     },
     {
       "title": "Bubblegum Runtz Big (E0M4-XA)",
@@ -1327,11 +1322,6 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$750",
           "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
         }
       ],
       "image": null
@@ -1358,14 +1348,9 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$700",
           "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/1cfbc036b9492567.jpg"
     },
     {
       "title": "Candy Breath Big (L4Y2-IXE)",
@@ -1730,14 +1715,9 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$1,300",
           "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/48d8dc75ee886d77.jpg"
     },
     {
       "title": "Candyland Big (L4Y2-XA)",
@@ -2140,7 +2120,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/b0721185c3d1d5c4.jpg"
     },
     {
       "title": "Donny Burger Big (G1E3-VIIIC)",
@@ -2233,7 +2213,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/76b5c9fd15c670ca.jpg"
+      "image": "images/76b5c9fd15c670ca.png"
     },
     {
       "title": "Double Runtz Big (T0E8-IXE)",
@@ -2388,7 +2368,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/76031ac72fdb5509.jpg"
+      "image": "images/76031ac72fdb5509.png"
     },
     {
       "title": "G41 Big (B3S9-IXE)",
@@ -2450,7 +2430,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/6784d83cbff18892.jpg"
     },
     {
       "title": "Garcia Runtz Big (R1E9-IXD)",
@@ -2481,7 +2461,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/6918d08ec884d94a.jpg"
+      "image": "images/6918d08ec884d94a.png"
     },
     {
       "title": "Gas Runtz Small (T0S2-IXD)",
@@ -2505,11 +2485,6 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$750",
           "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
         }
       ],
       "image": null
@@ -2760,7 +2735,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/328ed72bd906be95.jpg"
     },
     {
       "title": "Gelonade Big (G7O4-IXE)",
@@ -2853,7 +2828,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/e911b963ed3eda15.jpg"
+      "image": "images/e911b963ed3eda15.png"
     },
     {
       "title": "Glitter Bomb Big (B3M3-VIIIC)",
@@ -2946,7 +2921,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/d20fdf5f37eb5499.jpg"
+      "image": "images/d20fdf5f37eb5499.png"
     },
     {
       "title": "Glue Dawg Big (G1E3-IXE)",
@@ -2977,7 +2952,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/ae56c49765ba16e5.jpg"
     },
     {
       "title": "GMO Big (B3M3-VIID)",
@@ -3621,11 +3596,6 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$725",
           "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
         }
       ],
       "image": "images/b4c53242053b54ee.jpg"
@@ -3659,7 +3629,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/bf370a35579f92ad.jpg"
+      "image": "images/bf370a35579f92ad.png"
     },
     {
       "title": "Kept Secret Small (H3S9-IXC)",
@@ -3814,7 +3784,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/68c573ac02cf4db6.jpg"
+      "image": "images/68c573ac02cf4db6.png"
     },
     {
       "title": "LCG Big (H0D7-XA)",
@@ -3838,14 +3808,9 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$1,300",
           "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/2d7d6ee9dbf9dd5d.jpg"
     },
     {
       "title": "LCG Big (R1E9-VIIID)",
@@ -3969,7 +3934,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/c28965546486faab.jpg"
+      "image": "images/c28965546486faab.png"
     },
     {
       "title": "Lemon Fuel Gelato Big (G1E3-IXD)",
@@ -4124,7 +4089,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/25fa17552085ad71.jpg"
     },
     {
       "title": "LFG Big (P5T7-IXB)",
@@ -4217,7 +4182,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/7062712725212a29.jpg"
+      "image": "images/7062712725212a29.png"
     },
     {
       "title": "Lipsmackers Big (B3M3-VIIC)",
@@ -4496,7 +4461,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/dec2ed112e9e59fc.jpg"
+      "image": "images/dec2ed112e9e59fc.png"
     },
     {
       "title": "MOB Big (P5T7-VIIID)",
@@ -4527,7 +4492,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/7c0f2562931d17de.jpg"
+      "image": "images/7c0f2562931d17de.png"
     },
     {
       "title": "Mob Big (S3M0-IXE)",
@@ -4613,11 +4578,6 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$650",
           "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
         }
       ],
       "image": "images/d99148cdc841986b.jpg"
@@ -4806,7 +4766,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/681616c19ea03354.jpg"
+      "image": "images/681616c19ea03354.png"
     },
     {
       "title": "Papaya Punch Big (C9M5-IXD)",
@@ -6077,7 +6037,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/2d6f3b7d565161e4.jpg"
     },
     {
       "title": "Sin Mintz Big (G7O4-IXD)",
@@ -6418,7 +6378,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/7739232a0cf0c8ef.jpg"
     },
     {
       "title": "Street Tarts Small (H4E1-VIIIB)",
@@ -6511,7 +6471,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/0e348b1fce093c47.jpg"
     },
     {
       "title": "Sunday Driver Big (D9G4-IXE)",
@@ -7162,7 +7122,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/e03dfa058cafd416.jpg"
+      "image": "images/e03dfa058cafd416.png"
     },
     {
       "title": "Zumbo Big (G7O4-IXE)",
