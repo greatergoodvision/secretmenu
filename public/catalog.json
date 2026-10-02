@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T21:30:54.282Z",
+  "updatedAt": "2026-10-02T22:29:56.527Z",
   "count": 232,
   "imageCount": 145,
   "products": [
@@ -242,6 +242,11 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$1,275",
           "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Premium Exotic",
+          "kind": "text"
         }
       ],
       "image": "images/35b2df42a8716c07.jpg"
@@ -1322,6 +1327,11 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$750",
           "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Standard",
+          "kind": "text"
         }
       ],
       "image": null
@@ -1348,6 +1358,11 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$700",
           "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Standard",
+          "kind": "text"
         }
       ],
       "image": "images/1cfbc036b9492567.jpg"
@@ -1715,6 +1730,11 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$1,300",
           "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Premium Exotic",
+          "kind": "text"
         }
       ],
       "image": "images/48d8dc75ee886d77.jpg"
@@ -2485,6 +2505,11 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$750",
           "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Exotic",
+          "kind": "text"
         }
       ],
       "image": null
@@ -3596,6 +3621,11 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$725",
           "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Standard",
+          "kind": "text"
         }
       ],
       "image": "images/b4c53242053b54ee.jpg"
@@ -3808,6 +3838,11 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$1,300",
           "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Premium Exotic",
+          "kind": "text"
         }
       ],
       "image": "images/2d7d6ee9dbf9dd5d.jpg"
@@ -4578,6 +4613,11 @@
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$650",
           "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Standard",
+          "kind": "text"
         }
       ],
       "image": "images/d99148cdc841986b.jpg"
