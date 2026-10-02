@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T13:34:39.689Z",
+  "updatedAt": "2026-10-02T14:34:11.571Z",
   "count": 201,
   "imageCount": 137,
   "products": [
@@ -2550,7 +2550,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "27.0",
+          "value": "26.0",
           "kind": "text"
         },
         {
@@ -3325,7 +3325,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "7.0",
+          "value": "5.0",
           "kind": "text"
         },
         {
@@ -3349,7 +3349,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/71f79474cf22985c.jpg"
+      "image": "images/71f79474cf22985c.png"
     },
     {
       "title": "Larry OG Big (G9Y3-VIIE)",
@@ -4000,7 +4000,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/7c0f2562931d17de.png"
+      "image": "images/7c0f2562931d17de.jpg"
     },
     {
       "title": "Mob Big (S3M0-IXE)",
@@ -4193,7 +4193,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "25.0",
+          "value": "24.0",
           "kind": "text"
         },
         {
@@ -4224,7 +4224,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "15.0",
+          "value": "14.0",
           "kind": "text"
         },
         {
@@ -5526,7 +5526,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "11.0",
+          "value": "10.0",
           "kind": "text"
         },
         {
@@ -5681,7 +5681,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "16.0",
+          "value": "15.0",
           "kind": "text"
         },
         {
