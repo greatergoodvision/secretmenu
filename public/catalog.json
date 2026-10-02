@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-02T15:34:01.465Z",
-  "count": 235,
-  "imageCount": 133,
+  "updatedAt": "2026-10-02T16:32:23.967Z",
+  "count": 232,
+  "imageCount": 130,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -2329,37 +2329,6 @@
       "image": "images/99e1a49d15b1f4e6.jpg"
     },
     {
-      "title": "English Tea Big (B5T1-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "116.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$400",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$350",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$325",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Lows",
-          "kind": "text"
-        }
-      ],
-      "image": "images/a9f48d81286cfd5d.jpg"
-    },
-    {
       "title": "Frosted Cereal Bomb Big (L9E9-IXC)",
       "fields": [
         {
@@ -2512,7 +2481,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/6918d08ec884d94a.png"
+      "image": "images/6918d08ec884d94a.jpg"
     },
     {
       "title": "Gas Runtz Small (T0S2-IXD)",
@@ -2977,7 +2946,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/d20fdf5f37eb5499.png"
+      "image": "images/d20fdf5f37eb5499.jpg"
     },
     {
       "title": "Glue Dawg Big (G1E3-IXE)",
@@ -3133,37 +3102,6 @@
         }
       ],
       "image": null
-    },
-    {
-      "title": "Grease Monkey Big (B5T1-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "116.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$400",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$350",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$325",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Lows",
-          "kind": "text"
-        }
-      ],
-      "image": "images/f0ae57d33dcd32bc.jpg"
     },
     {
       "title": "Guava Pie Small (C9M5-IXB)",
@@ -3876,7 +3814,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/68c573ac02cf4db6.png"
+      "image": "images/68c573ac02cf4db6.jpg"
     },
     {
       "title": "LCG Big (H0D7-XA)",
@@ -4683,37 +4621,6 @@
         }
       ],
       "image": "images/d99148cdc841986b.jpg"
-    },
-    {
-      "title": "Motor Head Big (B5T1-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "114.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$400",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$350",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$325",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Lows",
-          "kind": "text"
-        }
-      ],
-      "image": "images/e116d0f315510c4c.jpg"
     },
     {
       "title": "Nuclear Slurpee Big (R1E9-VIIID)",
