@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-04T02:40:19.713Z",
-  "count": 232,
-  "imageCount": 145,
+  "updatedAt": "2026-10-04T05:20:11.020Z",
+  "count": 229,
+  "imageCount": 142,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -95,37 +95,6 @@
         }
       ],
       "image": null
-    },
-    {
-      "title": "Animal Tree Big (P1R8-VIIA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "7.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,250",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,200",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/be86b2f46abce9f7.png"
     },
     {
       "title": "Animal Tree Big (T9V3-VIID)",
@@ -374,37 +343,6 @@
         }
       ],
       "image": null
-    },
-    {
-      "title": "Biscotti Big (G8N4-VIIA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/9fe96371f14ed28f.png"
     },
     {
       "title": "Biscotti Cream Big (G1E3-IXC)",
@@ -4995,37 +4933,6 @@
       "image": "images/82a3eda1545efbe5.jpg"
     },
     {
-      "title": "Pineapple Express Big (G8N4-VIIA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "44.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/d3a87199a0a6eda7.jpg"
-    },
-    {
       "title": "Pineapple Express Big (G8N4-VIIB)",
       "fields": [
         {
@@ -7162,7 +7069,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/e03dfa058cafd416.png"
+      "image": "images/e03dfa058cafd416.jpg"
     },
     {
       "title": "Zumbo Big (G7O4-IXE)",
