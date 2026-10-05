@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-05T17:31:37.648Z",
+  "updatedAt": "2026-10-05T21:33:00.522Z",
   "count": 251,
-  "imageCount": 141,
+  "imageCount": 152,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -311,7 +311,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/51e9b56fbcaf3b13.jpg"
     },
     {
       "title": "Banjo Small (H4E1-XA)",
@@ -1179,7 +1179,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/d9bab05645be4027.jpg"
+      "image": "images/d9bab05645be4027.png"
     },
     {
       "title": "Bubble Blaster Big (T9V3-VIIIE)",
@@ -1272,7 +1272,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/6d71251a3b0d7ee6.jpg"
     },
     {
       "title": "Bubblegum Runtz Big (H3S9-IXC)",
@@ -1303,7 +1303,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/e52a5e4035ef7fc5.jpg"
+      "image": "images/e52a5e4035ef7fc5.png"
     },
     {
       "title": "BX1 Big (T5S4-XA)",
@@ -2326,7 +2326,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/76b5c9fd15c670ca.jpg"
+      "image": "images/76b5c9fd15c670ca.png"
     },
     {
       "title": "Double Runtz Big (T0E8-IXE)",
@@ -2481,7 +2481,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/9a2dca89897e21dc.jpg"
+      "image": "images/9a2dca89897e21dc.png"
     },
     {
       "title": "Frosted Cereal Bomb Big (R1E9-IXC)",
@@ -2853,7 +2853,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/8e3440fed19ae3ef.jpg"
+      "image": "images/8e3440fed19ae3ef.png"
     },
     {
       "title": "Gelato Candy Big (L4Y2-XA)",
@@ -3380,7 +3380,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/96c4a39408023665.jpg"
     },
     {
       "title": "GSC Small (H4E1-XA)",
@@ -3411,7 +3411,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/ba2b62f0ff995321.jpg"
     },
     {
       "title": "Guava Pie Small (C9M5-IXB)",
@@ -3473,7 +3473,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/215796df4ffbd5a8.jpg"
+      "image": "images/215796df4ffbd5a8.png"
     },
     {
       "title": "Gumbo Big (G7O4-IXE)",
@@ -4837,7 +4837,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/dec2ed112e9e59fc.jpg"
+      "image": "images/dec2ed112e9e59fc.png"
     },
     {
       "title": "MOB Big (P5T7-VIIID)",
@@ -4868,7 +4868,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/7c0f2562931d17de.jpg"
+      "image": "images/7c0f2562931d17de.png"
     },
     {
       "title": "Mob Big (S3M0-IXE)",
@@ -5023,7 +5023,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/9f2bf42cb1842269.jpg"
     },
     {
       "title": "Nuclear Slurpee Big (R1E9-VIIID)",
@@ -5178,7 +5178,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/681616c19ea03354.jpg"
+      "image": "images/681616c19ea03354.png"
     },
     {
       "title": "Papaya Punch Big (C9M5-IXD)",
@@ -5395,7 +5395,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/41d1fc366bf91ac1.jpg"
     },
     {
       "title": "Permanent Marker Small (H4E1-XA)",
@@ -5426,7 +5426,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/26c696869af438f6.jpg"
     },
     {
       "title": "Pheno Hunt Big (G7O4-IXD)",
@@ -6356,7 +6356,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/c5babec6cdb938fb.jpg"
+      "image": "images/c5babec6cdb938fb.png"
     },
     {
       "title": "SA-F Big (M8A0-IXD)",
@@ -6697,7 +6697,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/524f3f80a592c45a.jpg"
     },
     {
       "title": "Sour Nerdz Big (T0E8-IXE)",
@@ -6883,7 +6883,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/9cc59628a28a00c5.jpg"
     },
     {
       "title": "Street Guru Small (H4E1-XA)",
@@ -6976,7 +6976,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/daa242200f07e2c2.jpg"
     },
     {
       "title": "Sugar .DONUTS Big (T6U9-VIIIC)",
@@ -7100,7 +7100,7 @@
           "kind": "text"
         }
       ],
-      "image": null
+      "image": "images/92cabc7cd01a5592.jpg"
     },
     {
       "title": "Toad V Big (F6Y9-VIIIE)",
@@ -7751,7 +7751,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/e03dfa058cafd416.jpg"
+      "image": "images/e03dfa058cafd416.png"
     },
     {
       "title": "Zumbo Big (G7O4-IXE)",
