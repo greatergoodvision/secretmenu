@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-05T13:37:42.550Z",
-  "count": 229,
-  "imageCount": 142,
+  "updatedAt": "2026-10-05T14:37:17.245Z",
+  "count": 251,
+  "imageCount": 141,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -97,37 +97,6 @@
       "image": null
     },
     {
-      "title": "Animal Tree Big (T9V3-VIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/f3e8b1dcabec89e7.png"
-    },
-    {
       "title": "Archive Runtz Big (E0M4-IXC)",
       "fields": [
         {
@@ -163,7 +132,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "15.0",
+          "value": "13.0",
           "kind": "text"
         },
         {
@@ -194,7 +163,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "18.0",
+          "value": "17.0",
           "kind": "text"
         },
         {
@@ -225,7 +194,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "39.0",
+          "value": "17.0",
           "kind": "text"
         },
         {
@@ -277,6 +246,99 @@
         {
           "label": "Quality",
           "value": "AAA Premium Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
+      "title": "Banjo Big (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "9.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$800",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$725",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$700",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Standard",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
+      "title": "Banjo Med (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "16.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$700",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$650",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$625",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Premium",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
+      "title": "Banjo Small (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "6.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$675",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$625",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$600",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Premium",
           "kind": "text"
         }
       ],
@@ -473,7 +535,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "7.0",
+          "value": "6.0",
           "kind": "text"
         },
         {
@@ -535,7 +597,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "40.0",
+          "value": "38.0",
           "kind": "text"
         },
         {
@@ -748,6 +810,37 @@
       "image": null
     },
     {
+      "title": "Blue Nerdz Big (T5S4-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "17.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$1,300",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$1,250",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$1,200",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
       "title": "Blue Sharpie Big (L3S4-VIIID)",
       "fields": [
         {
@@ -845,7 +938,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "7.0",
+          "value": "27.0",
           "kind": "text"
         },
         {
@@ -969,7 +1062,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "15.0",
+          "value": "5.0",
           "kind": "text"
         },
         {
@@ -1031,7 +1124,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "29.0",
+          "value": "26.0",
           "kind": "text"
         },
         {
@@ -1118,37 +1211,6 @@
         }
       ],
       "image": null
-    },
-    {
-      "title": "Bubble Gum Pop Big (F3E9-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "9.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,575",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,550",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,500",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/dcbcacdb204e810f.jpg"
     },
     {
       "title": "Bubblegum Runtz Big (C5P5-XA)",
@@ -1244,6 +1306,37 @@
       "image": "images/e52a5e4035ef7fc5.jpg"
     },
     {
+      "title": "BX1 Big (T5S4-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "21.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$1,300",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$1,250",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$1,200",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
       "title": "Cake Up Candy Big (G1E3-IXD)",
       "fields": [
         {
@@ -1279,7 +1372,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "19.0",
+          "value": "15.0",
           "kind": "text"
         },
         {
@@ -1341,7 +1434,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "10.0",
+          "value": "9.0",
           "kind": "text"
         },
         {
@@ -1403,7 +1496,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "6.0",
+          "value": "5.0",
           "kind": "text"
         },
         {
@@ -1434,7 +1527,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "33.0",
+          "value": "27.0",
           "kind": "text"
         },
         {
@@ -1517,6 +1610,37 @@
         {
           "label": "Quality",
           "value": "AAA Premium Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
+      "title": "Candy Gumbo Big (T5S4-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "8.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$1,300",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$1,250",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$1,200",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Exotic",
           "kind": "text"
         }
       ],
@@ -1740,6 +1864,37 @@
       "image": null
     },
     {
+      "title": "Cherry Bomb Big (T6U9-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "12.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$1,300",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$1,250",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$1,200",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
       "title": "Cherry Cream Float Big (T9V3-IXB)",
       "fields": [
         {
@@ -1868,7 +2023,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "11.0",
+          "value": "5.0",
           "kind": "text"
         },
         {
@@ -1892,14 +2047,14 @@
           "kind": "text"
         }
       ],
-      "image": "images/990983e200e2a5e7.jpg"
+      "image": "images/990983e200e2a5e7.png"
     },
     {
       "title": "Cherry Slushie Big (E0M4-XA)",
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "10.0",
+          "value": "8.0",
           "kind": "text"
         },
         {
@@ -2054,7 +2209,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "49.0",
+          "value": "45.0",
           "kind": "text"
         },
         {
@@ -2171,14 +2326,14 @@
           "kind": "text"
         }
       ],
-      "image": "images/76b5c9fd15c670ca.png"
+      "image": "images/76b5c9fd15c670ca.jpg"
     },
     {
       "title": "Double Runtz Big (T0E8-IXE)",
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "34.0",
+          "value": "28.0",
           "kind": "text"
         },
         {
@@ -2199,37 +2354,6 @@
         {
           "label": "Quality",
           "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": null
-    },
-    {
-      "title": "E 85 Big (C1H1-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "24.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$850",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
           "kind": "text"
         }
       ],
@@ -2265,6 +2389,68 @@
         }
       ],
       "image": "images/99e1a49d15b1f4e6.jpg"
+    },
+    {
+      "title": "E85 Big (G1E3-IXC)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "22.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$825",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$750",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$725",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Standard",
+          "kind": "text"
+        }
+      ],
+      "image": "images/a8f525c24bbed0ea.jpg"
+    },
+    {
+      "title": "Elektra Ice Big (H3S9-IXC)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "28.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$800",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$725",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$700",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Standard",
+          "kind": "text"
+        }
+      ],
+      "image": "images/8a17ba3fe737a99c.jpg"
     },
     {
       "title": "Frosted Cereal Bomb Big (L9E9-IXC)",
@@ -2327,6 +2513,37 @@
         }
       ],
       "image": "images/76031ac72fdb5509.png"
+    },
+    {
+      "title": "Frosted Cherry Big (T5S4-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "17.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$1,300",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$1,250",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$1,200",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": null
     },
     {
       "title": "G41 Big (B3S9-IXE)",
@@ -2422,6 +2639,37 @@
       "image": "images/6918d08ec884d94a.png"
     },
     {
+      "title": "Gary Payton Big (T6U9-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "12.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$1,300",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$1,250",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$1,200",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
       "title": "Gas Runtz Small (T0S2-IXD)",
       "fields": [
         {
@@ -2442,6 +2690,37 @@
         {
           "label": "Tier C1 Price (50+ lbs)",
           "value": "$750",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
+      "title": "Gator Breath Big (J5M7-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "9.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$1,350",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$1,300",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$1,250",
           "kind": "price"
         },
         {
@@ -2488,7 +2767,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "12.0",
+          "value": "11.0",
           "kind": "text"
         },
         {
@@ -2608,6 +2887,37 @@
       "image": null
     },
     {
+      "title": "Gelato Kush Mintz Big (G1E3-IXC)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "22.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$825",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$750",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$725",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Standard",
+          "kind": "text"
+        }
+      ],
+      "image": "images/a013e4c62e2c48d6.jpg"
+    },
+    {
       "title": "Gelato Lights Big (H1S1-VIIC)",
       "fields": [
         {
@@ -2674,7 +2984,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "28.0",
+          "value": "27.0",
           "kind": "text"
         },
         {
@@ -2922,7 +3232,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "26.0",
+          "value": "23.0",
           "kind": "text"
         },
         {
@@ -3042,6 +3352,68 @@
       "image": null
     },
     {
+      "title": "GSC Med (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "31.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$700",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$650",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$625",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Premium",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
+      "title": "GSC Small (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "13.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$650",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$600",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$575",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Premium",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
       "title": "Guava Pie Small (C9M5-IXB)",
       "fields": [
         {
@@ -3077,7 +3449,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "8.0",
+          "value": "7.0",
           "kind": "text"
         },
         {
@@ -3102,37 +3474,6 @@
         }
       ],
       "image": "images/215796df4ffbd5a8.jpg"
-    },
-    {
-      "title": "Gumbo Big (F3E9-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "14.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,575",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,550",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,500",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/6635b89840c9754a.jpg"
     },
     {
       "title": "Gumbo Big (G7O4-IXE)",
@@ -3352,6 +3693,37 @@
       "image": "images/177649f2417d3702.jpg"
     },
     {
+      "title": "Illemonati Small (H3S9-IXC)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "5.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$650",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$600",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$575",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Premium",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
       "title": "Illuminate Big (G9Y3-VIIE)",
       "fields": [
         {
@@ -3418,7 +3790,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "7.0",
+          "value": "6.0",
           "kind": "text"
         },
         {
@@ -3442,7 +3814,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/a7cc39a0f48b52af.jpg"
+      "image": "images/a7cc39a0f48b52af.png"
     },
     {
       "title": "Jelly Roll Small (T0E8-IXD)",
@@ -3604,7 +3976,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "16.0",
+          "value": "15.0",
           "kind": "text"
         },
         {
@@ -3635,7 +4007,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "13.0",
+          "value": "12.0",
           "kind": "text"
         },
         {
@@ -3879,35 +4251,35 @@
       "image": "images/4a9df6f7a7fb1862.png"
     },
     {
-      "title": "Lemon Cherry Gas Big (E0M4-IXE)",
+      "title": "Lemon Cherry Fuel Big (G1E3-IXC)",
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "6.0",
+          "value": "18.0",
           "kind": "text"
         },
         {
           "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,350",
+          "value": "$850",
           "kind": "price"
         },
         {
           "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,325",
+          "value": "$775",
           "kind": "price"
         },
         {
           "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,275",
+          "value": "$750",
           "kind": "price"
         },
         {
           "label": "Quality",
-          "value": "AAA Premium Exotic",
+          "value": "Standard",
           "kind": "text"
         }
       ],
-      "image": "images/c28965546486faab.png"
+      "image": null
     },
     {
       "title": "Lemon Fuel Gelato Big (G1E3-IXD)",
@@ -4100,7 +4472,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "7.0",
+          "value": "5.0",
           "kind": "text"
         },
         {
@@ -4255,7 +4627,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "9.0",
+          "value": "8.0",
           "kind": "text"
         },
         {
@@ -4280,6 +4652,37 @@
         }
       ],
       "image": "images/8bc21ecdc9e21ab7.jpg"
+    },
+    {
+      "title": "Mimosa Big (J5M7-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "18.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$1,375",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$1,350",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$1,300",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Premium Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": null
     },
     {
       "title": "Mircale Mochi Runtz Big (S1B7-IXE)",
@@ -4434,7 +4837,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/dec2ed112e9e59fc.png"
+      "image": "images/dec2ed112e9e59fc.jpg"
     },
     {
       "title": "MOB Big (P5T7-VIIID)",
@@ -4465,7 +4868,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/7c0f2562931d17de.png"
+      "image": "images/7c0f2562931d17de.jpg"
     },
     {
       "title": "Mob Big (S3M0-IXE)",
@@ -4534,7 +4937,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "18.0",
+          "value": "17.0",
           "kind": "text"
         },
         {
@@ -4559,6 +4962,68 @@
         }
       ],
       "image": "images/d99148cdc841986b.jpg"
+    },
+    {
+      "title": "NF1 Big (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "25.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$800",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$725",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$700",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Standard",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
+      "title": "NF1 Med (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "35.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$700",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$650",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$625",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Premium",
+          "kind": "text"
+        }
+      ],
+      "image": null
     },
     {
       "title": "Nuclear Slurpee Big (R1E9-VIIID)",
@@ -4590,37 +5055,6 @@
         }
       ],
       "image": "images/06379d90861ca030.png"
-    },
-    {
-      "title": "OG Big (K3M5-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "10.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,525",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,500",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,450",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": null
     },
     {
       "title": "Oreoz Big (H1S1-VIIC)",
@@ -4744,14 +5178,14 @@
           "kind": "text"
         }
       ],
-      "image": "images/681616c19ea03354.png"
+      "image": "images/681616c19ea03354.jpg"
     },
     {
       "title": "Papaya Punch Big (C9M5-IXD)",
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "22.0",
+          "value": "19.0",
           "kind": "text"
         },
         {
@@ -4844,7 +5278,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "10.0",
+          "value": "9.0",
           "kind": "text"
         },
         {
@@ -4896,6 +5330,99 @@
         {
           "label": "Quality",
           "value": "AAA Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
+      "title": "Permanent Marker Big (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "23.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$825",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$750",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$725",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Standard",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
+      "title": "Permanent Marker Med (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "24.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$725",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$675",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$650",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Premium",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
+      "title": "Permanent Marker Small (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "9.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$675",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$625",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$600",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Premium",
           "kind": "text"
         }
       ],
@@ -4968,7 +5495,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "7.0",
+          "value": "6.0",
           "kind": "text"
         },
         {
@@ -4992,14 +5519,14 @@
           "kind": "text"
         }
       ],
-      "image": "images/4a0d2a39e0f3b6be.jpg"
+      "image": "images/4a0d2a39e0f3b6be.png"
     },
     {
       "title": "Pink Runtz Big (G7O4-IXD)",
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "15.0",
+          "value": "14.0",
           "kind": "text"
         },
         {
@@ -5216,7 +5743,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "14.0",
+          "value": "13.0",
           "kind": "text"
         },
         {
@@ -5247,7 +5774,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "27.0",
+          "value": "17.0",
           "kind": "text"
         },
         {
@@ -5340,7 +5867,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "14.0",
+          "value": "13.0",
           "kind": "text"
         },
         {
@@ -5433,7 +5960,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "25.0",
+          "value": "24.0",
           "kind": "text"
         },
         {
@@ -5588,7 +6115,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "55.0",
+          "value": "44.0",
           "kind": "text"
         },
         {
@@ -5681,7 +6208,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "20.0",
+          "value": "19.0",
           "kind": "text"
         },
         {
@@ -5712,7 +6239,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "44.0",
+          "value": "42.0",
           "kind": "text"
         },
         {
@@ -5743,7 +6270,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "16.0",
+          "value": "14.0",
           "kind": "text"
         },
         {
@@ -5960,7 +6487,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "50.0",
+          "value": "48.0",
           "kind": "text"
         },
         {
@@ -5991,7 +6518,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "12.0",
+          "value": "8.0",
           "kind": "text"
         },
         {
@@ -6022,7 +6549,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "25.0",
+          "value": "24.0",
           "kind": "text"
         },
         {
@@ -6053,7 +6580,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "7.0",
+          "value": "6.0",
           "kind": "text"
         },
         {
@@ -6077,7 +6604,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/fdc730f45c104a47.jpg"
+      "image": "images/fdc730f45c104a47.png"
     },
     {
       "title": "Skywalker OG Big (G8N4-VIIID)",
@@ -6115,7 +6642,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "10.0",
+          "value": "9.0",
           "kind": "text"
         },
         {
@@ -6177,7 +6704,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "36.0",
+          "value": "30.0",
           "kind": "text"
         },
         {
@@ -6239,7 +6766,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "39.0",
+          "value": "34.0",
           "kind": "text"
         },
         {
@@ -6328,6 +6855,68 @@
       "image": "images/7739232a0cf0c8ef.jpg"
     },
     {
+      "title": "Street Guru Med (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "25.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$700",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$650",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$625",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Premium",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
+      "title": "Street Guru Small (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "10.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$675",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$625",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$600",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Premium",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
       "title": "Street Tarts Small (H4E1-VIIIB)",
       "fields": [
         {
@@ -6357,6 +6946,37 @@
         }
       ],
       "image": "images/63a6eba97606bb18.jpg"
+    },
+    {
+      "title": "Street Tarts Small (H4E1-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "12.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$650",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$600",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$575",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "Premium",
+          "kind": "text"
+        }
+      ],
+      "image": null
     },
     {
       "title": "Sugar .DONUTS Big (T6U9-VIIIC)",
@@ -6518,7 +7138,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "21.0",
+          "value": "20.0",
           "kind": "text"
         },
         {
@@ -6576,11 +7196,42 @@
       "image": null
     },
     {
+      "title": "Tripple Dip Big (J5M7-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "9.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$1,350",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$1,300",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$1,250",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": null
+    },
+    {
       "title": "Tropicana Big (C9M5-IXD)",
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "20.0",
+          "value": "18.0",
           "kind": "text"
         },
         {
@@ -6642,7 +7293,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "7.0",
+          "value": "6.0",
           "kind": "text"
         },
         {
@@ -6666,7 +7317,38 @@
           "kind": "text"
         }
       ],
-      "image": "images/4efde6f3e5484780.jpg"
+      "image": "images/4efde6f3e5484780.png"
+    },
+    {
+      "title": "Warheadz Big (T5S4-XA)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "49.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$1,300",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$1,250",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$1,200",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": null
     },
     {
       "title": "Wawa Big (D9G4-IXE)",
@@ -6766,7 +7448,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "24.0",
+          "value": "23.0",
           "kind": "text"
         },
         {
@@ -6890,7 +7572,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "8.0",
+          "value": "7.0",
           "kind": "text"
         },
         {
@@ -6952,7 +7634,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "13.0",
+          "value": "12.0",
           "kind": "text"
         },
         {
