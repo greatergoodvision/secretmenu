@@ -1,48 +1,12 @@
 {
-  "updatedAt": "2026-10-06T15:10:18.616Z",
-  "count": 135,
-  "imageCount": 135,
-  "videoCount": 0,
-  "mediaCount": 135,
-  "filteredToMediaOnly": true,
+  "updatedAt": "2026-10-06T15:50:44.601Z",
+  "count": 52,
+  "imageCount": 104,
+  "videoCount": 52,
+  "mediaCount": 156,
+  "completeMediaOnly": true,
+  "mediaHostedBy": "airtable",
   "products": [
-    {
-      "title": "Animal Cookies Big (T9V3-IXA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "6.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,100",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,075",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/a1fe92b9728ec9ccd8.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/a1fe92b9728ec9ccd8.jpg"
-        }
-      ]
-    },
     {
       "title": "Archive Runtz Big (E0M4-IXC)",
       "fields": [
@@ -72,48 +36,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/9dcd41fb117d2ed867.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/YVhSo0_l6zq5wO9TGN9rVA/W33kXj86IB_6MXp_Tn6QbuqKIdAmlxNGlKIR-UDRty5ADXRVvv8UnkbwXkGod_Qmm9ftEyWOamPeTaY-b1A30vTPxmrAv8ZC2ESKEY2EIKrxtp3o_aWAxx1P-VHhU0ikPiXDZt2Y4dkfGxQmFXnxUA/qU-gb0nnqp04Pt4xot1k_P_yyHdptXhhF7ehNNjPdKo",
       "media": [
         {
           "type": "image",
-          "src": "images/9dcd41fb117d2ed867.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Archive Runtz Big (E0M4-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "13.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/YVhSo0_l6zq5wO9TGN9rVA/W33kXj86IB_6MXp_Tn6QbuqKIdAmlxNGlKIR-UDRty5ADXRVvv8UnkbwXkGod_Qmm9ftEyWOamPeTaY-b1A30vTPxmrAv8ZC2ESKEY2EIKrxtp3o_aWAxx1P-VHhU0ikPiXDZt2Y4dkfGxQmFXnxUA/qU-gb0nnqp04Pt4xot1k_P_yyHdptXhhF7ehNNjPdKo"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,375",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,350",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,300",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/2ffc8c69110c5fc010.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/2ffc8c69110c5fc010.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/GizOrOEVPTae7EiCfX7aew/nvtpwOeKqLbuqZT6KmNoALrGF9poa4gx-LgkrvyiW_DIZu60dGOYy_uwIlpPit9-n9lHyIOcCjJnpE0MpFNLUI_k-On0hPkLS3XgnKf9FRbyGx_1GliOfnjBLMeV57VkDPrzUCELMSpSxkPC25uD1Q/W-d31eSobXg4pc5FcKHZr_WSn9E7DIDo6QHhVkf4xa0"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/tlh1aTOkmk6SCm6zZKaBtw/OhvK83flNhcMyV7WRiIxOFIH0ArNgl7Q-2JxnxKwLyL14VgCbINMEcJqDIeSAUdyT7QcBF8C0ufZejyQ9qYxzWm3azDBq5UtuKVEjuchsTMP-JRgmoK0zgM_8WHsYV4ZohTJheyP1avQ_xJLbG70CXPYXOofuX1_Ug-plV1vGHaEhyWr2YIFPdDcB5M0Ow9E/oMLpeyhdaW7sCzVdDTKTeXZCbysF3jm4xVmoejZFJgA",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/YVhSo0_l6zq5wO9TGN9rVA/W33kXj86IB_6MXp_Tn6QbuqKIdAmlxNGlKIR-UDRty5ADXRVvv8UnkbwXkGod_Qmm9ftEyWOamPeTaY-b1A30vTPxmrAv8ZC2ESKEY2EIKrxtp3o_aWAxx1P-VHhU0ikPiXDZt2Y4dkfGxQmFXnxUA/qU-gb0nnqp04Pt4xot1k_P_yyHdptXhhF7ehNNjPdKo",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/reccyMN7q2n5jRg9b/fldoN8ktmukK5DsE4/attvHNd3X0pBqSzBc?layout=card&viewControls=on"
         }
       ]
     },
@@ -146,270 +83,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/08c891af14a44be7be.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/6EMMuwM0E_uUXP-2Ii0nWQ/dx9j1_U-aM1xfspTeRzwrV8nWauIVRuPLghZQOcte2jCC5R0Mxt92DqINgVrJUG_O5gIvj5FVIEKrDQzoTrbqem6yRXdHyMXCtPV98hKhvQaIiuFg3QOqku6dQDEu_-92r306SZB501CnwVS53-gSg/hLW6k1P2nKByqrvyxvuwIBc27gnrNjKcTcQY7EnpmwU",
       "media": [
         {
           "type": "image",
-          "src": "images/08c891af14a44be7be.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Astro Candy Big (H3S9-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "17.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/6EMMuwM0E_uUXP-2Ii0nWQ/dx9j1_U-aM1xfspTeRzwrV8nWauIVRuPLghZQOcte2jCC5R0Mxt92DqINgVrJUG_O5gIvj5FVIEKrDQzoTrbqem6yRXdHyMXCtPV98hKhvQaIiuFg3QOqku6dQDEu_-92r306SZB501CnwVS53-gSg/hLW6k1P2nKByqrvyxvuwIBc27gnrNjKcTcQY7EnpmwU"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$875",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/6311c542b27b8e7a9d.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/6311c542b27b8e7a9d.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Banjo Med (H4E1-XA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "16.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/g-P5D6UV-mbpZO_1Q2XuJA/Fz6tA3nfnJWXzAh1oPX2hgU-l4zNrD9C4odDbHKdZ6mmaPnGhxPx9zpvtnezAoo_i-544XnR4F7m8Z3WFWVYPQd6SB_wGR59xEqt7C00AWGatQ5kdtKMQs7PG_q6yQOW6Yvinwck30IH71XZiYGThA/ibykcE6jz1AcC4RAtImFlQZ9ft_m3TKxQ7JLkSXGnqs"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$650",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$625",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/4e3b095c2d5f23372e.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/4e3b095c2d5f23372e.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Banjo Small (H4E1-XA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "6.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$675",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$625",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$600",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/3303d7edf6e91d170a.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/3303d7edf6e91d170a.jpg"
-        }
-      ]
-    },
-    {
-      "title": "BBG Sherb Big (G7O4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "9.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,100",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/797f81bf93539e6b82.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/797f81bf93539e6b82.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Biscotti Cream Big (G1E3-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "21.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/9f7924b82e6fee8925.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/9f7924b82e6fee8925.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Black Amber Big (G7O4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "9.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/761a07d67d8190b588.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/761a07d67d8190b588.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Black Amber Big (M2N4-VIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "6.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$875",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/3f06dd222c693da4a0.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/3f06dd222c693da4a0.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/bnDIlyO3Y7508SNBH__uEw/IhgTBpTTSS2YrVjnnOj87-F9sxAg0LxKLu68tusqqeuZ126l7nN6JMWj0LlwOUNJQu3ooEN3RgYrQa0N0DvHxuHkeWOWL6vCOp_umpQXTMeoKho7-fpgTTTcO6vgU-pJnFzHBDLqzQMwk8xKbzsfe1rkluvlXRWS8JmJGX-IkXTEzqyLQPE9AljMHGetHYos/NqKSC-o6FWL_aRFExiJeHCtmNd1jTp9FiGHWb-lYt6A",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/6EMMuwM0E_uUXP-2Ii0nWQ/dx9j1_U-aM1xfspTeRzwrV8nWauIVRuPLghZQOcte2jCC5R0Mxt92DqINgVrJUG_O5gIvj5FVIEKrDQzoTrbqem6yRXdHyMXCtPV98hKhvQaIiuFg3QOqku6dQDEu_-92r306SZB501CnwVS53-gSg/hLW6k1P2nKByqrvyxvuwIBc27gnrNjKcTcQY7EnpmwU",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recoFY01DexF7uOuP/fldoN8ktmukK5DsE4/attfj9AVuN8m9OVpL?layout=card&viewControls=on"
         }
       ]
     },
@@ -418,7 +106,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "38.0",
+          "value": "18.0",
           "kind": "text"
         },
         {
@@ -442,11 +130,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/6f9cc12944dd844cd8.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/5fjWkukv7lEG0MF_c9V-vA/clDjwLb0pck04clcDzfA8WIcvpqYH6cOWgErcHMKu_HebKxbLtrVWknz1j55dtcJrnRTZLzM4QfZ173ga4MTJlpiO2QIAZ3Fwctq597ZZEYs_RdHTpWKV-5UAUf3qh4uIO2rX3xv1khSXFbgLbOKmA/IO5ejgYe3nAzRT2pvklNlRFvZK6hn94iDfMN5Odkj6Y",
       "media": [
         {
           "type": "image",
-          "src": "images/6f9cc12944dd844cd8.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/5fjWkukv7lEG0MF_c9V-vA/clDjwLb0pck04clcDzfA8WIcvpqYH6cOWgErcHMKu_HebKxbLtrVWknz1j55dtcJrnRTZLzM4QfZ173ga4MTJlpiO2QIAZ3Fwctq597ZZEYs_RdHTpWKV-5UAUf3qh4uIO2rX3xv1khSXFbgLbOKmA/IO5ejgYe3nAzRT2pvklNlRFvZK6hn94iDfMN5Odkj6Y"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/8aXP5r5wbffFqicRNqVQWw/XG_l7M1FWlLfZu2rgJEqUI-unzmFXhdwHQyk6cKv9bwHk_F6kgcsuNshT-jf_0eCxaauKr-k1lTUdsOz2L3w1i7KBHNBdfcRxv8zY9rK2MciZsB7_BbbDvhcqQUW-DkaYefKHu5N1nRyBgs90MdSYg/NoDCKNhDRdRHSBd9HUvgd9RD85_RkXiyDLSz8XN0kjI"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/mn1W66xT1Ko9a5UdWGHfzA/swBo8gMxUB8BWDXUXk8uW5d43n6aqxDSIOwnTQumEqU6WtTW9Ps8jLGIAh7WogomnjveKaIk4WNNYnQfL4BExNLGQyYMBe4RUQsy_pJo6Z6IGLkX75DmKDueb2drn-VdVPMkJtlGuvncePpWVPlzLYZBPbPko68pOTxQ0agmlCwPlnEuBvCdlwPSnlAwvnCD/NVtWrPwHUH59I4fSzYWb9TBL1TLmlFf9MUD6oNGMZQY",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/5fjWkukv7lEG0MF_c9V-vA/clDjwLb0pck04clcDzfA8WIcvpqYH6cOWgErcHMKu_HebKxbLtrVWknz1j55dtcJrnRTZLzM4QfZ173ga4MTJlpiO2QIAZ3Fwctq597ZZEYs_RdHTpWKV-5UAUf3qh4uIO2rX3xv1khSXFbgLbOKmA/IO5ejgYe3nAzRT2pvklNlRFvZK6hn94iDfMN5Odkj6Y",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/reco47DOUWEWn0A29/fldoN8ktmukK5DsE4/attPOfcrEY6VxffPt?layout=card&viewControls=on"
         }
       ]
     },
@@ -479,11 +177,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/765b8a59473d3bcc59.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/43AU7Slxl8eKUswCIcXLCw/3ftwy5jOf-DEIiEEC-eu1I00IChHyQLMtdhjNOZ24GsaJq2dtnz8IAfqosHT8OVbpPC1eT5o7Bz03WDYklBHJ_EcLBY9gLDoSjM68qft_-O5-spEBSeIVgws5Bdk7CLTOQwQRo8RpHy5jLJ-o4UL3Q/jhRf7_HlhRQ-9-bhCOGan6ln-Bqy8-2Ki-MuJaCg6ac",
       "media": [
         {
           "type": "image",
-          "src": "images/765b8a59473d3bcc59.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/43AU7Slxl8eKUswCIcXLCw/3ftwy5jOf-DEIiEEC-eu1I00IChHyQLMtdhjNOZ24GsaJq2dtnz8IAfqosHT8OVbpPC1eT5o7Bz03WDYklBHJ_EcLBY9gLDoSjM68qft_-O5-spEBSeIVgws5Bdk7CLTOQwQRo8RpHy5jLJ-o4UL3Q/jhRf7_HlhRQ-9-bhCOGan6ln-Bqy8-2Ki-MuJaCg6ac"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/S8dRzJrTnTi9QQ0hN5EUfg/7tgQqOiXObtY1QaIfhLcCBuMoNI1rpJwR1U-qpJiCO6sVFhxPKnAbiLpdFg6GTCzGftkw15atcOgyEWRNzqEBJFRSipv5lU8fIo9zV9n6J-_bfz_68CDxYXNaSVCXBfylSqBv9DVPxE5FTx6n-BG6g/Q34S49qvNtr2WsUuaMKqbRKwypuYtKgJ1k6CU9aGI_o"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/CK2s2roGcGCfcG-rtdBGEA/74smWD_HmQ2tUzvVQOiHiuQXL6t1GNwLqJIZriZmsudMmapJWZKp5dxf8pLAlJq4fRLQ8JIwGcvh8Lr4CK-7fYjrE6JSiz_AuuzaUiRkr5KOT11z9-2DlntOTgxqNKy5OspCUOE6y50XfhxlHyM62M_ykfkudmcTNzY4t2nfLLqLdd_j3P3rjMNWWBbKj41m/JVCxFkkfdRIezQ-Mn2pbcZehNBYMi_E4I9XdNhruhHk",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/43AU7Slxl8eKUswCIcXLCw/3ftwy5jOf-DEIiEEC-eu1I00IChHyQLMtdhjNOZ24GsaJq2dtnz8IAfqosHT8OVbpPC1eT5o7Bz03WDYklBHJ_EcLBY9gLDoSjM68qft_-O5-spEBSeIVgws5Bdk7CLTOQwQRo8RpHy5jLJ-o4UL3Q/jhRf7_HlhRQ-9-bhCOGan6ln-Bqy8-2Ki-MuJaCg6ac",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/reciWszwwJIcHI7N1/fldoN8ktmukK5DsE4/attEFnbsFciuX5dSx?layout=card&viewControls=on"
         }
       ]
     },
@@ -516,85 +224,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/ba480ce9bebf5a8de8.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/uHhK1oHb2PstMnwX57HDvQ/KnQ6G7IYJEeI5cM2caHz1g4IURneC6VaxZQwerwpc2jCQgcEd0T9slXdfDwkLdvsQ9ghEw3HAaZpgZDafo7wgS2-fC7XitvIfv29Y8cy3bQhurBjbdaaTIA9rDbfqo-LGfS2qcHQzy1CWWncd3foBg/r9u-DzZW6_Ev2QGkQq-cgf8dJSOT9ffSjizFemFdyr0",
       "media": [
         {
           "type": "image",
-          "src": "images/ba480ce9bebf5a8de8.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Blue Dream Big (P0I7-VIIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "12.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/uHhK1oHb2PstMnwX57HDvQ/KnQ6G7IYJEeI5cM2caHz1g4IURneC6VaxZQwerwpc2jCQgcEd0T9slXdfDwkLdvsQ9ghEw3HAaZpgZDafo7wgS2-fC7XitvIfv29Y8cy3bQhurBjbdaaTIA9rDbfqo-LGfS2qcHQzy1CWWncd3foBg/r9u-DzZW6_Ev2QGkQq-cgf8dJSOT9ffSjizFemFdyr0"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$850",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/7d93794abe44881ff3.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/7d93794abe44881ff3.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Blue Meteorite Big (H3S9-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "30.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/LMqzcuUTsIhr0TEl5TBlqQ/H3ypZ7l9vVTqPiFGLIhzQHS9bHFvkqva-QnhQL45U-44Z4pK7PuEHZYd4iYr4_kNOrWMRW-hUxBdTtczFD7WIoZGE4_a9q143MNJXQDMfoGxOhWbV84syFNAjiG-p4iid8KgWXb3MEDEGmiQt9ptSA/j4RuJAicaGjO-bxlasvzMj4g095i40mgoNPDHwGLPZQ"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$875",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/b0ed651ca7c6845b25.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/b0ed651ca7c6845b25.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/vtG8rB4JeL-SkRJeVRlPDg/uZJv_WFBa-HoUtZFnlGrumj8miNKvlv0nNu_C6TOOfJTWTu4zHm9K_HbeIw2ik1PBAHqdtBbcqrxqU2exvjX7HXAyn1ohAEY87XitxkIxtXAk2-R0TU5PvbIHkKET88MQ_cE1KUiTMr03XIbQARmcxLR9cO3vvkSAER0CAcQRsYlmYFWtKEQlXLK7z1A07YF/JdTq2cRDLNdVhR5kyfWP5bVBk5Fs_VAcXUH-TCtA7_k",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/uHhK1oHb2PstMnwX57HDvQ/KnQ6G7IYJEeI5cM2caHz1g4IURneC6VaxZQwerwpc2jCQgcEd0T9slXdfDwkLdvsQ9ghEw3HAaZpgZDafo7wgS2-fC7XitvIfv29Y8cy3bQhurBjbdaaTIA9rDbfqo-LGfS2qcHQzy1CWWncd3foBg/r9u-DzZW6_Ev2QGkQq-cgf8dJSOT9ffSjizFemFdyr0",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recLNfA5svehkf6le/fldoN8ktmukK5DsE4/att0njKvjHowYHEYt?layout=card&viewControls=on"
         }
       ]
     },
@@ -627,85 +271,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/0e554d287c39719b03.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/tCqN7mkdzp3eRIHTrMkujg/x-hNrPKM9V4kmhJ4hP0WFB-r5UUom-2Ncw8InarHogSTK5STR9ax0B2Mvxl3KEq4DSaZyHXjzn6-CiF_hXyZX-JS5yTP2gJCV1vsHrd8uZAck-AUlu-kRhlSfGg2kgIDLopOv0FA3VnxWd8ZyyKHfg/TUnPVfVYy44AQ4xKDLVG06LRAVksnv_o_8JAaeoCONI",
       "media": [
         {
           "type": "image",
-          "src": "images/0e554d287c39719b03.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Blue Taffeez Big (G1E3-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "27.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/tCqN7mkdzp3eRIHTrMkujg/x-hNrPKM9V4kmhJ4hP0WFB-r5UUom-2Ncw8InarHogSTK5STR9ax0B2Mvxl3KEq4DSaZyHXjzn6-CiF_hXyZX-JS5yTP2gJCV1vsHrd8uZAck-AUlu-kRhlSfGg2kgIDLopOv0FA3VnxWd8ZyyKHfg/TUnPVfVYy44AQ4xKDLVG06LRAVksnv_o_8JAaeoCONI"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/092872dc4bedcf0725.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/092872dc4bedcf0725.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Blue Taffy Big (H7N4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/T1JyoSrsNsxu6AACIJ1usQ/ykwuuQag-4WIwowxcmCafiJ4psoP6y1fUE8Z6sj3jyPHyH87nmYzqNgJA1q0gopmFKJPJXy4CNR7yslT5M6bD3JvG64PmhwP5StpMeCNXwTE7XdeiXKIlrs6zWMRV5kxgAqVdxaP6Z_Z7U-GME6sqA/m33UxjOA6JWJ_aRnIKCyUnu5d0DZkC-yAQP0XS22Tqw"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$675",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$650",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/a8932ee1ef0b4acd05.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/a8932ee1ef0b4acd05.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/zqfmiVETZcy2cH_CrkRzJg/GiN2VdE4FNnbCub26_BETQd_2TLJO-2tyS08rHjOvnKv8W91gUe-TkVBxtI_S-uzCAVn38U_2jYpaJ0s5XW1o39E7iJyyDbj3tsxrZh4ujptqpuG7EAesRM6lrmOCmY3Qyw0lYAp0yVyDBKxof3aWL1By1-K4MX71-A3hgfpW-m9LevoSn3EQa1C6d-bQ6_C/E7eaKJpZm8Yqu2vjaqATcltT2YaM33Gp9DnuTs5SiSA",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/tCqN7mkdzp3eRIHTrMkujg/x-hNrPKM9V4kmhJ4hP0WFB-r5UUom-2Ncw8InarHogSTK5STR9ax0B2Mvxl3KEq4DSaZyHXjzn6-CiF_hXyZX-JS5yTP2gJCV1vsHrd8uZAck-AUlu-kRhlSfGg2kgIDLopOv0FA3VnxWd8ZyyKHfg/TUnPVfVYy44AQ4xKDLVG06LRAVksnv_o_8JAaeoCONI",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/rec51MTRCGhjrExIY/fldoN8ktmukK5DsE4/attozIHccgHbNCsl6?layout=card&viewControls=on"
         }
       ]
     },
@@ -738,122 +318,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/1d731a059c4edb9f63.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/QOV4KU73nrVB9WxhkWljUQ/I2XFOMQXagfSbkY66dWD227Q28CfKC7a1LsNyLK4KpdBStfyo2FaJCG2x9Fh-g_WaNzd_9C1ixiGdyPLHOii8Po8BG8P_F4LElNeXU4COP14PRJ4d0so_zhv-OmAbjoy17FEAprO3TufZtZ69nIATQ/wNxa_uzkCPP6Qmqn2A8XGG7u_l0BZ_67sVZyYX_8sbY",
       "media": [
         {
           "type": "image",
-          "src": "images/1d731a059c4edb9f63.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Bubblegum Runtz Big (C5P5-XA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "10.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/QOV4KU73nrVB9WxhkWljUQ/I2XFOMQXagfSbkY66dWD227Q28CfKC7a1LsNyLK4KpdBStfyo2FaJCG2x9Fh-g_WaNzd_9C1ixiGdyPLHOii8Po8BG8P_F4LElNeXU4COP14PRJ4d0so_zhv-OmAbjoy17FEAprO3TufZtZ69nIATQ/wNxa_uzkCPP6Qmqn2A8XGG7u_l0BZ_67sVZyYX_8sbY"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,375",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,350",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,300",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/83f6dbd705127caf3a.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/83f6dbd705127caf3a.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Bubblegum Runtz Big (E0M4-XA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "10.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/XG2hyNKqwF0WibgSmwTJzQ/Q57KmNMs7_IDECTFO3wzIzB-ODTZnB1MTzjzQIqTEkKy6gOl4274U6kBgDcpLkOUT9dDC4SvXgOdwENu2Nlsc3u1zq5x0NOyhJBJfUEAGXVHcWn-mdXNiT3lsiICl1J2fT71-15P8syqsCJ0MhWLpg/1xqZsv0V_5L17vwr8gTlkFcgbtcjxPViZ9AcxoDIl04"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,350",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,300",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,250",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/d26e2a7eb8a2ed2d44.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/d26e2a7eb8a2ed2d44.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Bubblegum Runtz Big (H3S9-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "8.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,000",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$975",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$950",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/c767142477c45ca2ea.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/c767142477c45ca2ea.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/-sxE_cCrHIquJ5vBqM6oZA/SuFxWKDNGaGMffwmSPOCf-atVDFZYeiN-vTwMCfRJJmReGDHTig0tRvd45cfP3qVtV3BWNh_8eLsGwwNyYkqmBQi-QqbrrgO2sPBJnkeHyEeGKmcdiVV6BYkZg6WzR3URqHyDBbGWqAZALrcKcIRC0IXN1-C0ecU6PT9OjbFPwcxonSe-XIzfN1VlMGjhLyF/Jz6yIEe4r2-NkZ84OqydJ5JRyfCx5bgVkxX3Qccc6-E",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/QOV4KU73nrVB9WxhkWljUQ/I2XFOMQXagfSbkY66dWD227Q28CfKC7a1LsNyLK4KpdBStfyo2FaJCG2x9Fh-g_WaNzd_9C1ixiGdyPLHOii8Po8BG8P_F4LElNeXU4COP14PRJ4d0so_zhv-OmAbjoy17FEAprO3TufZtZ69nIATQ/wNxa_uzkCPP6Qmqn2A8XGG7u_l0BZ_67sVZyYX_8sbY",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recHbVhMBKyPwCpsx/fldoN8ktmukK5DsE4/att0amSiCyY05Qcdo?layout=card&viewControls=on"
         }
       ]
     },
@@ -862,7 +341,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "15.0",
+          "value": "11.0",
           "kind": "text"
         },
         {
@@ -886,11 +365,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/08bae1b5fa46df8430.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Dn6HUNp5XPPQavBJDpxg4g/w-bqCDuoUYzC0ADTeX3vS19A8gQQdLIhjQ3kfyz2V7MLp5rwQngAI10WQjuAtwuiAIwUsqBsc4QPKsD8dvC-A7GNcSBCr8NomVZUhV1cr0fv5KaiHm3PFUjwFwemfJiH7rzjawifcxdeoT9KGUmrDw/o8KIBOqjhHfuWax8MJ75Ha-I9gztzgDiu-TTr_AuzAM",
       "media": [
         {
           "type": "image",
-          "src": "images/08bae1b5fa46df8430.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Dn6HUNp5XPPQavBJDpxg4g/w-bqCDuoUYzC0ADTeX3vS19A8gQQdLIhjQ3kfyz2V7MLp5rwQngAI10WQjuAtwuiAIwUsqBsc4QPKsD8dvC-A7GNcSBCr8NomVZUhV1cr0fv5KaiHm3PFUjwFwemfJiH7rzjawifcxdeoT9KGUmrDw/o8KIBOqjhHfuWax8MJ75Ha-I9gztzgDiu-TTr_AuzAM"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/2hKxRchpBH7nhz5SdF6f5w/72ZdABjBJ33bT_pCb7f5gumeui0kTOKsXP9nDX6Z3t1so2XM-PimocMm9xsIfg3Hx5lyR1cqk5NuL--mCWhX_XIkgOq-V2l4qNIBMd3pjKMsSKhYP-NTz6mMYXbsxsvBRdyaRQUx5l_yHaQyiZF47A/kupICkAQxFqlFAVCd6sowAHm00asUdiwET0r8zX1exs"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/HK1pLAYt7ZVlLUhOy1wINA/uVhFF_PT53qgKUcRQiy7Qdi1L0eYQTRiBcBG30Vwx3UPeQGcyyE00orCxkJIVKg2w9N5xyZ-GIeQyZv6lYTH15QJ6Nlj81Izjmb__ZfjqLl6YV48TS7DT8iZK2kGWSF2cLXGBDeagUwtWQV0F4oyNRrzKZZBBNNDZSuJz6GOxyqh4WEl3h5JUU_RwDLozESY/HrOVCnDL2EfsOTtQvHhuV2hNp2vbEos4GzSlRWlf1KI",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Dn6HUNp5XPPQavBJDpxg4g/w-bqCDuoUYzC0ADTeX3vS19A8gQQdLIhjQ3kfyz2V7MLp5rwQngAI10WQjuAtwuiAIwUsqBsc4QPKsD8dvC-A7GNcSBCr8NomVZUhV1cr0fv5KaiHm3PFUjwFwemfJiH7rzjawifcxdeoT9KGUmrDw/o8KIBOqjhHfuWax8MJ75Ha-I9gztzgDiu-TTr_AuzAM",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recEpSFdvpwT14jnE/fldoN8ktmukK5DsE4/attF3JhNdHvhLrNr8?layout=card&viewControls=on"
         }
       ]
     },
@@ -923,35 +412,45 @@
           "kind": "text"
         }
       ],
-      "image": "images/4725c67b518845e3ce.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/KtaFP5ANqEOUgdW-zjpXMw/YXZsjiI1t1-v_M2KMmTUsQDOTpKG5lnuoCjTh9jaI55Jd8CwOCw_kePB7bLHosTeftMaQDcrVUSKi6ToDnM4YDekFLjdPQHeOTEAZ8HSY5U0awLjf0_phfQRUyyw-J6VnxkFqPMyE19fu45imYduqw/2lVJ5X-BcC5K2Y2y2_sFiHcfFv8aMYYUJhr0JnmQ6hc",
       "media": [
         {
           "type": "image",
-          "src": "images/4725c67b518845e3ce.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/KtaFP5ANqEOUgdW-zjpXMw/YXZsjiI1t1-v_M2KMmTUsQDOTpKG5lnuoCjTh9jaI55Jd8CwOCw_kePB7bLHosTeftMaQDcrVUSKi6ToDnM4YDekFLjdPQHeOTEAZ8HSY5U0awLjf0_phfQRUyyw-J6VnxkFqPMyE19fu45imYduqw/2lVJ5X-BcC5K2Y2y2_sFiHcfFv8aMYYUJhr0JnmQ6hc"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/kfUgZXdbAS0RXPgcsSNfXw/g6G68kuXgWAeyS1crt_caiC55lej9EGgHP7ZOIAshQvJyhl-VtI-WRbBlA6RFp0uxQ-Tmn5aHplEIjbL6ONl9wzwqJMP3u9R1bNUi-hHhVXfExkEvxnt3XHWVqBVioDTq1lmPqCKlrgC0TWteyCm6Q/w0C5FyXKQePyQdyBzZNPtif6FXoUvJXqH9jBY4v1A7M"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/BS4frG3MauKuvKe0WcqGWg/IzN3ATzyGNNq_D_rOM1RGZ89zcmv-C3EeuXAy-n1sMtDdvhlw9dXqQqRAdedthNyrJgyoDj6R5F4FSgSt4s0skb6GJHEIxG9K_x_fkSLi7VRo-MKpanM4UjE1hIC68iSi_caQPfkKl6T4k1byzXeWU8awlhI0Kp3_ewh5DjyAe0-hbexJvHL9tVeH9B3Nbgh/P4sEq4ait-rUWK2Atv7p14z1gDAptS5BsaTBN7b3AtA",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/KtaFP5ANqEOUgdW-zjpXMw/YXZsjiI1t1-v_M2KMmTUsQDOTpKG5lnuoCjTh9jaI55Jd8CwOCw_kePB7bLHosTeftMaQDcrVUSKi6ToDnM4YDekFLjdPQHeOTEAZ8HSY5U0awLjf0_phfQRUyyw-J6VnxkFqPMyE19fu45imYduqw/2lVJ5X-BcC5K2Y2y2_sFiHcfFv8aMYYUJhr0JnmQ6hc",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recxZw2PZ8O5SvH6U/fldoN8ktmukK5DsE4/attOGTwVgyZFjft96?layout=card&viewControls=on"
         }
       ]
     },
     {
-      "title": "Candy Fumez Big (T9V3-IXA)",
+      "title": "Candy Fumez Big (T9V3-IXB)",
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "10.0",
+          "value": "5.0",
           "kind": "text"
         },
         {
           "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,100",
+          "value": "$1,150",
           "kind": "price"
         },
         {
           "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,075",
+          "value": "$1,125",
           "kind": "price"
         },
         {
           "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,050",
+          "value": "$1,100",
           "kind": "price"
         },
         {
@@ -960,11 +459,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/4ab4ddb6bb2112c57b.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/rry7q_iAHXCeO8epkG6R9g/KQV7S9hcD6z0bDEVKgkWAUb87tl_ANR3QTe4VRH5jRb-12qhHpvfhdj4RQFhc4NAOn57MH1Jh2FJjxzzGccItuUBYZGcrrPVxpoxzlLpY_CmJ_Llb1mdsVu_jnwSZZJpTDGMOou-Kpv71mGieiQXLw/kdSfXgy4NPo3CZnjEWonfuiSAL_yrECxwJaqpZCCsKU",
       "media": [
         {
           "type": "image",
-          "src": "images/4ab4ddb6bb2112c57b.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/rry7q_iAHXCeO8epkG6R9g/KQV7S9hcD6z0bDEVKgkWAUb87tl_ANR3QTe4VRH5jRb-12qhHpvfhdj4RQFhc4NAOn57MH1Jh2FJjxzzGccItuUBYZGcrrPVxpoxzlLpY_CmJ_Llb1mdsVu_jnwSZZJpTDGMOou-Kpv71mGieiQXLw/kdSfXgy4NPo3CZnjEWonfuiSAL_yrECxwJaqpZCCsKU"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/FfmVm1LPgfiIqR5UsX06LQ/QDJlO31iqpxDq92gfO3HefhseFLz_4tTrPTLL5r7xZh0aD0RYckLr7T_IkaV1FoyXqAjSLpEU_69sbYLpRa0TWx5-UX6Vjvu1wKqqCgdugs9lDpjT3OEXEuA-tOhCt-eCXXhcoIcElXzzuBGECrtvw/OkbIohm6atcGC763wRh9eetyJb940PtPg6m1wxbAdRA"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/BtFZJMc0CBBTm-3VyA_YrA/EkFHF2tWVcJJthMJorY0PPzlti9euH4uiOqh94XBmpOw6hLhuGucJqAVulP4ZJOWPvr4gkByVJEIsmw3S5Wg1-NCHi_ezgtJjbYteu8PENIgnQ4jkBPgTNp-qoxUok2L24D9EvuYXM4S4Qc0pJ5hpIGxrBiKeyWfUKIDS4F_JhjDihzMjw6tDWVl3KS_Ft3C/IsSHlawIDaTG4UEeQc_MCpYzu3WxzORe0PVjImYpRWQ",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/rry7q_iAHXCeO8epkG6R9g/KQV7S9hcD6z0bDEVKgkWAUb87tl_ANR3QTe4VRH5jRb-12qhHpvfhdj4RQFhc4NAOn57MH1Jh2FJjxzzGccItuUBYZGcrrPVxpoxzlLpY_CmJ_Llb1mdsVu_jnwSZZJpTDGMOou-Kpv71mGieiQXLw/kdSfXgy4NPo3CZnjEWonfuiSAL_yrECxwJaqpZCCsKU",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recCPtuPtYVuaz3S7/fldoN8ktmukK5DsE4/att1BnAXBr7MDRK0a?layout=card&viewControls=on"
         }
       ]
     },
@@ -997,48 +506,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/ff874939ce80a614ae.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/yd3qwiqFQ62KjQ_utS1DHQ/al_Uneguw_UgQqgvdmzj21fVmJjZgUU54xth45AQyxoYS4BSLUBLsKUYFFCWf6DIR1LW5TFsrgFzC1LlLFJ5HmCvviEvkdo5tgyqE2CsFf3lotziX-m203dXaH3R56jTCoMMvqMGZE8_OfFC6aUSaA/X6RYILehtF8fnsgjLUL78HJbM342-KzU9okVZrmCFUU",
       "media": [
         {
           "type": "image",
-          "src": "images/ff874939ce80a614ae.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Candy Yamz Big (H0D7-XA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "18.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/yd3qwiqFQ62KjQ_utS1DHQ/al_Uneguw_UgQqgvdmzj21fVmJjZgUU54xth45AQyxoYS4BSLUBLsKUYFFCWf6DIR1LW5TFsrgFzC1LlLFJ5HmCvviEvkdo5tgyqE2CsFf3lotziX-m203dXaH3R56jTCoMMvqMGZE8_OfFC6aUSaA/X6RYILehtF8fnsgjLUL78HJbM342-KzU9okVZrmCFUU"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,375",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,350",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,300",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/a5b752181c75da48ab.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/a5b752181c75da48ab.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/fpFzSDV8gD1MEPk22ZaiiQ/1-8Sqk8NhP_bnoR2t5HFkOOd5Hf3RTqctsWTMyRjVizAMw4l7zpVh3FGSk5l3xS2HasAfGBfFTu0B3xs9BlfUA0h6X5hjkQ9iunLOpZjvtHOPwiW1ztcBmWNYSqzJx96sqmlnSMb9Qy1UWplt5wC0g/lfQgbD4ByO7PhNk_Rfxq62vbxlPdqEyC2QbEpwzTZLc"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/uLjqRjYZ6Ygiqwc4JIKjSg/00QIyKIFSzgWwN18Gb1RrWS3mWCjiS5d827ZFD7Y_i9qv6YAfjyNMZag1G9i18nwvupjAjzHH8jXZIicPJ1nk-rikbFiWPeAfb1vTYdTPW6I8jyMkD_AH1egKaNMfDecV3DuO5RVh1oCLNRT1cehuKbLQ7TdEbXF_g7K7YDcPTBRSkv3V0fN8RHZFNCpow_2/voLbF0buQYwmzZN29nflx_7dlZw__1ewbjLfBB8ka6g",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/yd3qwiqFQ62KjQ_utS1DHQ/al_Uneguw_UgQqgvdmzj21fVmJjZgUU54xth45AQyxoYS4BSLUBLsKUYFFCWf6DIR1LW5TFsrgFzC1LlLFJ5HmCvviEvkdo5tgyqE2CsFf3lotziX-m203dXaH3R56jTCoMMvqMGZE8_OfFC6aUSaA/X6RYILehtF8fnsgjLUL78HJbM342-KzU9okVZrmCFUU",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recfQmZDdgb7Cq8YB/fldoN8ktmukK5DsE4/attWwliBMAOiz4OHl?layout=card&viewControls=on"
         }
       ]
     },
@@ -1047,7 +529,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "45.0",
+          "value": "42.0",
           "kind": "text"
         },
         {
@@ -1071,270 +553,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/44a571cbf5f6561a97.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/0osDluOz60g2t_HNIS-MMA/KsM1EfH7NBkDm1LrkdzK-J0GvDdC6Jz8RlaRiamDtuERSwc2vHL7ZMKuOushLIoFYMsxK8FhXvZSCgpFGymeCAg6bPTJbtrItW9uC_Y2DRqqHLsSeBglOcLuYCCG-iUd4uT9YG3SRUy6Ju-5vmMY6A/HHXZEU31cYnwEMcPtc8ALKXfq5bY8PrSfrUCeJYidz4",
       "media": [
         {
           "type": "image",
-          "src": "images/44a571cbf5f6561a97.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Cherry Cream Float Big (T9V3-VIIC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/0osDluOz60g2t_HNIS-MMA/KsM1EfH7NBkDm1LrkdzK-J0GvDdC6Jz8RlaRiamDtuERSwc2vHL7ZMKuOushLIoFYMsxK8FhXvZSCgpFGymeCAg6bPTJbtrItW9uC_Y2DRqqHLsSeBglOcLuYCCG-iUd4uT9YG3SRUy6Ju-5vmMY6A/HHXZEU31cYnwEMcPtc8ALKXfq5bY8PrSfrUCeJYidz4"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/8cc70014ae72055dd8.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/8cc70014ae72055dd8.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Cherry Slushie Big (E0M4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "12.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Ilhn7UD3SRTuEyqJZbHP_w/m1NQ7tbvafDXgBJ5ye-dVO9ecN3wgtxaFh9nMlulSM8v42609HcEYfEodcTaG3OyfEJdci-quo2Uk9FGhgkSwGOMqYSym-dcmf790u9gAOPazUmkPIh0ou-j9j_LgMjUBVR6FMAzmI-M8KNDvJbBbw/y3SuNPX3JB5vGaKDYU65SB5jhRxHPozbqaKCob2_xLY"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,350",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,325",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/23e8a4e9d533782dec.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/23e8a4e9d533782dec.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Cherry Slushie Big (E0M4-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,350",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,325",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/3a2a9969cd07ea3139.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/3a2a9969cd07ea3139.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Cream Smoothie Big (G7O4-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "12.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,300",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,250",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,200",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/0594d83e36d80b9f31.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/0594d83e36d80b9f31.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Cream Smoothie Big (G7O4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "14.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,100",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/758f52d46f60475207.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/758f52d46f60475207.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Cupcakez Big (B3S9-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "21.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/a55b7f947561685040.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/a55b7f947561685040.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Donny Burger #5 Big (G1E3-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "45.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/2c82aa9c0659c85439.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/2c82aa9c0659c85439.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/zRtH3nra1WGVIcBT0VgZjg/JyvbaggpdHxdIiZshU8qG4M5aH9oiwhrf_nQ7hBCEY208L02dwdU7LN8IzPemPFe0HMPTgjTMn1zdEkA-KgvoPuqqO1xCeI0JWBszmJdWz7DQtWfxrzHZNGZZlNxGeuB1_aC44S-oIvb7mjL1XnH7u59NNCc3Wa4TcFT0yiDrEG_Een1zd3m1A4Pz3f1x6QN/PcrcYVxuH15dLgxHgufesxkvpWwM2hhvrKncMg65V04",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/0osDluOz60g2t_HNIS-MMA/KsM1EfH7NBkDm1LrkdzK-J0GvDdC6Jz8RlaRiamDtuERSwc2vHL7ZMKuOushLIoFYMsxK8FhXvZSCgpFGymeCAg6bPTJbtrItW9uC_Y2DRqqHLsSeBglOcLuYCCG-iUd4uT9YG3SRUy6Ju-5vmMY6A/HHXZEU31cYnwEMcPtc8ALKXfq5bY8PrSfrUCeJYidz4",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/rec6wQR7ahyJgeaDu/fldoN8ktmukK5DsE4/attIhHaEumLKFnPNC?layout=card&viewControls=on"
         }
       ]
     },
@@ -1367,85 +600,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/c99e5d1175427ae606.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/mLbYW4gADMWTEc_hkOT0QQ/oBR-LvS_t223jv9tJLtmnfM-puOdkLExNsJg0J0xfwqGA179VvX9-X1kTL98G6Y0_XJed88EQENu7cApOwqyaf7GmUyBHhZc_AXN-7UC310lzWFPdEs8EGohyekt7mLDg8KJWGVmdV_Icg0BPp_qNw/QH4CuliwRWDrrBKtIrWZPFW3u01Hy_r_q7qrvuMlajo",
       "media": [
         {
           "type": "image",
-          "src": "images/c99e5d1175427ae606.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Double Runtz Big (L5Y0-VIIE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "7.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/mLbYW4gADMWTEc_hkOT0QQ/oBR-LvS_t223jv9tJLtmnfM-puOdkLExNsJg0J0xfwqGA179VvX9-X1kTL98G6Y0_XJed88EQENu7cApOwqyaf7GmUyBHhZc_AXN-7UC310lzWFPdEs8EGohyekt7mLDg8KJWGVmdV_Icg0BPp_qNw/QH4CuliwRWDrrBKtIrWZPFW3u01Hy_r_q7qrvuMlajo"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$900",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$825",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/1e4476fec2bd1429bc.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/1e4476fec2bd1429bc.jpg"
-        }
-      ]
-    },
-    {
-      "title": "E-85 Big (T9V3-VIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "14.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/j0iC_7b-M8OZP98lcg8FTA/GD3lbFFcnLptaWaUrekyOMsMG9XZzLGPj2A8M2Qkd1PdNhg6skdDyxh6TWZ8F378gP-uimoLTXhnVe3NbYbU1DX4nVXeisiAgC7sccCcwPzfdPndNBJNhAja4XFKebzBzQvJVPlYbVRIvu8fuO-Tjw/sqt6mubORyt3QQks07kYVAyv_M6cqZRUuQikQbaWhJg"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/bd85895018e261219d.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/bd85895018e261219d.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/j3RGwd0gB9lgO4pH-s7VGA/mc_TGQp2l9fECgq0D3KgEwBLU2e_AVCnpKN20VWQalneKQI_d9U0I_pItSv-T2moa2Oj5DRH_RL3njKHdtlm0Zg0m_5-J1iLFqsxYp6_mdCBdyA6OJHdh1NEFDJO3cR5xgYtAr5ZU141D2OggEE674KlXNcoqu-RKWMALJJCPP2_rS6Bad79UMm7G41f5Y3Q/WonDlWzc3OaT5rlDUlFSeBuzCk5-c9-Oi4NpImo5Qd0",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/mLbYW4gADMWTEc_hkOT0QQ/oBR-LvS_t223jv9tJLtmnfM-puOdkLExNsJg0J0xfwqGA179VvX9-X1kTL98G6Y0_XJed88EQENu7cApOwqyaf7GmUyBHhZc_AXN-7UC310lzWFPdEs8EGohyekt7mLDg8KJWGVmdV_Icg0BPp_qNw/QH4CuliwRWDrrBKtIrWZPFW3u01Hy_r_q7qrvuMlajo",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recDQ0Vnr319pc4LL/fldoN8ktmukK5DsE4/attTiLB6tbASZtreB?layout=card&viewControls=on"
         }
       ]
     },
@@ -1454,7 +623,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "22.0",
+          "value": "21.0",
           "kind": "text"
         },
         {
@@ -1478,48 +647,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/047a558365c265c7e4.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/-Aw6V-NlRBMNbmNgng9tYw/RZr607pBt3b2NrBQf28Yu5m1C_MZbmCGCzhQkl3U3taHnNY3RM-0aWY82Cm7_f6-0FLrtRNiYq6S2XxAw5nTTgyKmaWAQQmxiDf26hnKS5--5u-il45vzA94dEcFVclIkRLeHR0nrIBt83YfKv7f3w/9mjC-1q4LUmmsssrH00cidgscxO4FzXfnQCMW1ZeQBY",
       "media": [
         {
           "type": "image",
-          "src": "images/047a558365c265c7e4.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Elektra Ice Big (H3S9-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "28.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/-Aw6V-NlRBMNbmNgng9tYw/RZr607pBt3b2NrBQf28Yu5m1C_MZbmCGCzhQkl3U3taHnNY3RM-0aWY82Cm7_f6-0FLrtRNiYq6S2XxAw5nTTgyKmaWAQQmxiDf26hnKS5--5u-il45vzA94dEcFVclIkRLeHR0nrIBt83YfKv7f3w/9mjC-1q4LUmmsssrH00cidgscxO4FzXfnQCMW1ZeQBY"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/ab812d43190b42d07d.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/ab812d43190b42d07d.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/PnN-3P9qL8Yf5dRrEAuesw/YYZmlerSQFM1IC91P12Ra_Wjh685FYBswCcW1RkCLNMDDv1FNGyf5eSEbT4mfZ_BCpQURkXiIa8goGD3rULmskzxa6GhpfMP0igWe2N7vox1Xs3Bpaa8wqHKxCyQdO1m78LgDqG-RnGFOBc5aWn8bA/nuSmLVaRfMKec2LsZbiE1Hnuq2oKGOD6RTx0XDEM6GM"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/EPX7A1DO6xWw8G2nn5E-Cg/Cqzj6Rzx1H7z3qnfzUxG5UZ6XtTfYi2E9KNzVYw0OHeNeW4KXXUYzGsS9dNLS5Hj6njYfBK2j-VY29gG5zl_RPNyIv-oUcVYwyFqYHBCwdBf8e11kryxU6-FQ1moRJ3oIfOsu5tnznA-zYnnzO1GOY-lnhNkoZKxRnYW3dvZmU4/r7w1H7IiRosaS7ncYWV8F6DLidwzo2q8y1wamw2Iu0o",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/-Aw6V-NlRBMNbmNgng9tYw/RZr607pBt3b2NrBQf28Yu5m1C_MZbmCGCzhQkl3U3taHnNY3RM-0aWY82Cm7_f6-0FLrtRNiYq6S2XxAw5nTTgyKmaWAQQmxiDf26hnKS5--5u-il45vzA94dEcFVclIkRLeHR0nrIBt83YfKv7f3w/9mjC-1q4LUmmsssrH00cidgscxO4FzXfnQCMW1ZeQBY",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recuyDudjoXFBbyIa/fldoN8ktmukK5DsE4/attnDZHVkRI4vsZd5?layout=card&viewControls=on"
         }
       ]
     },
@@ -1552,11 +694,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/f67583ecdcdd784848.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/3fbR3y9AlXvU0I59RMVJTA/dzlkrEJaZLNDtBFCXAoIl9-HTrCfZBOotJsgYG3r0FmiBAW6Ot7Lg-M8COs9zWvcwBmRojvOKpSpSJLdiOl4eV6gAAVzpeDs1chimt2lnSX09WfUAszDjdHijxMXlrIiwDpKRM65__MUa9jzeX9Chg/JbV8bAdh0bdtB7qg-0x2cHDSwpGblgI_p_AF0IY1AI0",
       "media": [
         {
           "type": "image",
-          "src": "images/f67583ecdcdd784848.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/3fbR3y9AlXvU0I59RMVJTA/dzlkrEJaZLNDtBFCXAoIl9-HTrCfZBOotJsgYG3r0FmiBAW6Ot7Lg-M8COs9zWvcwBmRojvOKpSpSJLdiOl4eV6gAAVzpeDs1chimt2lnSX09WfUAszDjdHijxMXlrIiwDpKRM65__MUa9jzeX9Chg/JbV8bAdh0bdtB7qg-0x2cHDSwpGblgI_p_AF0IY1AI0"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/pGqlMALv0WSM3fFmdxKQjg/PdtaxcPQ3QRrZPeE_f33yvz44VPLKdhAXAejiOEdtlJUGyjpal59sPU3fP-0ZGVVkHIxelq5eS41ze6D8x41M6RHNxjIka3qXF34gJrXcFET3p9SRu5FhUcf7VH69VPQqWxXWFcp4fwAhPIy-70LGA/PH-HUUxgDMo3KyrznxO_itdHQMWLR2WiCuIpkG924e0"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/6vnRp_9BpDRVeR6lzGolpA/YAWRs2mwLRsd0YYudZxoCnf1vozN5W-mzhwV52Bwh6DLWD8fNgz1ERF3DYG6UEQXNZw_L6H5p2il74eOMjoRUdYtzU0ODF0u6njjSPTVxRzQ1c2_BARVxQoKcc43EAOW_GHBOs_rhrilsX5gh0TGYa3Wys4GuYTkXhJb-LC6jRFpXtWOxe10elNdAJtYXJAl/YLEtLQfFlPLbEm1TBZ0NHZrmpJt9wSKJ9H-Z1JQwIiY",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/3fbR3y9AlXvU0I59RMVJTA/dzlkrEJaZLNDtBFCXAoIl9-HTrCfZBOotJsgYG3r0FmiBAW6Ot7Lg-M8COs9zWvcwBmRojvOKpSpSJLdiOl4eV6gAAVzpeDs1chimt2lnSX09WfUAszDjdHijxMXlrIiwDpKRM65__MUa9jzeX9Chg/JbV8bAdh0bdtB7qg-0x2cHDSwpGblgI_p_AF0IY1AI0",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recjEv30bWVRWv0Ny/fldoN8ktmukK5DsE4/attqgJ9NZAUJ6guls?layout=card&viewControls=on"
         }
       ]
     },
@@ -1565,7 +717,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "47.0",
+          "value": "46.0",
           "kind": "text"
         },
         {
@@ -1589,11 +741,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/59c7d1117b44410f45.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/ezgy-wgu4GtGisnZ_C3ouA/0SGyzVmF2fZWQApIclSEHHARhw4a_HTOX3DMlYyoFS-wSthYE11pwxzdfQnHhGZvB8UT5HuND1w3ExzW_ltm9ubjl5YhKvI7YZfwFYFzBl5qZRwmnmASPB7p4yKOCA4O_jFidPeVNTDKSZyP8o_DNw/LbYL7d-2DxM7VQYDSwcjmpOYk7WWDy0oXDHwLDU6N94",
       "media": [
         {
           "type": "image",
-          "src": "images/59c7d1117b44410f45.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/ezgy-wgu4GtGisnZ_C3ouA/0SGyzVmF2fZWQApIclSEHHARhw4a_HTOX3DMlYyoFS-wSthYE11pwxzdfQnHhGZvB8UT5HuND1w3ExzW_ltm9ubjl5YhKvI7YZfwFYFzBl5qZRwmnmASPB7p4yKOCA4O_jFidPeVNTDKSZyP8o_DNw/LbYL7d-2DxM7VQYDSwcjmpOYk7WWDy0oXDHwLDU6N94"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/OXG5je73yd4m4piu4ZW6_w/AxtVRyy0-ipFin49t41-Ae-Tmauy45w2QrtOARdZHShjYPKsJ8hCkGcRYldaZFJaEMRih0WGXiGbyyuWld_ffT0IcZ6NQu1mzizjfDmsZBedAiZaoDFokOJqdblLFCnwI5EoMP1yNMNyvwQRvB4AXw/0kwg1m-uw8YmLctLmn6-z6A7aZzzz0EaH63ixOJNYik"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/mcZN1EwoYlmdAE4FGXsPQA/j19Of0nrCbaD-Gc1G1MH4dcNQZMkAJJMeMpWUO-ErmzMxnwjSQ8C_kOfacMJq2PysQeREhK1YxpRcAgsfn9OKN98KiMmXxPF-aNE_-gb_ccb_pLcExjcw8-LKsvjDnlPHwoNsiAcJed3OWPiY5CldnVcUGNkoOyhSpZKRl11po8/yJ5wf1fMRdCxxraJfWsyPeRFZxh2qbXU_-QOhoEVmqM",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/ezgy-wgu4GtGisnZ_C3ouA/0SGyzVmF2fZWQApIclSEHHARhw4a_HTOX3DMlYyoFS-wSthYE11pwxzdfQnHhGZvB8UT5HuND1w3ExzW_ltm9ubjl5YhKvI7YZfwFYFzBl5qZRwmnmASPB7p4yKOCA4O_jFidPeVNTDKSZyP8o_DNw/LbYL7d-2DxM7VQYDSwcjmpOYk7WWDy0oXDHwLDU6N94",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recCwtRLzZGFCifam/fldoN8ktmukK5DsE4/attSmcFpzH0N68Tym?layout=card&viewControls=on"
         }
       ]
     },
@@ -1626,85 +788,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/8558c557db539a8a70.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/VBl6q5zXqZJjHKIl1O2u9g/KsJkb1iSZSH3V16poVaLdsHWsbPJwFYeItHOR6FRa-BG3pcxR_Gjz3-sACMupBeSHMc4p08JfkV7gx6zxPbbFIRaBcU9lYojf2xIeC_lLVQBXz7WI9wcITl8tOogezITEpcb13iVYBVM_9R1Dll1-Q/--eFA-cutUaWjfQ2heqDzb5oWgJ_Tiy7UOP8peMjubg",
       "media": [
         {
           "type": "image",
-          "src": "images/8558c557db539a8a70.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Gelato 33 Big (L5Y0-VIIE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "20.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/VBl6q5zXqZJjHKIl1O2u9g/KsJkb1iSZSH3V16poVaLdsHWsbPJwFYeItHOR6FRa-BG3pcxR_Gjz3-sACMupBeSHMc4p08JfkV7gx6zxPbbFIRaBcU9lYojf2xIeC_lLVQBXz7WI9wcITl8tOogezITEpcb13iVYBVM_9R1Dll1-Q/--eFA-cutUaWjfQ2heqDzb5oWgJ_Tiy7UOP8peMjubg"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/38d0a6fa5ad3c2fce8.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/38d0a6fa5ad3c2fce8.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Gelato 41 Big (K9A1-VIIC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "11.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/NVFLdmEqksoebSoJvVu19g/YURYHiYvU6UQJaHNSABH3MPXm5Kfj3jbZZoxWJa4VblsqU7ft27mamea2qcgFIWFhjoRkjDpr9LATLhz5dMwxhQFy-NLJcQxML0opHuIJ-y6a7tPKBgF04ChQduCgOTymVJW9p8jvjhxrBoYqmruWg/FrYGXNY8AZEDjNXUA7xFvs21EVRJhC41ic3TDvMsWyE"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$875",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/06940bc539308c961f.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/06940bc539308c961f.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/_NKkDKlUK1DCD9--XYGyAA/HwEetykP2XYo7gIuaC6DinSDmMUdyj8u2A41c2YIalyJ1Xk6-xomvv8ryGurXIPvrJz_gEZDJTqq_4c2x_enk5_ZlWrLV2flx-BfKgupPDaxSHpHy-B3-fTjoPtJEmDaEPBZ4UzVKiPKfLVCjPWPLzJBtYUjBsit3Pmu6H91yxd4EcNAQCUeJuPYYMSyHByd/L2DeHHc9XpsBtPduWOjWMimrsKu0BU-HkaNYChiPgis",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/VBl6q5zXqZJjHKIl1O2u9g/KsJkb1iSZSH3V16poVaLdsHWsbPJwFYeItHOR6FRa-BG3pcxR_Gjz3-sACMupBeSHMc4p08JfkV7gx6zxPbbFIRaBcU9lYojf2xIeC_lLVQBXz7WI9wcITl8tOogezITEpcb13iVYBVM_9R1Dll1-Q/--eFA-cutUaWjfQ2heqDzb5oWgJ_Tiy7UOP8peMjubg",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recJctuGEUZovBpun/fldoN8ktmukK5DsE4/att0na0cRhhuZFNIZ?layout=card&viewControls=on"
         }
       ]
     },
@@ -1737,48 +835,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/6efb31c6243ec5fca1.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/VHEo-yAhooWK5bzYC0geWQ/9MaIggzXkwd9FWqFbkGNfnmx3Q9Gp-fFmvcW_rNcUiV5MrKvqCmSZXwmQcmHZC5waCD7aFkqzSjkTm7xUR-3Cxf6c6zjdiY0Gd4Hn3EnBU4qkw7u7umeXOyHAZY6-Th-sAcDMR-Bm2NSINIG6YfvDg/5PYfn-9Q4tpzRvkjICf0Rddnefs9Qv-DHk3RZ714jNM",
       "media": [
         {
           "type": "image",
-          "src": "images/6efb31c6243ec5fca1.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Gelato Kush Mintz Big (G1E3-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "22.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/VHEo-yAhooWK5bzYC0geWQ/9MaIggzXkwd9FWqFbkGNfnmx3Q9Gp-fFmvcW_rNcUiV5MrKvqCmSZXwmQcmHZC5waCD7aFkqzSjkTm7xUR-3Cxf6c6zjdiY0Gd4Hn3EnBU4qkw7u7umeXOyHAZY6-Th-sAcDMR-Bm2NSINIG6YfvDg/5PYfn-9Q4tpzRvkjICf0Rddnefs9Qv-DHk3RZ714jNM"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$825",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/9dcdde4f075c3f1f36.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/9dcdde4f075c3f1f36.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/E76r2H2E3ar4svS8KrSzaA/Iz3jOR6CcJ1kSqMRsGnXnHEs2HlP3XDOIfJ3XjOnpUp1WN-rsF54iqZIiEGQ04KyQ-PK9zvXZb98Yv1dQOv5Uu6bkZHLRWOjk8NSrxxp7miOMxhNtnnVVDWf76db6xjDlhMD4QKPztmSvNMyg6FP4Q/IJtwCc4bc_HZ470SMqFeuM09rblIsEebcZsLyKBB2WI"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/1fi8iDTMakuE3-L1n94txA/cAR2HZw4b9tz1nxcZZaHmnki-G8TgtURGnPlJCWOHGMOx6vVgo4MhI7qZ-gYQVuQcWQ6WHYPXUu0g-CJw_DP1aPX8DDxd9PtdmLxRko9kk8w9JLz25e9rnzgd8p3ukjQF5ZIaxnalIGm3gS5A1g0bVsy3w6eY-i-mSGrWp_EDeNMKN75ExlGyN6xAyBandfZ/JU7P-aTtJYM7IQt-WqS4buik-fnbtXZ9_DdG3cEXn8g",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/VHEo-yAhooWK5bzYC0geWQ/9MaIggzXkwd9FWqFbkGNfnmx3Q9Gp-fFmvcW_rNcUiV5MrKvqCmSZXwmQcmHZC5waCD7aFkqzSjkTm7xUR-3Cxf6c6zjdiY0Gd4Hn3EnBU4qkw7u7umeXOyHAZY6-Th-sAcDMR-Bm2NSINIG6YfvDg/5PYfn-9Q4tpzRvkjICf0Rddnefs9Qv-DHk3RZ714jNM",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recpIVIlmhD1GwHvY/fldoN8ktmukK5DsE4/atte1LYaDFwNUz6W3?layout=card&viewControls=on"
         }
       ]
     },
@@ -1787,7 +858,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "27.0",
+          "value": "26.0",
           "kind": "text"
         },
         {
@@ -1811,233 +882,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/e01b00d57ecb01471b.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/ZTnlWSnQLdjwDJWWfGro3A/Qt6LHWZUdvtB129NAazcvSftxWxM5qcwyim_bRzAKfHJLAzGExL7GE9jat3biUdPe3pNzIupsAaov3ipQ9_oaeT3AhuDZ45Bl8amax59xbSaSyy7rA-vWnDyaVESIYziX1-PXOircnKAzNiyKZEzeg/FUafHkSg6SvMR0a-wlo2xHHJLR6GCAQqo6Ve4ViJvNo",
       "media": [
         {
           "type": "image",
-          "src": "images/e01b00d57ecb01471b.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Ghost Big (P5T7-VIIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "6.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/ZTnlWSnQLdjwDJWWfGro3A/Qt6LHWZUdvtB129NAazcvSftxWxM5qcwyim_bRzAKfHJLAzGExL7GE9jat3biUdPe3pNzIupsAaov3ipQ9_oaeT3AhuDZ45Bl8amax59xbSaSyy7rA-vWnDyaVESIYziX1-PXOircnKAzNiyKZEzeg/FUafHkSg6SvMR0a-wlo2xHHJLR6GCAQqo6Ve4ViJvNo"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,325",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/cac760067df9a2528d.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/cac760067df9a2528d.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Glitter Bomb Big (B3M3-VIIIC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "29.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/OQnflsfGNoNU2wHi18831g/cjJM5WjjEph2wrGUiq7EK9O9-9luiUk9AY020IH2HsGWpOWPw9NZq9bk5848zg_BvMDEm7ZaNWYoS8CO6KTmgbKDcv_cO2YnJ-KV4R-tHKFcYBqBmDSWvNEI-OSEe7hF6L91mDA9yeqYMANa0obIVA/q14pBWzQarcKOD3QYifNT1VYFXvEtG800I9Ad4nX5KY"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$675",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/4cdf8ed671a2a13907.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/4cdf8ed671a2a13907.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Glolatto Big (P5T7-VIIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "6.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/d99a0152d2656baacd.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/d99a0152d2656baacd.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Glue Dawg Big (G1E3-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "44.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/0e0fded173f41583eb.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/0e0fded173f41583eb.jpg"
-        }
-      ]
-    },
-    {
-      "title": "GMO Big (B3M3-VIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "23.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$825",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/538fc6f74c66aeef2f.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/538fc6f74c66aeef2f.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Grape Cream Cake Big (M4P3-VIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,025",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,000",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$975",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/5abc4913b2c808ed85.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/5abc4913b2c808ed85.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/W-Jgb7amfxwArLkfiMdKLw/1pMQfHBAwNU8IQyplXpwM7XFhis2Gl8eMf5lS-dznQ6SaUQq79SRs_PRPUl5DQjNGD6dmlh2MnYoeJpUAgD96ZzW2EmaZqfWvOAoyAVvQteR-7I8at7rqn9sqtabFmR9Xo2hY6AGct2DtFAjBxBntS_FsrDZ3DA8yqO63KQJf5jCp90DraZAwjlv34bvDA8a/s7GmcsKOhsEI5S32v6rcxquE1y3DHIQiOtX7Z7AdjhU",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/ZTnlWSnQLdjwDJWWfGro3A/Qt6LHWZUdvtB129NAazcvSftxWxM5qcwyim_bRzAKfHJLAzGExL7GE9jat3biUdPe3pNzIupsAaov3ipQ9_oaeT3AhuDZ45Bl8amax59xbSaSyy7rA-vWnDyaVESIYziX1-PXOircnKAzNiyKZEzeg/FUafHkSg6SvMR0a-wlo2xHHJLR6GCAQqo6Ve4ViJvNo",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recMkGPHgPgTE8fuh/fldoN8ktmukK5DsE4/attsUkyp8ZJf0AnbR?layout=card&viewControls=on"
         }
       ]
     },
@@ -2070,11 +929,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/f83bccc53fc3b26e9c.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/hy1nRuYjNZF2lAHXyGslIQ/pF0k8Ex59hrZxK3X-ieK8S4w-VK6Rl8Pg5T2inDoEDp6c9W7nsf9zgSVaSMJD9kj58Ue_rytqmoq0CVM3Oi3-do70YeHnVgaSoRIID7dxVh9WgPZxT3Rii6jLga92yQ5gYOj25RF_4jDmeQk9DsMQg/Pp6mDPiOwIL068vAvqtNwKEPs8kVldsyRCrBarCgka8",
       "media": [
         {
           "type": "image",
-          "src": "images/f83bccc53fc3b26e9c.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/hy1nRuYjNZF2lAHXyGslIQ/pF0k8Ex59hrZxK3X-ieK8S4w-VK6Rl8Pg5T2inDoEDp6c9W7nsf9zgSVaSMJD9kj58Ue_rytqmoq0CVM3Oi3-do70YeHnVgaSoRIID7dxVh9WgPZxT3Rii6jLga92yQ5gYOj25RF_4jDmeQk9DsMQg/Pp6mDPiOwIL068vAvqtNwKEPs8kVldsyRCrBarCgka8"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/E7XiV2mvDOxb1G8PLoRVrQ/K_KCwmd1OTcolMtk4MCKbh8101dAmp7mo_C1mJDYpNo-Ubb7JELXACEo3BQ7U_R3Fy29w722J09vVOo-N7SkjyCU5HtrqUs_b58DwOo6WVSheLazBioHL03KPUfdLuurnV2TTyKtGpsvkbt7BSG32A/Qg3HXEFevyeRM-CRVZgpHyrt3n0kE-OAn2ojboSeRRc"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/G_hciSxDUmEvgcOI4S-gaQ/LYknkMN6lrEpbDxhuWzE_WPh3RF6zrtzkB5JqwYL4ZX9CuLKaZiKIE7w-6rnwuEAAX6yHarbtp6KeXPWZFlBilvmXUciadZ8qLOvPQd7YMQsi5YG_tPtfkWfKdTgJkqHtgwCtLWsEyAWAfoRT6Wd6cZXZO9Mpy2hGI16GXyM4Do/C47W6EgloscCPMDeqcK0ca7jklYNHlfP9oDVVgkOwbE",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/hy1nRuYjNZF2lAHXyGslIQ/pF0k8Ex59hrZxK3X-ieK8S4w-VK6Rl8Pg5T2inDoEDp6c9W7nsf9zgSVaSMJD9kj58Ue_rytqmoq0CVM3Oi3-do70YeHnVgaSoRIID7dxVh9WgPZxT3Rii6jLga92yQ5gYOj25RF_4jDmeQk9DsMQg/Pp6mDPiOwIL068vAvqtNwKEPs8kVldsyRCrBarCgka8",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recqtXFCwoPDE6mfG/fldoN8ktmukK5DsE4/attXLsPzA1us2G9P8?layout=card&viewControls=on"
         }
       ]
     },
@@ -2107,85 +976,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/8d72295b36735bec91.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/KP0pHSFHaZvLNbhGggCrdw/zn_tfw7SZWTj8lcvaxCrG9DksY4vHbJukhacGMrslf10RqhUFmQPzir2H96b0YvVKP_Q_lNoQtksRJq21KIpWZm54gntMFF296leMVNadQhd6XHkk3NPfFuRKPMG9cZDnjDLN1zSGOg-BCb_Ypf5dQ/VQMOFUrxgALuGVJq8dXimMcSTnAJaKyUmLT0ICFMyEE",
       "media": [
         {
           "type": "image",
-          "src": "images/8d72295b36735bec91.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Gum Drop Big (F3E9-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "7.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/KP0pHSFHaZvLNbhGggCrdw/zn_tfw7SZWTj8lcvaxCrG9DksY4vHbJukhacGMrslf10RqhUFmQPzir2H96b0YvVKP_Q_lNoQtksRJq21KIpWZm54gntMFF296leMVNadQhd6XHkk3NPfFuRKPMG9cZDnjDLN1zSGOg-BCb_Ypf5dQ/VQMOFUrxgALuGVJq8dXimMcSTnAJaKyUmLT0ICFMyEE"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,575",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,550",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,500",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/aadd3f41d15d450292.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/aadd3f41d15d450292.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Gumbo Mintz Big (G7O4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "14.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/pefMPHv8DDC631x2EWiWUg/kjlHybAaIEMle12ChPrTWpA03KCCLiSCxKF8t3VOKmulhT_qojH40-vPG29UkiLxNF2ts9Imh28u0Ef3AribqBBT_njqaq1IJhY-FTVxwXae6RMtpSaanmCzF0-jF97dM6mKE0xi7pHdyLfGGpzovg/qIuH6AlnEmhSfxPRyvGoO--urZkxAbDkxU2CJwtWM_o"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/4174e9ebbe9be8c7a5.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/4174e9ebbe9be8c7a5.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/UlrsL7U2Wi5AfXUBP5wooA/9adU62OyruWKXtaZscqOeLbUDDZk9lt7N9PQ4ZheJMz8wETr3QTKn5KM_7UTvrylR619JVC3zFkkaDroehdNg3fhCl62xL1_-9pyFqD1XfgT1CwR9yt0cUtxLXD43eGgiINXsrvhNcHerdHsvnppRfJ8HzZqP9F0Ch1IPcdD2_0/NcohakcV3C81eONw81uEwvGCOFcdt1UxpIzlei_V0ho",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/KP0pHSFHaZvLNbhGggCrdw/zn_tfw7SZWTj8lcvaxCrG9DksY4vHbJukhacGMrslf10RqhUFmQPzir2H96b0YvVKP_Q_lNoQtksRJq21KIpWZm54gntMFF296leMVNadQhd6XHkk3NPfFuRKPMG9cZDnjDLN1zSGOg-BCb_Ypf5dQ/VQMOFUrxgALuGVJq8dXimMcSTnAJaKyUmLT0ICFMyEE",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recGGXoyV0ODL5CZq/fldoN8ktmukK5DsE4/attOj5KqUtFsAc5YD?layout=card&viewControls=on"
         }
       ]
     },
@@ -2218,11 +1023,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/695452aaff0b24a22e.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/g5dPROMjFLLZL-3HiJKC4Q/D-KqMklp3L6mDgKXaBxIcvVoyEjHrm3jIXULNhf7MRD6CWEBDEm1H43_BsWNxylHsDJ4uCK6nDRRV6R_eqtsTAAOTd2HIKcHr8i3byEgqWInqR1RX6BCCangbFVakfNiqDexcxQ-LmM_KJQt1Y5QIw/Hs4Gr0Ua7oy0QjgF-C1Quj0ZEZ5M60qfKHsFDabg944",
       "media": [
         {
           "type": "image",
-          "src": "images/695452aaff0b24a22e.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/g5dPROMjFLLZL-3HiJKC4Q/D-KqMklp3L6mDgKXaBxIcvVoyEjHrm3jIXULNhf7MRD6CWEBDEm1H43_BsWNxylHsDJ4uCK6nDRRV6R_eqtsTAAOTd2HIKcHr8i3byEgqWInqR1RX6BCCangbFVakfNiqDexcxQ-LmM_KJQt1Y5QIw/Hs4Gr0Ua7oy0QjgF-C1Quj0ZEZ5M60qfKHsFDabg944"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/-TE6ri7GaegogYeleVT2sg/_nFtLGinO69hoiHr3TVoxZ_H0_l8OkiY2LTk8L-qbBNhprxUJwWBOrDgY_9kEUXbF3vHTl0XPDQz8dNSL_Fp26dkEopxiJ1Ge_1eBipOYBmpiCH0fVwqe46iYi-xDl8iDzyHV-Z5Fl1noicGBd3Ptg/7wFlI5r6YT4aHMzZA7o5-lCRUPp172sRsrFxC9YZaKo"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/9IiqxRIgEt3E7h8Xn1QQlw/mvJSt21ELkQXMlRfLF9irQlYwz8jRt9VvA_u8gLs59w55oDWAwIVvCFRp-te53Mm-kSgAruKkx-tX97z-0VjUUWAD1f8hFiBIaPC77ZWn70Llu8yPyYXARWzW-n_pRBpB4Dn6qE9V4zu9QJ4K-brkvBfhaEAy9aNYXlvQ5eacJVPWdKTPsdX7dN-E5WvKS9q/MZg9sY4K5STIW6odaAqAX_1TbyVjDR-A0YFYgyctXfE",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/g5dPROMjFLLZL-3HiJKC4Q/D-KqMklp3L6mDgKXaBxIcvVoyEjHrm3jIXULNhf7MRD6CWEBDEm1H43_BsWNxylHsDJ4uCK6nDRRV6R_eqtsTAAOTd2HIKcHr8i3byEgqWInqR1RX6BCCangbFVakfNiqDexcxQ-LmM_KJQt1Y5QIw/Hs4Gr0Ua7oy0QjgF-C1Quj0ZEZ5M60qfKHsFDabg944",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recBZ3euS3eRosgMb/fldoN8ktmukK5DsE4/att2l3lo4SmPfVbsZ?layout=card&viewControls=on"
         }
       ]
     },
@@ -2231,7 +1046,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "12.0",
+          "value": "10.0",
           "kind": "text"
         },
         {
@@ -2255,85 +1070,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/8832976781b7c90107.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/t4BO20NfD9uVgZ7SCK5yeA/f_ExdXAy9fDwDDD5J6NJ6sj8OZoldrc60LPhjYk47gTD_LVaTREmspa3gSiA4mSYAehi7oXowAby0U3QHYvmppU8ycn9h_2OHmGX129UVdVfius4KnPB01UPhItDvuvuiWFc-9Ge4oZ_52b4Icghkg/wC1Fue3D35XFluLnzwcbdWe4SvL-oraXwR1U_yHIGtQ",
       "media": [
         {
           "type": "image",
-          "src": "images/8832976781b7c90107.jpg"
-        }
-      ]
-    },
-    {
-      "title": "illemonati Big (M2N4-VIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "28.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/t4BO20NfD9uVgZ7SCK5yeA/f_ExdXAy9fDwDDD5J6NJ6sj8OZoldrc60LPhjYk47gTD_LVaTREmspa3gSiA4mSYAehi7oXowAby0U3QHYvmppU8ycn9h_2OHmGX129UVdVfius4KnPB01UPhItDvuvuiWFc-9Ge4oZ_52b4Icghkg/wC1Fue3D35XFluLnzwcbdWe4SvL-oraXwR1U_yHIGtQ"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$875",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/717ac478cc9dfd61d5.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/717ac478cc9dfd61d5.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Illuminate Big (G9Y3-VIIE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/JQMCuhYC_91ndpsH1evpGg/-3HwFX7GRLH5YD-ZYLWAvyOa-cZrQEHUxnDfdwQxb65xJXd6bNckHOwkduRcRFQ3Z53ewPZrM5LN79VN-_nPfkz7lM2-qHUfw7vHXCioLepCZ3z5tzlQJMddjm05Pd8tj-rM_LhbwtUSoevAxaovDA/J2e4K3TQ5Wnq47qIYZjBjwBynWh77hqG9iEQsEQtcZ4"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$675",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/5b9bd69014d49e4548.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/5b9bd69014d49e4548.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/egdjImsvLqyOS4VZ4CQbNg/RZHFYXMm1aDoRyTirnVYDzGJIQtLRCO7CSEDOJY20H2NTtgBg1j_Uo8DAgnCUak0F8KsuoqCHw58jvDrgmmok8d5LCRx-dkvTX3Mc8H9vyYKykVKAsI0wcBdZeBmFMCi2IgWqD-QcoL-rvLUCPqX4qzAF7SdWEneVvh3nbzGQeskNc4SAYZH_h8okX_3ul2N/b70fiva0IO8TbMS3bycEI4RlrA884AKiOJdikvN2kw4",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/t4BO20NfD9uVgZ7SCK5yeA/f_ExdXAy9fDwDDD5J6NJ6sj8OZoldrc60LPhjYk47gTD_LVaTREmspa3gSiA4mSYAehi7oXowAby0U3QHYvmppU8ycn9h_2OHmGX129UVdVfius4KnPB01UPhItDvuvuiWFc-9Ge4oZ_52b4Icghkg/wC1Fue3D35XFluLnzwcbdWe4SvL-oraXwR1U_yHIGtQ",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recfOhwrYoCbY0W59/fldoN8ktmukK5DsE4/att2MNpyhACcoa8Pl?layout=card&viewControls=on"
         }
       ]
     },
@@ -2366,159 +1117,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/4fa06dcfc2b776a988.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/3a7cgq2MvwKfdbMgGOU45g/oBI0OUJRnrWmR95vQp4gw_AP9UrFpJQm0OUKtL9hBBAfZo1cLFlrS1Uxq0fA5hgymM0fNOHGx3W_n2LhX4sZu0q5iYg0KChEIPVkQRUFfGWYmHXRfukICRIKE95tRhm0RhamVpexnNkJoU_moX0zUg/oxErZT9OybGkIuu41KrVIMEYMF4fk9uXZc-jMuLvNY0",
       "media": [
         {
           "type": "image",
-          "src": "images/4fa06dcfc2b776a988.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Jelly Roll Small (T0E8-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "16.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/3a7cgq2MvwKfdbMgGOU45g/oBI0OUJRnrWmR95vQp4gw_AP9UrFpJQm0OUKtL9hBBAfZo1cLFlrS1Uxq0fA5hgymM0fNOHGx3W_n2LhX4sZu0q5iYg0KChEIPVkQRUFfGWYmHXRfukICRIKE95tRhm0RhamVpexnNkJoU_moX0zUg/oxErZT9OybGkIuu41KrVIMEYMF4fk9uXZc-jMuLvNY0"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$625",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$575",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$550",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/7d3073db14e51fe3db.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/7d3073db14e51fe3db.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Jet Fuel Big (G7O4-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "9.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/p6c1RVk_2R3e6Rd9HPmBjw/Nny3xci6gvTXr1WbbCvzThDJWszbbd6chRdDs-tRvyeFoGLbrthBNYXZYrmWfXC9IKbozrf8U-qsU-YLe9qQruo3C59WexPUBrwb-mZp4twNsa-cjuyRF_V1lWweyzn16p07vv-SUYy5YtcZfdCGWA/PQA0msKQM9yw-ImnAuFkYV7HV7V_aD28siGgwjeYHFY"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/a5d63b55f6824c1568.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/a5d63b55f6824c1568.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Jetlato Big (G8Y5-VIIIC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "9.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,325",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/79c6f93e8c63aa1af4.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/79c6f93e8c63aa1af4.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Kandy Kush Big (G1E3-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "18.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$825",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/8af846286171edabf5.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/8af846286171edabf5.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/SYpk0hI4H1G7SUGs-m6_TA/25OJmslf9HzlE6jO_-Bo7YAoaqFWVRUocso9nQMs1W07rZa963fEf31m083tFiY0MYpnmr3X4nkP1c9mXsCFHukpY8gRQgClzBQCvp-OkCQXvppkwN3CWWRemT5qVm-27as6Jb1rKkJplLeLyGrWUEQ__YDoZCmXyqt96cyZZhZFT1rJmRslhQN0XN2aLk0V/pB-iTRCa49cZoz5IZkADMzY4mERWETmJaCkKZXv_4TI",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/3a7cgq2MvwKfdbMgGOU45g/oBI0OUJRnrWmR95vQp4gw_AP9UrFpJQm0OUKtL9hBBAfZo1cLFlrS1Uxq0fA5hgymM0fNOHGx3W_n2LhX4sZu0q5iYg0KChEIPVkQRUFfGWYmHXRfukICRIKE95tRhm0RhamVpexnNkJoU_moX0zUg/oxErZT9OybGkIuu41KrVIMEYMF4fk9uXZc-jMuLvNY0",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recqfSrs9Qarkfct7/fldoN8ktmukK5DsE4/attVDQL2zIzjDSnDw?layout=card&viewControls=on"
         }
       ]
     },
@@ -2527,7 +1140,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "15.0",
+          "value": "13.0",
           "kind": "text"
         },
         {
@@ -2551,48 +1164,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/8cd83babcea82382b1.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/_q4-y52cyGy3flQ-pR0ADQ/DWV66q3fxXTE93EZ5FFKZGPjQf3fmk1F5oV8yR00KAldKx_ZdhUneh15nF26Ii3Ik6AKyAuY8590UeXI9R5oysbXy4EKNzC2cmjah9TtSB5q9SGONtYb-Wo3Hg3U2G6gkdwXhvJA0YAXquGdmHjHZw/NEJt0coBI2oLXsL6lNuiMEyr8ttZ3u2D1bpdmXnFj9w",
       "media": [
         {
           "type": "image",
-          "src": "images/8cd83babcea82382b1.jpg"
-        }
-      ]
-    },
-    {
-      "title": "LA Push Pop Big (T8M3-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "12.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/_q4-y52cyGy3flQ-pR0ADQ/DWV66q3fxXTE93EZ5FFKZGPjQf3fmk1F5oV8yR00KAldKx_ZdhUneh15nF26Ii3Ik6AKyAuY8590UeXI9R5oysbXy4EKNzC2cmjah9TtSB5q9SGONtYb-Wo3Hg3U2G6gkdwXhvJA0YAXquGdmHjHZw/NEJt0coBI2oLXsL6lNuiMEyr8ttZ3u2D1bpdmXnFj9w"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,250",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,200",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/ab92331fee5612959d.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/ab92331fee5612959d.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/WhNULOzCgK0S4oiD9haMUA/g-SaAOGaUCW-DbicIO3S2IfytAGbKFed1Y8kIg2NW1707u27C-ntesd0rt-kUlAFwya7UhCSP-B5sM0XnVYSQZMFWePEaZCz5UGisM-cMPxLKaRaA2Hu2UYZ4azn069v4Ed3ZGvzoQbTr3bVbqmyyA/AQR6bf5UccCHVu2Aa7XxnF8DpKkkhcY-Bp8dkwJ-fEU"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/BDLn_Ug7-8C9PENHnnSj1g/tGpaFKdMPD0orypiBFdEKJEh_7b1_AhEOwKk9aOSAuPJ2I_mbqgP7MjhQ6BINXSoKyvqMq1S-NTChQ4FalyGGgaKV2DoA6i6ghJbyHRbE0-BW7SJLMDHamJdaAiUok1oWfo-9x21BDcAu0lPvKh3ag1VfIhou1m8-ob3bTNSTcMHmsKsSYxphbBS-KhW1EEn/sUR7Cux6oOKnWkr4buIDsqnlzslzPUMCuyrCV45ck2k",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/_q4-y52cyGy3flQ-pR0ADQ/DWV66q3fxXTE93EZ5FFKZGPjQf3fmk1F5oV8yR00KAldKx_ZdhUneh15nF26Ii3Ik6AKyAuY8590UeXI9R5oysbXy4EKNzC2cmjah9TtSB5q9SGONtYb-Wo3Hg3U2G6gkdwXhvJA0YAXquGdmHjHZw/NEJt0coBI2oLXsL6lNuiMEyr8ttZ3u2D1bpdmXnFj9w",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recW8dLzfHX53wuQi/fldoN8ktmukK5DsE4/att7o88i5HLrLgn9y?layout=card&viewControls=on"
         }
       ]
     },
@@ -2625,11 +1211,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/72c8559c75dd273391.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/YLizmb2MMVs3BV9r8JmMnQ/sD9C7BSl_x_8TNR2VIhD8ECmu8wEhxV8c3sHBkr2B2IaNwrND_uwX0eOJ7jgAo1WCfvYMZ35MoErRSSemnBB3oGQsX9Rkiw-dXuCF8AY0c14_BaJWNJAgNcGighx_lWDoRdsrnQNbUIGsHsiK2xzkQ/DWnipopXah-JfVAJDgANQbfqHkZln83yaU33LmrmMUc",
       "media": [
         {
           "type": "image",
-          "src": "images/72c8559c75dd273391.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/YLizmb2MMVs3BV9r8JmMnQ/sD9C7BSl_x_8TNR2VIhD8ECmu8wEhxV8c3sHBkr2B2IaNwrND_uwX0eOJ7jgAo1WCfvYMZ35MoErRSSemnBB3oGQsX9Rkiw-dXuCF8AY0c14_BaJWNJAgNcGighx_lWDoRdsrnQNbUIGsHsiK2xzkQ/DWnipopXah-JfVAJDgANQbfqHkZln83yaU33LmrmMUc"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/YKTeBXy7joMXG4TP4Szbgg/2E2PFYybtBIM9WoTpGT8g9kZfldJ31zrAjeJ4huJFeItGK_bHtcB_hEF0pA90nSiSdb7WQBGEUNJlK1NTGtLyo_fzdZtlUh60AEnBAcdzCiM18hRNajlCbkfiRwdfCA2F88-tVYTAANWcfI-3eZpUw/z_FkAgFOukErY-X6G-MMyaqg_C9pDnlhbmfkZ6P87B4"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/36nIAT8YwGdmquXMM2g-rg/6RHqQa7Kpn7mXGtBb7Iavhw94x5hVXZvaJ5OQYpr-csN4Y15Lrze9gqHckmkHGpfUSQ_Nh2q5ERDcJaNQvjgM0IbiG2id4LzS2UTRtrohACSYQMHml6aevl6ZrXytvimXWdPhlifRORmI9-5tu2yBPT0v4oQgmXHzpCL0JmwxgU/KtdidhOk66IzNY0D3imC-pzWdHEK-u1yDFSOS_tmlAw",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/YLizmb2MMVs3BV9r8JmMnQ/sD9C7BSl_x_8TNR2VIhD8ECmu8wEhxV8c3sHBkr2B2IaNwrND_uwX0eOJ7jgAo1WCfvYMZ35MoErRSSemnBB3oGQsX9Rkiw-dXuCF8AY0c14_BaJWNJAgNcGighx_lWDoRdsrnQNbUIGsHsiK2xzkQ/DWnipopXah-JfVAJDgANQbfqHkZln83yaU33LmrmMUc",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recbSnxmpwSTyedjb/fldoN8ktmukK5DsE4/attQuu0qZYCmcMwsO?layout=card&viewControls=on"
         }
       ]
     },
@@ -2662,16 +1258,26 @@
           "kind": "text"
         }
       ],
-      "image": "images/64e8a0b2597b47e88a.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/RM1W397ZQdwAuV_m5SwRWw/4BhP3u3PRLgOWju9-KOnV3qdBbVZy9gm6DG5Jw35rnj4HGwssj1enBXpKT0mFOrv-vAJh8GJP7TDaQ6ZkEJ0HuSUDiPzOsJi_hyQ2h4PrIw96XgtpzRuild9KKhWPzXQXLJGDsKtOeT1KWnpDTodQQ/fkhvOb83gSXudJYzp2kS1WsLUXwHliaKclUgVZGtHaI",
       "media": [
         {
           "type": "image",
-          "src": "images/64e8a0b2597b47e88a.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/RM1W397ZQdwAuV_m5SwRWw/4BhP3u3PRLgOWju9-KOnV3qdBbVZy9gm6DG5Jw35rnj4HGwssj1enBXpKT0mFOrv-vAJh8GJP7TDaQ6ZkEJ0HuSUDiPzOsJi_hyQ2h4PrIw96XgtpzRuild9KKhWPzXQXLJGDsKtOeT1KWnpDTodQQ/fkhvOb83gSXudJYzp2kS1WsLUXwHliaKclUgVZGtHaI"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Z1eLE812v_EqfSAcUw-SAQ/2Stn10ThW8Yi3z8mLjJTZ5GtCfL2RC6MWeslwm3QoWtxiABSCOLip1Iyjr8Xynj7ttWIqZx7iN_pUsjYO640aPp5GIoH-n2tZglC9tLwmlfOhkSkk4YxG02_iqce1ayKI6R-A8lNOWKaL6VUJKseYQ/95-sPNYhxCNuKjgAE_tLph2PxkTQyw1bpDKbMNhRHEQ"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/MonizSoCqpLUZS6MC4UbnA/8bZ0tE50e81S48toVL9ocK4EK2Cn_ZA2OIambySw_G1MUFlkuSH_0fc38H50rvLB7reeYhzIhvdfd_Rj3-fYHt862pHhzaimLgLoKLfnjWl_9i0oRJdYcA5INCH5YhU_wPTiAZYXAvZfmokoYA8DCQTwk8Cvysvp-DfaffeIdVQ/-WgrjZcmZftrZKOLIx0LVFSrlNgZbSD1tHUtGjaDsT0",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/RM1W397ZQdwAuV_m5SwRWw/4BhP3u3PRLgOWju9-KOnV3qdBbVZy9gm6DG5Jw35rnj4HGwssj1enBXpKT0mFOrv-vAJh8GJP7TDaQ6ZkEJ0HuSUDiPzOsJi_hyQ2h4PrIw96XgtpzRuild9KKhWPzXQXLJGDsKtOeT1KWnpDTodQQ/fkhvOb83gSXudJYzp2kS1WsLUXwHliaKclUgVZGtHaI",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recRlI6cBA52M9adZ/fldoN8ktmukK5DsE4/attCWmQLsTiKm4k7m?layout=card&viewControls=on"
         }
       ]
     },
     {
-      "title": "Legend 2 Big (H7N4-IXD)",
+      "title": "Lemon Cherry Gas Big (E0M4-IXE)",
       "fields": [
         {
           "label": "Quantity Available",
@@ -2680,17 +1286,64 @@
         },
         {
           "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$800",
+          "value": "$1,350",
           "kind": "price"
         },
         {
           "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$725",
+          "value": "$1,325",
           "kind": "price"
         },
         {
           "label": "Tier C1 Price (50+ lbs)",
-          "value": "$700",
+          "value": "$1,275",
+          "kind": "price"
+        },
+        {
+          "label": "Quality",
+          "value": "AAA Premium Exotic",
+          "kind": "text"
+        }
+      ],
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/_R454jnO_ocIC1iM3N5jYw/g-IdZ8Xwwl_cIcarIU1G38VnR_7Yf3XoRgVSZD-r_YcxXFD19vH8QqHUuD8jSJ7vPsQrKhocEhwN_kjJfxB5Il_Z3MG9-QaHDj2wmFq0vrzkiBQKwgWSQ3Q4--FWkNQ9ObltSmfSheKMGz0XvcEDbg/h0r7-YiV8E1hTUQCH2wF7fHvyNgDz_wNoiTTU8sRs30",
+      "media": [
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/_R454jnO_ocIC1iM3N5jYw/g-IdZ8Xwwl_cIcarIU1G38VnR_7Yf3XoRgVSZD-r_YcxXFD19vH8QqHUuD8jSJ7vPsQrKhocEhwN_kjJfxB5Il_Z3MG9-QaHDj2wmFq0vrzkiBQKwgWSQ3Q4--FWkNQ9ObltSmfSheKMGz0XvcEDbg/h0r7-YiV8E1hTUQCH2wF7fHvyNgDz_wNoiTTU8sRs30"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Q5Dju4p7OASTJ1Mocxba4A/PsnF5kXK0TNfW4et2GarPb8hn8eYgI_yKuWrxWjhLcaVzQiW6TXD0rUICH4H5Kq4y3XOhGJY7lu1JAz6rs22LvzFyvSBTGLDULTtjpdoSK_mCSXbORy4arDqq4XBtRtTrrm76UnpabX_l2k70t_j1Q/RZE5zHTap4XyHCEXSU-103zW9AhmpPrZc4ugCIlzhKk"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/7YH2sH9Rc2I6YZuz2QMRUg/JvXoFKDDImj9aeS5opm1CmdpQERoY0hBWDh7NmSysxuUInkcYb3B52OAGu_NTa69zJIYlO88bKQCrc3WGu77L6jkiyDPhOwWzbfdO-L8cw7kLKrURfKda2yhfkqvAtdDGJg1TZCtO7AgyNdhZ3Lpt6LM-JOwzwfBS_8wxmy0j2uOeG28gvPB0LJm7XiuJ1Ul/J4cCeBdp1U2QJKgHFIKUgvbQCrytTUtJxvtaMY6bj30",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/_R454jnO_ocIC1iM3N5jYw/g-IdZ8Xwwl_cIcarIU1G38VnR_7Yf3XoRgVSZD-r_YcxXFD19vH8QqHUuD8jSJ7vPsQrKhocEhwN_kjJfxB5Il_Z3MG9-QaHDj2wmFq0vrzkiBQKwgWSQ3Q4--FWkNQ9ObltSmfSheKMGz0XvcEDbg/h0r7-YiV8E1hTUQCH2wF7fHvyNgDz_wNoiTTU8sRs30",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recxgbYxZj1ZfTJBA/fldoN8ktmukK5DsE4/attCo71l8iiRIaVtS?layout=card&viewControls=on"
+        }
+      ]
+    },
+    {
+      "title": "Lemon Kush Big (T5S4-IXE)",
+      "fields": [
+        {
+          "label": "Quantity Available",
+          "value": "35.0",
+          "kind": "text"
+        },
+        {
+          "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$850",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
+          "value": "$775",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$750",
           "kind": "price"
         },
         {
@@ -2699,48 +1352,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/5cda095176840308fc.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/4vzTXmqNRYCPI6Zx9OPaSQ/P22jWqMn5h8G6crGtwbhxZeMjxAC7ZlMP-AUL0wwLgS5o8FqZXj9voJKNSbG_iOF-CeMTXMMKF_Jza6-Tv5mgxkNP-OiQE8amP0gVJnH0S6YbpTIwN_PxzU393rBw1Ex-Di8CvFiyUG9scxUd0t_IA/U1-yM_Efctso0uPln3a7NOPsmKHYdRejiYQ0M5SKtjY",
       "media": [
         {
           "type": "image",
-          "src": "images/5cda095176840308fc.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Lemon Mintz Big (T9V3-VIIIC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "12.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/4vzTXmqNRYCPI6Zx9OPaSQ/P22jWqMn5h8G6crGtwbhxZeMjxAC7ZlMP-AUL0wwLgS5o8FqZXj9voJKNSbG_iOF-CeMTXMMKF_Jza6-Tv5mgxkNP-OiQE8amP0gVJnH0S6YbpTIwN_PxzU393rBw1Ex-Di8CvFiyUG9scxUd0t_IA/U1-yM_Efctso0uPln3a7NOPsmKHYdRejiYQ0M5SKtjY"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,100",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/127027674bd3ad5c5e.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/127027674bd3ad5c5e.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/bo17J6CTZayTclQiyZVrgw/7Qak-jLJwxb0u739Eqa8R4_ctXHsHOkPx9D93j7PaY2GoO6gNVfvSqBk9wLAzcIaun21-Bu7HpWc7LQsqIEKwbNIXBpjve4uCvCjy9nXlLE2MHaRVBfRRCpK9Vm90SFc8svMPfUrvCPxptngi-PD9A/AzuWts35EtNjch-OPE4j7UqjTsexc2cgZXjncQASOQk"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/ABH8QRE7OsjubyADqv9cMw/6bqLgmM2WLsjf7vwjEsZZM2vK7KDb2MAZJwpVCJOmx8pbbEjd4HNeaNG7nuIEldvigSuQqH119i9IQTQIQSJk1NJCead3SLN8hT03DDhYhmP4YUXdmFJYMQrHYFHZuO_CJEabpUEfAdiqoiEhFA7-xLFAQQ7Q3ikMlspGJFqwpL--atZ_cIQnRfL-dUV3huD/8KJTnRQ8XpgExe-XHs7YFj_0r1_6juctbTIvZcCmrag",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/4vzTXmqNRYCPI6Zx9OPaSQ/P22jWqMn5h8G6crGtwbhxZeMjxAC7ZlMP-AUL0wwLgS5o8FqZXj9voJKNSbG_iOF-CeMTXMMKF_Jza6-Tv5mgxkNP-OiQE8amP0gVJnH0S6YbpTIwN_PxzU393rBw1Ex-Di8CvFiyUG9scxUd0t_IA/U1-yM_Efctso0uPln3a7NOPsmKHYdRejiYQ0M5SKtjY",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recHs1kiOyiovp0oT/fldoN8ktmukK5DsE4/attckFCJ1rsGWu9ey?layout=card&viewControls=on"
         }
       ]
     },
@@ -2773,72 +1399,45 @@
           "kind": "text"
         }
       ],
-      "image": "images/02ce888cbec5aecd03.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/f9EBasd9V4IBBOGeVICfRg/fPCd1cPqeaNpEi2Vj0pTEKC81lIDIb08MfSsIgy2SHdH43BEzq-6xmX7cPhNboBaeqn8LBwXExupXjKQ5QxcFoc73U5LpWQ-ICyxLwMCbfoH4uF7Et0YVU76kAQ4H769-Ep3eHIR2-cVqwE5GqsHbQ/k2qG9eF92e5z3fEsO1GsfD_Zpm4N_CDBy-OipORhHDY",
       "media": [
         {
           "type": "image",
-          "src": "images/02ce888cbec5aecd03.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/f9EBasd9V4IBBOGeVICfRg/fPCd1cPqeaNpEi2Vj0pTEKC81lIDIb08MfSsIgy2SHdH43BEzq-6xmX7cPhNboBaeqn8LBwXExupXjKQ5QxcFoc73U5LpWQ-ICyxLwMCbfoH4uF7Et0YVU76kAQ4H769-Ep3eHIR2-cVqwE5GqsHbQ/k2qG9eF92e5z3fEsO1GsfD_Zpm4N_CDBy-OipORhHDY"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/YqyD9_NAftXortQR_wHmoA/0oVYh9XNAIg75oEC6lgjMH_s7WeOKiwsWIQYfbIDcfIovLJ5JUmOB9WLMKUYP-leMMq2aKw9XgKd3NPgdPTBX4JNKQ9oXhwTA_PfLLuNUHcG10HB2l6RrWmW9uRCLqDagTPFbEZAuT7n1cVwFubCQw/Xe3UgRf_rsgxedXCcHFaVJhTR7VA4_iIxfWbHnku9J4"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/VCFjsNhq8ISU8YRi5u2MfQ/G1wUCmb8Eo0H-RIcevbC0JiLtjHxnZx4BHZjSqlncwCyWr4IKGASpIQyUwC9D89hvX9ftZITITsyWMJ0-dNqmUBU1npEKhbhsIsgxXIJDy2RRduWJ-PL718sdtVOaOQC4rzWaWzTNQGjZjtqRTnoFW-e8MX-5YlU9--JuRAve-rrikGeR0Rvu4Nf6PsbevjF/6V57PtqxfsrCPWe1uDBIeIkUvItxu9IhN7XiQiK8ZMw",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/f9EBasd9V4IBBOGeVICfRg/fPCd1cPqeaNpEi2Vj0pTEKC81lIDIb08MfSsIgy2SHdH43BEzq-6xmX7cPhNboBaeqn8LBwXExupXjKQ5QxcFoc73U5LpWQ-ICyxLwMCbfoH4uF7Et0YVU76kAQ4H769-Ep3eHIR2-cVqwE5GqsHbQ/k2qG9eF92e5z3fEsO1GsfD_Zpm4N_CDBy-OipORhHDY",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recFlZIF6VOyOjv4a/fldoN8ktmukK5DsE4/attd2zH4gwwNnzk03?layout=card&viewControls=on"
         }
       ]
     },
     {
-      "title": "LFG Big (G1E3-IXE)",
+      "title": "Lip Smackerz Big (T9V3-VIIC)",
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "39.0",
+          "value": "6.0",
           "kind": "text"
         },
         {
           "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$900",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$825",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$800",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/e870deaed6c5d3318d.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/e870deaed6c5d3318d.jpg"
-        }
-      ]
-    },
-    {
-      "title": "LFG Big (P5T7-IXB)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "13.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,325",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
           "value": "$1,275",
           "kind": "price"
         },
         {
-          "label": "Tier C1 Price (50+ lbs)",
+          "label": "Tier B1 Price (10-50 lbs)",
           "value": "$1,225",
+          "kind": "price"
+        },
+        {
+          "label": "Tier C1 Price (50+ lbs)",
+          "value": "$1,175",
           "kind": "price"
         },
         {
@@ -2847,159 +1446,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/fa4a2695c1841fa44a.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/qVRt2ur-_urMb4ChDATTZg/AMcD2RjCVh2F2wP2Ft1RUaukaCV1DTSOWCQthWlDPVEOgUFKX5ZmofYjXzacyz4OVDByxyVf4Kbu2CU7jcgT3inBM8V5EhyhbyiVGU4_XnLR7gKSPU8ijm1ZiQozc7fL-NB3EgMzq_UK1ZrEMmz-ww/znMEEckxkVPPCkzC3nBFAy-DTaA7MCyXfJ2TE2qYzT4",
       "media": [
         {
           "type": "image",
-          "src": "images/fa4a2695c1841fa44a.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Lipsmackers Big (B3M3-VIIC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "24.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/qVRt2ur-_urMb4ChDATTZg/AMcD2RjCVh2F2wP2Ft1RUaukaCV1DTSOWCQthWlDPVEOgUFKX5ZmofYjXzacyz4OVDByxyVf4Kbu2CU7jcgT3inBM8V5EhyhbyiVGU4_XnLR7gKSPU8ijm1ZiQozc7fL-NB3EgMzq_UK1ZrEMmz-ww/znMEEckxkVPPCkzC3nBFAy-DTaA7MCyXfJ2TE2qYzT4"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$825",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/12354d01b281c79b05.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/12354d01b281c79b05.jpg"
-        }
-      ]
-    },
-    {
-      "title": "London 41 Big (T0S2-IXB)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "11.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/D5OBwcbADr45HOh2iQtHrw/Q3vgBlgxUf6fR1vFCCNjU_fEiynmzuYMqQA-bzUP5FYR7lzNNkYvDQtCvCxGABEwiuV6YlRUsPteUzrGQzkcxSpF29C-Ex2N24XO5HBVdAY-0uEPr7CRcQ-bHpQ_1bOyoeLmVBz-DidNhD8XkAC0uw/dcNn8MPpMHIT0qSoI2o4bbewuvvhTz26C-VrnJClReE"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,100",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,075",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/e83f955a728af98fac.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/e83f955a728af98fac.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Malted Shake Big (G1E3-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "10.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$850",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/70441e0182d2701af0.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/70441e0182d2701af0.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Mango Madness Big (G1E3-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "8.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$850",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/de4effadf3b8ef82d9.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/de4effadf3b8ef82d9.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/_Mp7AdbFEMFHHCtm6vt7Qg/qgW8Whu2R6WB2abcPNvJwpTrSyYEJIoGn-MdIDkkIUxL4hpnLa6DuFvKfBoxjP6O85RH3ZtXsLiSGUXQ0W04NHn9tdEUCYsQvNOoUe8iSn1RV8nHSNIXuaBPzNAX9tT95_cABQo6iiYuDj77o82O4EeWonLHX37_0wSm2efMfdlBlk7-6XphcoFflCn32JNW/plu9GNxH0Cc0iA60yDBcVDIClr4enYkjAv2zrkwaNH8",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/qVRt2ur-_urMb4ChDATTZg/AMcD2RjCVh2F2wP2Ft1RUaukaCV1DTSOWCQthWlDPVEOgUFKX5ZmofYjXzacyz4OVDByxyVf4Kbu2CU7jcgT3inBM8V5EhyhbyiVGU4_XnLR7gKSPU8ijm1ZiQozc7fL-NB3EgMzq_UK1ZrEMmz-ww/znMEEckxkVPPCkzC3nBFAy-DTaA7MCyXfJ2TE2qYzT4",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recsPYdZU2p6stHCM/fldoN8ktmukK5DsE4/attTMsUpCi6mpT34v?layout=card&viewControls=on"
         }
       ]
     },
@@ -3032,48 +1493,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/017710d93a29562281.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/W6l_sQO_gwoFuzM_wrp60Q/HGu9DPFzhE1wAWbiBYkkHdpcdPaWCaNqfw0SR4a2ZIOM-iFl0KJtvdftccr-IfNKKq4g1IMdxYRhM-WWDrE21R9cNfNAjzkAJTS8DVzS6w3mAH1XbvNXr5TNPHJWX4X5Kxfx5n9t-8zCS_RkZuxG_A/OpoVELDiFN-pXN-gMFmJteliqSxU1gSo-hkszDFZAC8",
       "media": [
         {
           "type": "image",
-          "src": "images/017710d93a29562281.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Mixed Small (C1H1-VIIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "11.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/W6l_sQO_gwoFuzM_wrp60Q/HGu9DPFzhE1wAWbiBYkkHdpcdPaWCaNqfw0SR4a2ZIOM-iFl0KJtvdftccr-IfNKKq4g1IMdxYRhM-WWDrE21R9cNfNAjzkAJTS8DVzS6w3mAH1XbvNXr5TNPHJWX4X5Kxfx5n9t-8zCS_RkZuxG_A/OpoVELDiFN-pXN-gMFmJteliqSxU1gSo-hkszDFZAC8"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$525",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$475",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$450",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Lows",
-          "kind": "text"
-        }
-      ],
-      "image": "images/db1a2c6f6298b8a20b.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/db1a2c6f6298b8a20b.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/sI6jjC1seaOe7X38ZRJIKg/qhgqlNVzRVH4rsYvPiPNzaL5DXbxBYw5Z_WrocyEzxDNCL6JqyeOHCH7noozhLEwPPSNverI_ePVCJKQ342YNBL_r4q6GekGpApTVmTeOiKTbM0F11Q5nyJw1vOsibylaKFZExw_AJS7LhrlydthNA/Hl1Hlbu5IsDc-zwMsHhMOAYGq1bypwz5Lyjv0h6l77U"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/ZsBP34I9ZoYBtPEhUS-2ow/m6lEfuypI2smMGUb8lsqe8h6sFHXn2y3EfgUDjatbqjF2bswqN2irnDsZ1DlAGxgrfgJma-MCzz2Ld0zua8eKka2fHrpmDvhQ7W5ukQtU3aQQDWZ8U4482cIMXw1PdQl1Ios48qQe12ehqWRQO_nv1i69MKJyO9VACfweQyAy6w/Dnt5pqFWGhNO4rpwX8yN3W6O_TNqUZ-lo42sryk6i0Y",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/W6l_sQO_gwoFuzM_wrp60Q/HGu9DPFzhE1wAWbiBYkkHdpcdPaWCaNqfw0SR4a2ZIOM-iFl0KJtvdftccr-IfNKKq4g1IMdxYRhM-WWDrE21R9cNfNAjzkAJTS8DVzS6w3mAH1XbvNXr5TNPHJWX4X5Kxfx5n9t-8zCS_RkZuxG_A/OpoVELDiFN-pXN-gMFmJteliqSxU1gSo-hkszDFZAC8",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recZjl509THBqm21b/fldoN8ktmukK5DsE4/attWGZ00PnDyek5HI?layout=card&viewControls=on"
         }
       ]
     },
@@ -3082,7 +1516,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "50.0",
+          "value": "49.0",
           "kind": "text"
         },
         {
@@ -3106,48 +1540,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/c2c84f4b93ba09bcf1.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/-HHBpssucvzX5dFcHEY9zw/4XdEgWh5SCF3PUvp9FS6EQNi8u_ljUD9QdZSKuHjs0cWnHb1jT7kyY4GvDsnt8DgbnfGVn2OoiDYOlf-7SzoYiBBh0blY4guby-urkqwtR_KKHrUJBXBfhuDeIeXOkPCWO6_q9se7-Wh849h4a4M8Q/6gx9FOH9Zm_8fWrH5eQ26OMS9mLKcKCq-FquNrmnEkc",
       "media": [
         {
           "type": "image",
-          "src": "images/c2c84f4b93ba09bcf1.jpg"
-        }
-      ]
-    },
-    {
-      "title": "MOB Big (P5T7-IXB)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "7.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/-HHBpssucvzX5dFcHEY9zw/4XdEgWh5SCF3PUvp9FS6EQNi8u_ljUD9QdZSKuHjs0cWnHb1jT7kyY4GvDsnt8DgbnfGVn2OoiDYOlf-7SzoYiBBh0blY4guby-urkqwtR_KKHrUJBXBfhuDeIeXOkPCWO6_q9se7-Wh849h4a4M8Q/6gx9FOH9Zm_8fWrH5eQ26OMS9mLKcKCq-FquNrmnEkc"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,325",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/64c02007fe4a273d73.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/64c02007fe4a273d73.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Nc2p6-yH43HMPGTStnx3Rw/5bziyf__QchlFl--Yb8cVoGGIrHfmih4Is2C2uPUWdXWLe1eek_ig8_RAM-5gJC2vI9ckgNYrfsa9Ae_Pljd_VeU4NeZd_Z-4SZCbEsJmoBNX1YwEzH3s6UGCCBS2P2E01j5B7WoQZYZ2INHR0N7EA/9XGy22GnaNxQ9mbsaoZfgaFDcXaeByhWVGDipViLIWc"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/yOVzHPaOvJW89dgSB89C6w/lgIugV0Pq3B0cgYW2Tfo2S3JpgKOMCu01w7T6pTWx2VJlq1cMQBMRdYstTZeDKOuikvFmbAEpYnX81xVKpuGphfBqTm3ERJrEBm_5XgZlN2igTsMPSS29WKhaewDseIiC0B8dqfy4XzNP4VLnUEWXOlmJTJuMtyccWAZiAVTtbI/Zj7go3uvwKqKV8qvz83aUp5T0EbfVquuiA7ah-jli8g",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/-HHBpssucvzX5dFcHEY9zw/4XdEgWh5SCF3PUvp9FS6EQNi8u_ljUD9QdZSKuHjs0cWnHb1jT7kyY4GvDsnt8DgbnfGVn2OoiDYOlf-7SzoYiBBh0blY4guby-urkqwtR_KKHrUJBXBfhuDeIeXOkPCWO6_q9se7-Wh849h4a4M8Q/6gx9FOH9Zm_8fWrH5eQ26OMS9mLKcKCq-FquNrmnEkc",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/rec1FoiE7eZwOTKBZ/fldoN8ktmukK5DsE4/attUITCYxApuMMLRT?layout=card&viewControls=on"
         }
       ]
     },
@@ -3180,11 +1587,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/1a908b5d4249455209.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/LO5hbb885mC0ukc5u-1JAQ/ckYVM0GarhH8T3LhyjNm0OpZRl_8WK57gnFg7RgQp-4LI8JIuf61Z_GqxakRernf3SKBe_4H4rqx-lnNnlGsxzQ0VIYzqIi3vPsKouP9VO9o1p38UTqqzilPea-WfQmReoNLYn5pjDGjGuHEQTCW9Q/vNLu-qhTjL0hRFpsyrgyhuRR08rwjtx3KBIRs4t0sns",
       "media": [
         {
           "type": "image",
-          "src": "images/1a908b5d4249455209.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/LO5hbb885mC0ukc5u-1JAQ/ckYVM0GarhH8T3LhyjNm0OpZRl_8WK57gnFg7RgQp-4LI8JIuf61Z_GqxakRernf3SKBe_4H4rqx-lnNnlGsxzQ0VIYzqIi3vPsKouP9VO9o1p38UTqqzilPea-WfQmReoNLYn5pjDGjGuHEQTCW9Q/vNLu-qhTjL0hRFpsyrgyhuRR08rwjtx3KBIRs4t0sns"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/wG7ovHPzLB5zlSZU-kK3GQ/oBryy3neydY77jt_nhkMOP_6eQAkN_tyBNtnxlcSp8o0uwD5tIzyWnmOlvp6ru4LvW7GIQxX0LaLLAgk6Kp8jdIxC1Q1AGn4jM3b8YQooS6-c9BRjOhH6PBSY1-ut18-heh5z2I6w8B4yw-p3BCzrA/9qdO8jGelphARColnewvc7iLdbpzB83CKjFCy3xx-oY"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/46NmNe9hOzOAruE7cDeN6Q/T_PJHtQhOaGUVZo_utvVKoCDwDJ1SNfxsHEvM5hzqysSS8k8j4h49OR-KXKwc1rqYmo_RIZrd7-GFoadEgEfUaEAKdAGlxhP-32mlJSfKwmrIeRomm2hktmxZZf7ILAZcvrqroOota78mwgfop--lSysiD7pDtBZbKZifrxOHfI/1QTIGLl8N4MvMHsBV8rcn0M_FN9cHSdkoFg-t5dfNhU",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/LO5hbb885mC0ukc5u-1JAQ/ckYVM0GarhH8T3LhyjNm0OpZRl_8WK57gnFg7RgQp-4LI8JIuf61Z_GqxakRernf3SKBe_4H4rqx-lnNnlGsxzQ0VIYzqIi3vPsKouP9VO9o1p38UTqqzilPea-WfQmReoNLYn5pjDGjGuHEQTCW9Q/vNLu-qhTjL0hRFpsyrgyhuRR08rwjtx3KBIRs4t0sns",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recgOW8kLZDfWa0jO/fldoN8ktmukK5DsE4/attNyTCSclugqyuoX?layout=card&viewControls=on"
         }
       ]
     },
@@ -3193,7 +1610,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "27.0",
+          "value": "26.0",
           "kind": "text"
         },
         {
@@ -3217,11 +1634,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/f674b5ec7e9e1498d4.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/vEWybehKCGYbqGqeASQNAg/DfiDlG4luRL6ecR4g3SiAjQ9RTT36Q7SqflHymXSPITjPo7yapIvlPWybXpjvZ7k2NZtTxiP1oSjbAuZpM2vjaE2aPZ8jEM3WfeGkALLecQHQyDY-oy3RyHv-Jhx8-J6iFgSCPbo0ht5HcRUuxJvzw/5XF2iX2xFkHccu4wWq9swcqKQp6wQlqWuU7RpuL1GbY",
       "media": [
         {
           "type": "image",
-          "src": "images/f674b5ec7e9e1498d4.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/vEWybehKCGYbqGqeASQNAg/DfiDlG4luRL6ecR4g3SiAjQ9RTT36Q7SqflHymXSPITjPo7yapIvlPWybXpjvZ7k2NZtTxiP1oSjbAuZpM2vjaE2aPZ8jEM3WfeGkALLecQHQyDY-oy3RyHv-Jhx8-J6iFgSCPbo0ht5HcRUuxJvzw/5XF2iX2xFkHccu4wWq9swcqKQp6wQlqWuU7RpuL1GbY"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/3n12H-PH9yEWjs1RNkQhQg/x6x3qYN4hja5AQMevecpx7GHR1L32aNiilB15azwKJz7J-wR_HL8wOHOBr6Acy3rwfHHuJdSXPq8HKwqRD3NTAhbKlYyk1UsL7WzMPHo-0DGq5EVniQkvQ_L_ZK0JMqHkdSHi2wCjkbQ62zFtbuV4w/AreF1pTxrbBJBZLHttJ_3LdYNFfI-Vupujd2ryntw3k"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/HjIPyESuRH_yj92nu2shMQ/r_XVSJXCVKHK0gp8ZoTKAYf31r_i5HYgnptevqYXUawvz-uVVknBe8T0swZRQzRtGzQAo1kp5TXcUlgAPuoHXW96_wMtNtl4U83bbaq6IMriLslg94-fJQ-_EYETzg51nZnHq-5xbpfY057AEFgOqZA7Vu0l-lDc6nhzcddm598/cwXFgkZB1r-792hNvykkL-Ntzd2Ijyl_872X5nUmTqg",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/vEWybehKCGYbqGqeASQNAg/DfiDlG4luRL6ecR4g3SiAjQ9RTT36Q7SqflHymXSPITjPo7yapIvlPWybXpjvZ7k2NZtTxiP1oSjbAuZpM2vjaE2aPZ8jEM3WfeGkALLecQHQyDY-oy3RyHv-Jhx8-J6iFgSCPbo0ht5HcRUuxJvzw/5XF2iX2xFkHccu4wWq9swcqKQp6wQlqWuU7RpuL1GbY",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/rece2GjztUWqWhGAE/fldoN8ktmukK5DsE4/attR7MUhPIu68JMUq?layout=card&viewControls=on"
         }
       ]
     },
@@ -3254,11 +1681,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/62ba7fbb52f76c1d77.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/5OyqhLvMm-TMss0a-_8A2A/9jlN6ifq0lT9zY7CviED92IrbvyFLpgKeHjFlM2o9YYWyDTLJWIkT6LuKEug6Qoz9ncu8fVUwJe5H3EpZp43mp2b-Z592MfIxo5zLOjjPqNMAIA8NbNFSdA141UuDgfSyZXwhvs-1Zedo7Vv00nyAg/ZvJDMAkv3VYyiHWCnfULrt79TFSSPwZt_Rahp6MfBG8",
       "media": [
         {
           "type": "image",
-          "src": "images/62ba7fbb52f76c1d77.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/5OyqhLvMm-TMss0a-_8A2A/9jlN6ifq0lT9zY7CviED92IrbvyFLpgKeHjFlM2o9YYWyDTLJWIkT6LuKEug6Qoz9ncu8fVUwJe5H3EpZp43mp2b-Z592MfIxo5zLOjjPqNMAIA8NbNFSdA141UuDgfSyZXwhvs-1Zedo7Vv00nyAg/ZvJDMAkv3VYyiHWCnfULrt79TFSSPwZt_Rahp6MfBG8"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/9845hWtssDP1jREILXlSQA/_CVwBQO-5DPfoUUgOHD7JftFRrZ9jHFCXLWrnx86-c-I_fBs7M1lvESEpnKnd8Cn6PCQoy3l2-JWXAC30ztrWN6ftW0V1b5-byXpHUUVaQTOv-g874n9Lt21ieTLCldsX09vfqB5gRzH6wCcg_np8A/U_Vt813mD0uaqA6Gv1XbMCa0IE0K_gwbUY-3YpqTJ5A"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/K8zWWYds43IRD6oC-afXcw/4DgYKphVQ0xws1svyytYsRXSgY6zhn9TJC_d8FD4jjhUzuVauWszDSfaWF0Y4zUr_ftiL670EAKpklcVJn3xAqTuzLm8C6O_SLeyBcmFe16lFqkvbDr-v0vLfIh3Bs9dhNucSNrHutA6SVZlCFiKoZ8qNxb_z35-ZjkMTtGAl6f_6GkxAECP1zmstGihvHBp/UDWNEvg9rfXRJMr36fZ6ku98lYp-LzzGcV08mtDyzdE",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/5OyqhLvMm-TMss0a-_8A2A/9jlN6ifq0lT9zY7CviED92IrbvyFLpgKeHjFlM2o9YYWyDTLJWIkT6LuKEug6Qoz9ncu8fVUwJe5H3EpZp43mp2b-Z592MfIxo5zLOjjPqNMAIA8NbNFSdA141UuDgfSyZXwhvs-1Zedo7Vv00nyAg/ZvJDMAkv3VYyiHWCnfULrt79TFSSPwZt_Rahp6MfBG8",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recFPyZczh5ZbTZgM/fldoN8ktmukK5DsE4/atthMYjLKH9KgnSoN?layout=card&viewControls=on"
         }
       ]
     },
@@ -3267,7 +1704,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "35.0",
+          "value": "34.0",
           "kind": "text"
         },
         {
@@ -3291,48 +1728,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/d60d391181c68133ec.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/7nuErJWte5hnCzC6W9bFHw/XQTq6XVBzDimvS1zyty3TaeUZdfreFQbG8OFxYuVOLfsnj_aooa30zbvoTViev48yVjgV-gDzyez7wAcW1GV1VPLULu-QHF0dNcQx3G2yysE5MUYduMCaApPAdd_smKwlNkEWjFE7Bxqh9Rh7jqFIQ/lxTm7kp36WOmcYYP9QuA56zKbXsskiA6u5aUINnlEQE",
       "media": [
         {
           "type": "image",
-          "src": "images/d60d391181c68133ec.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Original Glue Big (L9E9-IXA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "14.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/7nuErJWte5hnCzC6W9bFHw/XQTq6XVBzDimvS1zyty3TaeUZdfreFQbG8OFxYuVOLfsnj_aooa30zbvoTViev48yVjgV-gDzyez7wAcW1GV1VPLULu-QHF0dNcQx3G2yysE5MUYduMCaApPAdd_smKwlNkEWjFE7Bxqh9Rh7jqFIQ/lxTm7kp36WOmcYYP9QuA56zKbXsskiA6u5aUINnlEQE"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,000",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$975",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$950",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/ab673da34811acf0fa.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/ab673da34811acf0fa.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/SZxKdojBtLawiE_5WMphjg/fE1EFrhphvsqHRYJCEFauIepHq8C6vES2qj4Uifj6_o58PBna6ocTD2oI7Qkog2FI76WqvB1FZMNmSqqfQ_7yutkbhF9wktKSSQGBDyHw1PWAf0Hfu4ZjW9fOLkZCriCIDplJ_U8OMYBr6zGWru_ww/XJjT-6FdF_hx7gyKayBR7_JoD6PoWAlnFSfZ3KPUSGQ"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/cjVfgtJ9ZD-bqA_fwmQEOg/JVqilc9rRNSv5SB3qPcplIX2rWV2qnb2QiqAMdXfEHMK-wW8Dto3GV5i2LDJHleTkmoHZmvcZQpuKKLJHYOJsQDlHwI2gQH3WtKZJ2wVQ1ZLkU8pJXr5_juxEoxZu_YxecMOm7yJEwaOmBYk31nTot34dOk-Om3G4FyAtIj_kNI/CKOKqmVs1wVTHzEaoUbn7nig0_emUmcK-WXd9LNRJ4s",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/7nuErJWte5hnCzC6W9bFHw/XQTq6XVBzDimvS1zyty3TaeUZdfreFQbG8OFxYuVOLfsnj_aooa30zbvoTViev48yVjgV-gDzyez7wAcW1GV1VPLULu-QHF0dNcQx3G2yysE5MUYduMCaApPAdd_smKwlNkEWjFE7Bxqh9Rh7jqFIQ/lxTm7kp36WOmcYYP9QuA56zKbXsskiA6u5aUINnlEQE",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recuENDICnuGgPpKH/fldoN8ktmukK5DsE4/att1gJg2ocBTp6ujg?layout=card&viewControls=on"
         }
       ]
     },
@@ -3365,173 +1775,35 @@
           "kind": "text"
         }
       ],
-      "image": "images/0fa7a2e5ba8c34e130.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Zhs2wYRCdcqwU4fnc4NKNw/8AQZhdb0dVRUwsmyg00jbL-Z4ML4nIq8rC_s7Mw3l8XcgnUOSUjPY3BvZtUVKWdpMS4VmT8DJlY08YE4KyRUjoHGEsUALRvRvnt9LmV0gSPRcDz-O-PnDVyBRVjyFwvOequXfr8XCmRFvhlv8zf13w/ce5dQvXaagVukfPx7ZOcsldN7AhqXCqoEU81uab0PlQ",
       "media": [
         {
           "type": "image",
-          "src": "images/0fa7a2e5ba8c34e130.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Zhs2wYRCdcqwU4fnc4NKNw/8AQZhdb0dVRUwsmyg00jbL-Z4ML4nIq8rC_s7Mw3l8XcgnUOSUjPY3BvZtUVKWdpMS4VmT8DJlY08YE4KyRUjoHGEsUALRvRvnt9LmV0gSPRcDz-O-PnDVyBRVjyFwvOequXfr8XCmRFvhlv8zf13w/ce5dQvXaagVukfPx7ZOcsldN7AhqXCqoEU81uab0PlQ"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/8TF9Qmbfm6Qx0ipo2cUxHw/_t-hjTsAVrgkzUhF3m0c4Og-Bsy9Yp_qaRRoZKvzMy2ns7qPSzr0aCvYYpYD17XaHH7ZhMwDJhdQSNcGW-9TCNgJsMjM58ZVGfgjdCLAbQR9A7-kAkVSODbfG7Tp_pGED-LGwV8fYaY0m4sjwzItrQ/GRJJS0whb429tsByRpx8UKd27PZiN6nz-K12yfC7gmg"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/L6SS8IhX6gRCGS_FWI0yOA/qf1lpEefPfsZY5_UKbOvubxRmM7KM6b0Td0izJQfb5W50biPLiPE8cKoimkyfsAKA6B_vXk2b5R5RXWSE4lfx5ev-fj9gka4WoMa7wX_yhzjd9O0IS6CdqOk4mVbwZWB-qJxnjFhRZnKh3WOMKTFWzdtkA77cwAPL_z2bVALR2K5cw0P5H9_8FMByoBUl8Ns/W3RjefeFqOom0_rfEBqWlib7dWMFAH2X8D14k7liLuU",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Zhs2wYRCdcqwU4fnc4NKNw/8AQZhdb0dVRUwsmyg00jbL-Z4ML4nIq8rC_s7Mw3l8XcgnUOSUjPY3BvZtUVKWdpMS4VmT8DJlY08YE4KyRUjoHGEsUALRvRvnt9LmV0gSPRcDz-O-PnDVyBRVjyFwvOequXfr8XCmRFvhlv8zf13w/ce5dQvXaagVukfPx7ZOcsldN7AhqXCqoEU81uab0PlQ",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recLyzeb64luZfySy/fldoN8ktmukK5DsE4/attOvgDQgvGnGBgxZ?layout=card&viewControls=on"
         }
       ]
     },
     {
-      "title": "Papaya Bomb Big (P0I7-VIIID)",
+      "title": "Pink Runtz Big (T0E8-IXA)",
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "7.0",
+          "value": "5.0",
           "kind": "text"
         },
         {
           "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$850",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
           "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/1caf25e094734ae975.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/1caf25e094734ae975.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Papaya Punch Big (C9M5-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "19.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$850",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/9f46c699719b26888d.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/9f46c699719b26888d.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Papaya Punch Big (H3S9-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "40.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$850",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/0586503aa8bd3fa116.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/0586503aa8bd3fa116.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Peanut Butter Breath Big (H3S9-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "9.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$850",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/b01efb9410eb3c2401.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/b01efb9410eb3c2401.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Permanent Marker Med (H4E1-XA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "24.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$725",
           "kind": "price"
         },
         {
@@ -3546,163 +1818,25 @@
         },
         {
           "label": "Quality",
-          "value": "Premium",
+          "value": "Standard",
           "kind": "text"
         }
       ],
-      "image": "images/620138135c7035402c.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/RoPWl-KXCrJSh5fUxQL2qw/j2aYAYYl1mLrGRuMlPBZCaXxwJRfRWiM73FXAd6OpHqrstMJkiVlGaKyjoJj40yY_Kig9DNU2QPxmV1CL_-OREQ5x8-D6iVEujb1fM_kKfsJLsmKa-RRkU0FGFapcG1lX8xlI1Ce1jdcbsVNQGgxhg/OLnouVXGjXfY4jiEw_KpqWYckWP1EmOMNyaRv2lb81U",
       "media": [
         {
           "type": "image",
-          "src": "images/620138135c7035402c.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Permanent Marker Small (H4E1-XA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "9.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/RoPWl-KXCrJSh5fUxQL2qw/j2aYAYYl1mLrGRuMlPBZCaXxwJRfRWiM73FXAd6OpHqrstMJkiVlGaKyjoJj40yY_Kig9DNU2QPxmV1CL_-OREQ5x8-D6iVEujb1fM_kKfsJLsmKa-RRkU0FGFapcG1lX8xlI1Ce1jdcbsVNQGgxhg/OLnouVXGjXfY4jiEw_KpqWYckWP1EmOMNyaRv2lb81U"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$675",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$625",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$600",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/1e6a101c2257d39b01.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/1e6a101c2257d39b01.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Pheno Hunt Big (G7O4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "11.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/lEk-qBmOdzLbv5Fuv1-wcA/_bXwLAoAC2g2S11wgG1OD7X6AUHw8AFz4aWTkVZIyleu7BUgPhN-X-xDpRXscYn0rxqTtDDyRUPnH-Y3jtqqdUlQZdIgkkqgJsTW4sPcwW-o0R8vwTZ8zEcGSuY_M5xqLx4nsdYlor7Hq8HnNBFXHg/SEO0ROJEtGKdS7zNDqNZIZkLQa6ip7wgp2VTP5hBPRg"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/c88423517cea32c07a.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/c88423517cea32c07a.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Pink Guava Big (G7O4-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "6.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/57eea3ff4232faa0bf.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/57eea3ff4232faa0bf.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Pink Runtz Big (G7O4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "14.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/f771a2932b6dacb406.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/f771a2932b6dacb406.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/EWbYDckzGGDxAOf-NvaDNg/5ZZjjrwE3M3epXX0yWU_dyDhe2rRoZ_9hdkDfFzaHUet3XEivXJ7EMsDLnag9fQlWgpdR2h1rJNMwC--6hfFe3vFC-GZNnuku8Q51ZPlqpNyuq9lRAnx7QpE6ODRY_OX7CLIGO-gj5oSPmKVkXCFVQgXaRuIweLzQm4pYKTmEn3zUUYQw9GPLkBsc4cvfDrI/t9_AKzu7_rCQgmKQlgwLkMWipxJE-G17WD8l7kJBStU",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/RoPWl-KXCrJSh5fUxQL2qw/j2aYAYYl1mLrGRuMlPBZCaXxwJRfRWiM73FXAd6OpHqrstMJkiVlGaKyjoJj40yY_Kig9DNU2QPxmV1CL_-OREQ5x8-D6iVEujb1fM_kKfsJLsmKa-RRkU0FGFapcG1lX8xlI1Ce1jdcbsVNQGgxhg/OLnouVXGjXfY4jiEw_KpqWYckWP1EmOMNyaRv2lb81U",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/rec68CTtgYttyK2nJ/fldoN8ktmukK5DsE4/attkbx0wOZL4P0yOv?layout=card&viewControls=on"
         }
       ]
     },
@@ -3735,122 +1869,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/a317ef801b4dad6d05.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/5YB4994D0F3lYVlLkkorDQ/Uj_4kFcHda_P4YfJbFtm5ot-_m009lJ3bhxgH1cmTLugzNzHsCxpAGGV5KPd-fRFttx_Olczy1myZ4SkRClDKFFQ7MHznsHOGR1G1ufTJ9aku27Z6t0RuqroqPd7U2MKSgx3X7a48uRsUt4NFaBwoA/2GPUzIiU7xgDLyCxBSUbnwgb0zxF-VzgIq5eKDvnGKw",
       "media": [
         {
           "type": "image",
-          "src": "images/a317ef801b4dad6d05.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Platinum Lemon Gelato Big (F4L1-VIIB)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "13.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/5YB4994D0F3lYVlLkkorDQ/Uj_4kFcHda_P4YfJbFtm5ot-_m009lJ3bhxgH1cmTLugzNzHsCxpAGGV5KPd-fRFttx_Olczy1myZ4SkRClDKFFQ7MHznsHOGR1G1ufTJ9aku27Z6t0RuqroqPd7U2MKSgx3X7a48uRsUt4NFaBwoA/2GPUzIiU7xgDLyCxBSUbnwgb0zxF-VzgIq5eKDvnGKw"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/0042a4ab915ec01150.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/0042a4ab915ec01150.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Punch Breath Big (B3S9-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "47.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/6SFGlvVUXxA3hGyAC7SIow/kQ8eIuHFJQz4JRpTvRpDvDxdILV498iSpOQ-FmPzB5PVXYhsT_KYE8WRxprIXCiF4r6bKF6yzmcaWonwI6Q439a_j86zLVoEWC_3CZirb03sFhBfG8_KPAImtoa6Zn6lGR7JEHCrJzzOOdcT1luXmw/2MzMTiYNS26uO1wRxUFegZZM2_K9hyOWFd0ErlvBJ5Q"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$675",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/0d389886808fe5ef3a.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/0d389886808fe5ef3a.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Purple Bandz Big (H0D7-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "13.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,375",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,350",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,300",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/2e0eb462b8850d6c4e.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/2e0eb462b8850d6c4e.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/kB80UJbizx-6anHy3IwR4A/jeMl4kIyjZoS8cqpNEBRyqNyBV61FOoyBJPJfjX3LB_YYHLkqguPHHdPHfMQ2iWTZLud1Wpaomk10LiwvCLKBYswjwaMuJvNFwiKzgKv7HAdI6mvXCzU_MY0SffCMhTALT2YtIYFFI_00Z0WOds0EdSpLS8idJUaMmzwhoQja3_lJWzKW3L5hyKWcaWCvzPq/E6mkdihj57334Ueld3v71FWz5cB9loKQyYR52Jlx9e4",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/5YB4994D0F3lYVlLkkorDQ/Uj_4kFcHda_P4YfJbFtm5ot-_m009lJ3bhxgH1cmTLugzNzHsCxpAGGV5KPd-fRFttx_Olczy1myZ4SkRClDKFFQ7MHznsHOGR1G1ufTJ9aku27Z6t0RuqroqPd7U2MKSgx3X7a48uRsUt4NFaBwoA/2GPUzIiU7xgDLyCxBSUbnwgb0zxF-VzgIq5eKDvnGKw",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recO7qMT68ImvOx0s/fldoN8ktmukK5DsE4/atthVNIz5IB4tCF1C?layout=card&viewControls=on"
         }
       ]
     },
@@ -3859,7 +1892,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "14.0",
+          "value": "15.0",
           "kind": "text"
         },
         {
@@ -3883,11 +1916,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/a8580b8d14a34a008e.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/ZgcEdk8K14hYOVrvcGxyIg/WjOw3pmVlsyrWnDf0RuG14PXikB75d56lMfFDIOgHs_zaEZe6Mry14aQM4j7lgfmrL_DgihaoVsSubLMzmkhk5NnNmf0CrXg5flk8HTjc-8FXgPu_UGyXiqAWE5UNTyhjEOSX_SMrYvnH5w7Ev1KEA/_F3Qo-JcyFWTEZaYXo0VLa6fi3SbzeAJQy7gj8-m5nM",
       "media": [
         {
           "type": "image",
-          "src": "images/a8580b8d14a34a008e.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/ZgcEdk8K14hYOVrvcGxyIg/WjOw3pmVlsyrWnDf0RuG14PXikB75d56lMfFDIOgHs_zaEZe6Mry14aQM4j7lgfmrL_DgihaoVsSubLMzmkhk5NnNmf0CrXg5flk8HTjc-8FXgPu_UGyXiqAWE5UNTyhjEOSX_SMrYvnH5w7Ev1KEA/_F3Qo-JcyFWTEZaYXo0VLa6fi3SbzeAJQy7gj8-m5nM"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/LUU_8wrBGkKKUnjWIL3DHA/zGbkaydPJd3pJomaHUvQt5migWgAL8W41bq-loChnwfr3GYmNuN0npEYe0eekD8CaauunEoJz_1R7Nm8IGkJprtrXBFL5ZyaaXOrvR_dj3aCof8s96cnBNYneKtehjMLrXpgHBw97PXT_OOOzw-NbQ/qMIED4EHQshNtP-7fHYfZEuh4pFWstW-p7cVlippgEo"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/-icWTv_RnQIdoBz6hrFciA/wFqj6kplzJ8WH2dxhWz4JyKJRUPITB7MXmLtoCYK0TagWTEna5UiH2-uhDcf5nW-4Qc4QTq3Z4DKDeu_DhFsrTF1c_3aOXnFNG7ezcweZYb1Ofpf_bdEn1PgjDT82amFDqQ1v4weX_5X9Qhc1BVgUYdvbwNXhY7ZdQ7k8p96mh2pThiHv9JSOwOrjaH8zFmH/hKjTELFGwvDae21EVD5Yt_lc0fKTbcbzCVyTA8XQXbE",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/ZgcEdk8K14hYOVrvcGxyIg/WjOw3pmVlsyrWnDf0RuG14PXikB75d56lMfFDIOgHs_zaEZe6Mry14aQM4j7lgfmrL_DgihaoVsSubLMzmkhk5NnNmf0CrXg5flk8HTjc-8FXgPu_UGyXiqAWE5UNTyhjEOSX_SMrYvnH5w7Ev1KEA/_F3Qo-JcyFWTEZaYXo0VLa6fi3SbzeAJQy7gj8-m5nM",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recbmUM5kakqeEUOS/fldoN8ktmukK5DsE4/attQ22UBnDPZdHa8R?layout=card&viewControls=on"
         }
       ]
     },
@@ -3896,7 +1939,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "24.0",
+          "value": "21.0",
           "kind": "text"
         },
         {
@@ -3920,11 +1963,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/a7bd6708462169c563.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/2Haw_MweF3rlqiQQR8ZeQw/6ZsujABEgOpVr7GSPRyS_k1nfv7QxDtaVWF-MkZ-Gun-yNrNY9v1-TpNWesG3rUk8FxhRf_BYr-gajhrcVO137DzAyWyXQ9bsZjoVO36xGQz6_oef1uLLs8GiYy-JvZC_2j9bMOZjaJlCoJjwQO0Tw/i3LGINNLv1U_gRH5RaGypBJw0KOQXSXdyjOWInzufoA",
       "media": [
         {
           "type": "image",
-          "src": "images/a7bd6708462169c563.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/2Haw_MweF3rlqiQQR8ZeQw/6ZsujABEgOpVr7GSPRyS_k1nfv7QxDtaVWF-MkZ-Gun-yNrNY9v1-TpNWesG3rUk8FxhRf_BYr-gajhrcVO137DzAyWyXQ9bsZjoVO36xGQz6_oef1uLLs8GiYy-JvZC_2j9bMOZjaJlCoJjwQO0Tw/i3LGINNLv1U_gRH5RaGypBJw0KOQXSXdyjOWInzufoA"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/lAvCElFY7Sexd8Rs9bo8xA/xuszIbDciANc3SAgZwqbH8N002ElRomDqzeoQCVj0eSIX1903lBOBUOgJAe1l5EMdJeLpRXDFOOZNq7_MeeQdV1La0oOTwyJUA33Lmf53aAUQ1-LtVI7I9GGVdQAsoX1RtaIK0nvwseLmWOoYsUMEA/3f1Do3ILcvnfKBvmaGj8hhBZnjQbHvwO7obc6uqqi6Y"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Cj4ZQhKaBN82T3_4GZHekA/6TutfT2uxoYZBTkm81gAkD1jRzKag8YTh6NuilrUYB4qmbkQIwqkUTroQvFbGE0fugAMqKKSdUql2_AgYWpMbgLbF9rcgpZBtCbDnlmsu8Ps2XlXEBsUIFJmD7LNUcnq03wP_nM80jcUXox3FcFKwN0XtEcu5BoKJVvSpIHXSxOFzVUAeFYEBYaAQhFVbAGk/jra4WjhUqfK6UMj5vYpK9LVdIqZv80JemYgBMaK3f6c",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/2Haw_MweF3rlqiQQR8ZeQw/6ZsujABEgOpVr7GSPRyS_k1nfv7QxDtaVWF-MkZ-Gun-yNrNY9v1-TpNWesG3rUk8FxhRf_BYr-gajhrcVO137DzAyWyXQ9bsZjoVO36xGQz6_oef1uLLs8GiYy-JvZC_2j9bMOZjaJlCoJjwQO0Tw/i3LGINNLv1U_gRH5RaGypBJw0KOQXSXdyjOWInzufoA",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/rec5xd2Zsg58xeQrH/fldoN8ktmukK5DsE4/attrgwllLIhMB5yW5?layout=card&viewControls=on"
         }
       ]
     },
@@ -3957,85 +2010,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/773bc92fea1e92c4b9.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/m4Yl167MQjVhu5AdUgmfqg/NZs6c5E9sfZyWD95tYMHTK6-pwTqsP0pc_ojqmoHuFzwYlJtQDeyJgKJKAe-snFocEhJu2hi5tLXQAf-gcTRZD7f9AhV3qkETUyWDHbROT7vNR-7YTj8Ym07u4ho7IkvErxITVK2Le3hbpYm5lgw1Q/-1U0gKfzZyeO3c4fZl8EhCWizg04hc-v23hZzEsUi6w",
       "media": [
         {
           "type": "image",
-          "src": "images/773bc92fea1e92c4b9.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Rainbow Sherb Big (G7O4-VIIIF)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "8.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/m4Yl167MQjVhu5AdUgmfqg/NZs6c5E9sfZyWD95tYMHTK6-pwTqsP0pc_ojqmoHuFzwYlJtQDeyJgKJKAe-snFocEhJu2hi5tLXQAf-gcTRZD7f9AhV3qkETUyWDHbROT7vNR-7YTj8Ym07u4ho7IkvErxITVK2Le3hbpYm5lgw1Q/-1U0gKfzZyeO3c4fZl8EhCWizg04hc-v23hZzEsUi6w"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,325",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/9daefca4c9a21b2104.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/9daefca4c9a21b2104.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Red Lemon Big (H0D7-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "19.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Aru018cI_5Ze3elpKqKlqw/A_aepJkb1hd6By03OFARTjaSA6psuowculsCZjg0-bKBUwxzWsLSHms7NHzvRVQ6iIJnJic1FhfScpxN5jIFNbRTMmJ5V6_GpQXEWnl9t9ngFMV6knk8n9-Oyr6oVKNL-0karn5L6NAVKBbtp0emYA/7oVzdq641yqJPiElR3rl4_D9EXLG7n4hpva7H6QOTMY"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,375",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,350",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,300",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/98c1b4939c3800af0a.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/98c1b4939c3800af0a.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/MOYZz6evrEVppibJ1xv43Q/Air8omp44qYV4255q3kKZ6x0I991dPY1iHyDEfkT-c-V2_6MQhEJZHA9pz7aLPGm-xGIwWHBebXLAnPruJd1ARGZnTdYXKqoQLbB_wPcuQlmt2X6ictZ4g05CrRBR_qfDDfbGktg3osJ6EGL5cwXD9-bE9JSIQh_ZsQy19uYNyy_jduENDZCHXinQAOHELS4/5RCIaTPtYyQsCu3b7YUHEWsbtPysl8LF9ar63zsg3Aw",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/m4Yl167MQjVhu5AdUgmfqg/NZs6c5E9sfZyWD95tYMHTK6-pwTqsP0pc_ojqmoHuFzwYlJtQDeyJgKJKAe-snFocEhJu2hi5tLXQAf-gcTRZD7f9AhV3qkETUyWDHbROT7vNR-7YTj8Ym07u4ho7IkvErxITVK2Le3hbpYm5lgw1Q/-1U0gKfzZyeO3c4fZl8EhCWizg04hc-v23hZzEsUi6w",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/rec80Mj2gMT29Inxl/fldoN8ktmukK5DsE4/attjiUuR4KUWhiThI?layout=card&viewControls=on"
         }
       ]
     },
@@ -4068,11 +2057,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/cedccf1bb8464cbba4.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/S9yfpQDmHI60WFn5RMboQQ/3kOGNp5iBFSrrQUeFxGyCbUDJYbgdUu9dVi2i00ZTWrxIuvRCDeiOY2tkapC-O2GXmXl8nUvazvWQK52jZiG_XvaF7SzL9fUHCrmzgLl_vnkkG0T-GTrgmo9FM1GPKBokebtTEHMx-d9Hm60UjGrUA/0XpyG7f9pi4qim_OCIoqCr2uBSQStOfIPEQ6JHWkn84",
       "media": [
         {
           "type": "image",
-          "src": "images/cedccf1bb8464cbba4.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/S9yfpQDmHI60WFn5RMboQQ/3kOGNp5iBFSrrQUeFxGyCbUDJYbgdUu9dVi2i00ZTWrxIuvRCDeiOY2tkapC-O2GXmXl8nUvazvWQK52jZiG_XvaF7SzL9fUHCrmzgLl_vnkkG0T-GTrgmo9FM1GPKBokebtTEHMx-d9Hm60UjGrUA/0XpyG7f9pi4qim_OCIoqCr2uBSQStOfIPEQ6JHWkn84"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/QECNULh_xUklrSaH_Ou-3A/unU_Na35SfdvDbIo7iUOUCvR8bDMP-MF-_taGYW5Bd52tqvalL4eu5kBPhIdXSWomagg-x0LveVnzIRr67y9RT71SfRZRw7FCZdv1DYgWOtbu4WcODI3iIfpFZsGKzKZhedXOBlB1bIf9vLgdp411A/Lqha9q7BIqX-5QaLZB1Fz208EtDdp6zJ6cUaY1ixIJ0"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/ZMqJauZs8GklQVUs3Jommw/R_vgGgKbKcIiCEFwJiOEyRh_vHTi3mEvPjk2MRtXN0vW64EoKtTfg5arm932cBSigbWVNXuADWcqpYAzY4dj7qmvz5d6pxAW-yuF8smV30TguYPpXPFQt4VlptmZJZy_KQsBO5BDmo0TMPXbt7ap6-mSpNA0k58rraB7bRpYCT_KcE2evlkTRR6Il7VtDAme/GOtagcVBOD7uYJc3N_AsIqx98CzheZgPxTWEFeTmEjE",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/S9yfpQDmHI60WFn5RMboQQ/3kOGNp5iBFSrrQUeFxGyCbUDJYbgdUu9dVi2i00ZTWrxIuvRCDeiOY2tkapC-O2GXmXl8nUvazvWQK52jZiG_XvaF7SzL9fUHCrmzgLl_vnkkG0T-GTrgmo9FM1GPKBokebtTEHMx-d9Hm60UjGrUA/0XpyG7f9pi4qim_OCIoqCr2uBSQStOfIPEQ6JHWkn84",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/receWl9p3ukYAriH6/fldoN8ktmukK5DsE4/attNTtZqSwKvCVWYw?layout=card&viewControls=on"
         }
       ]
     },
@@ -4081,7 +2080,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "14.0",
+          "value": "6.0",
           "kind": "text"
         },
         {
@@ -4105,48 +2104,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/5cfa7e7727a43ffbd0.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/iM-eferGcgCcuU5Pb_KCZQ/6Ro5dZxtczR2kVPXj-7AqvWDdlHPMtAzFO07XokiM9YXFSZJ3ZbKN_dWuw9x9KJp0DUdULdTf70xavil_pYtwH661MiKOPJKYdT0sH1Hqu5DNS-0zIUhgzG5DljYIQA-Uk34VxhMKd8yer6aTpD6-A/hzW5v9lV8TIeHXGsaQBgZVufqxWXVa72qMoxiX_-SCs",
       "media": [
         {
           "type": "image",
-          "src": "images/5cfa7e7727a43ffbd0.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Runtz Big (H7L6-VIIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/iM-eferGcgCcuU5Pb_KCZQ/6Ro5dZxtczR2kVPXj-7AqvWDdlHPMtAzFO07XokiM9YXFSZJ3ZbKN_dWuw9x9KJp0DUdULdTf70xavil_pYtwH661MiKOPJKYdT0sH1Hqu5DNS-0zIUhgzG5DljYIQA-Uk34VxhMKd8yer6aTpD6-A/hzW5v9lV8TIeHXGsaQBgZVufqxWXVa72qMoxiX_-SCs"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$675",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$650",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/08a2e6ae1a145ac770.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/08a2e6ae1a145ac770.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/S736W01pg6HRIRdxu0CAzg/o8UxnWwXImBFUPIEon4tRfqkHcLYUCiL1Z7Y_0yVnbVI54XCcPdPefXnGLXVwj5Ld_EDGUNOCnEhwCRp8l2CX1YLYlmfcyS1cndt6epNTC88YzLqHT9K-wyv4dybb_M-pgrIBw0VNFDe51Hiiy1KpA/6UIY0dNBi3tjVoLfqXIykI65RIp0ZIpCpLf2Yib5oYY"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/GPmfCZSZKHCsjJq20Hvbqw/oa1nijnIvfvtIsJhtCO8tLJRLoUTWmC2vkFURmHUI-3mB10wYasBHiP1bd90Wqbsl7jXuIz64paGJpqIreAr0am8Ows8vxoyCxggU2_PLBl-ou4tlJIsfSe0ncdyFuTcHXTnr0Jyj-jGJgwK8ll_Mfd0XT3jCFEv2nyM5y3ZUNBg4MHzSyR4cL1AGBk8fw4p/mHz4rvz3nKBrMa7rOExjqe6-VQ5WLxHN8X1Bn1Ie8Vo",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/iM-eferGcgCcuU5Pb_KCZQ/6Ro5dZxtczR2kVPXj-7AqvWDdlHPMtAzFO07XokiM9YXFSZJ3ZbKN_dWuw9x9KJp0DUdULdTf70xavil_pYtwH661MiKOPJKYdT0sH1Hqu5DNS-0zIUhgzG5DljYIQA-Uk34VxhMKd8yer6aTpD6-A/hzW5v9lV8TIeHXGsaQBgZVufqxWXVa72qMoxiX_-SCs",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recWxDesouguUZdw0/fldoN8ktmukK5DsE4/attBUDtWiFwklLm3Q?layout=card&viewControls=on"
         }
       ]
     },
@@ -4179,11 +2151,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/6d05069d8afaaeb0ef.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Ec_criksZqwo_E5ZJ63WDg/vXOdlSzT9CpBJcbULaFpW2yOguAFxEsiOdJTvcczmM7EjqUwAkl6Dbhjqm6VgZa91kYQ8dC0DgNva3-ak27O4LOmyTnhrRkr7_FMBAPyRSeIjqutmJkXo1VXevrUeMNDt18GRCPTPeDhOR9EJEz9Lg/vSHOT9yXrnkINEJlEXNz-kTQckPgbq1oee2Dev9D9Dc",
       "media": [
         {
           "type": "image",
-          "src": "images/6d05069d8afaaeb0ef.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Ec_criksZqwo_E5ZJ63WDg/vXOdlSzT9CpBJcbULaFpW2yOguAFxEsiOdJTvcczmM7EjqUwAkl6Dbhjqm6VgZa91kYQ8dC0DgNva3-ak27O4LOmyTnhrRkr7_FMBAPyRSeIjqutmJkXo1VXevrUeMNDt18GRCPTPeDhOR9EJEz9Lg/vSHOT9yXrnkINEJlEXNz-kTQckPgbq1oee2Dev9D9Dc"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/24SMP6nOB_o4G-a7ev0aOw/oWQAl0til-IrgZkDlur5H-XWMxnL3MadYFnTBzEFIHKrRUcJcCyOAjA_Cm6x5KXYsPM2Xzl1oCobvIS0Jx1n7SGR-jMZMpzadpPsnuYxgMXYcL4-AmGIyPO8LVYDJaXRv58lhlD6PErD6lkfvtFWTQ/DHfnkN6lOGkPnqZ89vFhpw_bjU40Ywp6HYoFcJXaUD4"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/w3v76VvuBfGtgoBameDGCA/Pc8-vZdcQ5aiH2nJz2CsWGJfUntrgvacvPv_IbUwG_tLsAJi5RjC38eK-y0vi7k2CgZGO9o7SUoswtfr-ZGdMLsod8TyEoHHwNzMOnfyc3yQfSbJP8CYZZidFJJmOn13arYoLkN24E-v2jh7Nun5W0wSixxXJvrtd2bLA0Cs_1Y2NVrautB54vyFhQ1JtvjZ/DBpOa74vGEiPY3BANDPujk5w57lEmE4cZ4eW2X368e0",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Ec_criksZqwo_E5ZJ63WDg/vXOdlSzT9CpBJcbULaFpW2yOguAFxEsiOdJTvcczmM7EjqUwAkl6Dbhjqm6VgZa91kYQ8dC0DgNva3-ak27O4LOmyTnhrRkr7_FMBAPyRSeIjqutmJkXo1VXevrUeMNDt18GRCPTPeDhOR9EJEz9Lg/vSHOT9yXrnkINEJlEXNz-kTQckPgbq1oee2Dev9D9Dc",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recOc8zwmUcZV1Y5P/fldoN8ktmukK5DsE4/attC6UFePFuegVeqA?layout=card&viewControls=on"
         }
       ]
     },
@@ -4192,7 +2174,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "48.0",
+          "value": "44.0",
           "kind": "text"
         },
         {
@@ -4216,122 +2198,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/db1b264a51e758aafe.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/KrHw4p-JLAWMA7n8Q4DD8g/5OhO888ElY2fVe8Yd8zjtz1c4V0KluWe1hQuMoGPUlqnnmIXNvwbZkHmQZ8uvxzY89bYSg1-6qDaQtyTEX1Hp96noUrkbSU6oKIPkF90MdVljKdzhQ1AtAipQIOZ6AL8ck2ZXl--FmHvPvAJKsUCMA/gWsxpl4LDfjPv3SSKqw_pG-RZnpaMIRoeJoC5mxkHME",
       "media": [
         {
           "type": "image",
-          "src": "images/db1b264a51e758aafe.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Sin Mintz Big (G7O4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "8.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/KrHw4p-JLAWMA7n8Q4DD8g/5OhO888ElY2fVe8Yd8zjtz1c4V0KluWe1hQuMoGPUlqnnmIXNvwbZkHmQZ8uvxzY89bYSg1-6qDaQtyTEX1Hp96noUrkbSU6oKIPkF90MdVljKdzhQ1AtAipQIOZ6AL8ck2ZXl--FmHvPvAJKsUCMA/gWsxpl4LDfjPv3SSKqw_pG-RZnpaMIRoeJoC5mxkHME"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/a0b19a1a5473a0a207.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/a0b19a1a5473a0a207.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Skittlez Big (G7O4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "24.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/mIhMjIJBWpSVYoZNZaBKsQ/ji1_LOyoxTiE55JRoijGiDdI7wUbmho97fRI4G7zo8NEAuuazWBOV0RkWeHKpjt5EkLFr-ONUXetqtU94zSaAFfuQfDIsztP3H2SJr99Ol2yduAGLwExgIZ4orlrOJfhM1s_nD7IFXrSl9V6rKPr5w/5h1zqlE5mE6CxHxAaOYCi9afFFI3IEYPWq-jDtb-Xd0"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,100",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/705d13dc4032f6ac73.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/705d13dc4032f6ac73.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Skywalker Big (G7O4-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "6.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/ef662fc6e075fbb2fa.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/ef662fc6e075fbb2fa.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/erOAiGtl-sZNenPt6cSe2w/Sly6XSXt53FegXxdZLzb0yZbj4_c7hiMPlU2bf-QVZIamAUIUlZGfefoJgRr_gMF9dF1gtqFlaKwhfCd_ZGBh6RZEidyYopRbrYCqQarCH2pclYR6j8159hoLKoDfcWMCWZ2JNlfCC4qyrBLwj6Jut_y4hH8ev62JO7XDep3ESCEicL62Xju0qP3MtS1ih1X/CRkL2f6LskhI5AR19dOWIdxXTR_dPmeGlldXapTUEjY",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/KrHw4p-JLAWMA7n8Q4DD8g/5OhO888ElY2fVe8Yd8zjtz1c4V0KluWe1hQuMoGPUlqnnmIXNvwbZkHmQZ8uvxzY89bYSg1-6qDaQtyTEX1Hp96noUrkbSU6oKIPkF90MdVljKdzhQ1AtAipQIOZ6AL8ck2ZXl--FmHvPvAJKsUCMA/gWsxpl4LDfjPv3SSKqw_pG-RZnpaMIRoeJoC5mxkHME",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recUkrFtaZU6UmGpI/fldoN8ktmukK5DsE4/attGptjtZ71yRN0WN?layout=card&viewControls=on"
         }
       ]
     },
@@ -4340,7 +2221,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "9.0",
+          "value": "8.0",
           "kind": "text"
         },
         {
@@ -4364,85 +2245,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/4443f2a890b3935e56.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/2GgjMAs6ibM0gfFnFVtgwA/l_rZX4-MzO24LwNw2gHnq-4_pOrj9V_duDuoEBUd9O8vaV3arSqw-ossdclsAu39X3GWLV4HfvHaImYZEVxCC7A-Z-CEff_QQQmnBhHI4HVmMpQoEj7etndM6SXVyR_VTJU7RO_Ci3y-0-rtrZNcrA/IKrPMOdiDadM8O4mwr3o71Xde8ztW3beaw_GA_ql3Ow",
       "media": [
         {
           "type": "image",
-          "src": "images/4443f2a890b3935e56.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Sour D Mix Med (L9E9-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "21.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/2GgjMAs6ibM0gfFnFVtgwA/l_rZX4-MzO24LwNw2gHnq-4_pOrj9V_duDuoEBUd9O8vaV3arSqw-ossdclsAu39X3GWLV4HfvHaImYZEVxCC7A-Z-CEff_QQQmnBhHI4HVmMpQoEj7etndM6SXVyR_VTJU7RO_Ci3y-0-rtrZNcrA/IKrPMOdiDadM8O4mwr3o71Xde8ztW3beaw_GA_ql3Ow"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$650",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$600",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$575",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/409aaeca8180a3db7c.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/409aaeca8180a3db7c.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Space Rocks Big (H3S9-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "34.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/MAfTIwMHUthIad61WcFdsg/uwJnU9Ay4BI7LkkQzDj4hQRPFB7BixC-DfmeX8Y9OQCPtevgsH4kBMyYt9dlsZIo6SgepIi35rwDpOq5KjxB5USpOVzhL2eUgmHIG3obacHqJEqvctRRWUxMtFzNGSoZ5NrULWBlhcM2UmlPro3a0A/lfdd0HTWtWj0FRe-H4NSRRj3X47h9FvXxCcFhbQt5-o"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$825",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/a793e793258822e85e.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/a793e793258822e85e.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/9N0TRQtimSRpQk1ofoebfA/sP900TMyBD-K-H9Kv-H7_D8c3qUKb9cT3yPuYipwP-v1rElCtkXW-oSvRp7WBiluf5iIRssr8_F_lT9vay_6Sb8T51W4CbhN54Cx7jgO9EVMwLsN7TYbYTPe0IhZELvVPw_FTFTUIzqDBE1IsZ80D9rTUGV5qvg0HQjihMviaf4/1XFY4kyl-zNel1JLxsUz6I5sOihr6vWkKVCYFgt4UXA",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/2GgjMAs6ibM0gfFnFVtgwA/l_rZX4-MzO24LwNw2gHnq-4_pOrj9V_duDuoEBUd9O8vaV3arSqw-ossdclsAu39X3GWLV4HfvHaImYZEVxCC7A-Z-CEff_QQQmnBhHI4HVmMpQoEj7etndM6SXVyR_VTJU7RO_Ci3y-0-rtrZNcrA/IKrPMOdiDadM8O4mwr3o71Xde8ztW3beaw_GA_ql3Ow",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recGGBoflABpPCVaq/fldoN8ktmukK5DsE4/attn6byRXzeKhZFVr?layout=card&viewControls=on"
         }
       ]
     },
@@ -4475,35 +2292,45 @@
           "kind": "text"
         }
       ],
-      "image": "images/0ab398e46051de3147.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/gV1ULtyOOTNCzGhmCP5Cng/BeA1zAurPdeQ8y0qOQky-jUdoBsl5v1EmtWTSc2v4CzoY90FyGMMY22xmPz-EO5Si5KwgNm_8RIHQSlm1gCyNFFIqbuWJJG2SZpr0OHwZVC05i7n6sKjXNzHPc_50NUEJOemICm5HHd3MfeOVv-zGw/jo2T9uwLnvX_dNV9MBnCL6o5y91KipUtIADfitc57eQ",
       "media": [
         {
           "type": "image",
-          "src": "images/0ab398e46051de3147.jpg"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/gV1ULtyOOTNCzGhmCP5Cng/BeA1zAurPdeQ8y0qOQky-jUdoBsl5v1EmtWTSc2v4CzoY90FyGMMY22xmPz-EO5Si5KwgNm_8RIHQSlm1gCyNFFIqbuWJJG2SZpr0OHwZVC05i7n6sKjXNzHPc_50NUEJOemICm5HHd3MfeOVv-zGw/jo2T9uwLnvX_dNV9MBnCL6o5y91KipUtIADfitc57eQ"
+        },
+        {
+          "type": "image",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/Vd4zBtbvpYbNRy0TCdYGhw/X3M-mDirUAgVCJ3MMbxSZ9U6tlFCnKHoDLn78EvBPzGEn06OfNimtT0vJhs2JFOP_yxCN_tFO9UcUCzQ_ushrEX_exIs60Yif2uQ5aha2QWim18hsYp5G543IM6KrwBulEbJAx5i0OUzpQqtO_7pqQ/wdMgjKK3UPVNxdAbfS-4iPg9TiTs1vz4CCKft65qz5k"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/CPVYnwFAxtTxBMmYZ8pp8A/x5x_F8vlk6JChs1CFQRu1_Qv890fSGYOUWs4DSssrf_Ylx6aQbIN83FvENWC0Ko-nW6-TtdHx8p6ND9WuUfwVrO-OxLT5hMp1zUvMr5HtEkV4dwlShzISp4V3_d7GR3z9YvadMNrjSoRU1NZkc0QrcCiPJRBHD0k13R1IvmJGMBXRwE2TKyPwRMWuM2pFvgB/UaYLEs65FqdYKFNZnv0Kkq3qE4c5LCxQO0g53Bc1oUE",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/gV1ULtyOOTNCzGhmCP5Cng/BeA1zAurPdeQ8y0qOQky-jUdoBsl5v1EmtWTSc2v4CzoY90FyGMMY22xmPz-EO5Si5KwgNm_8RIHQSlm1gCyNFFIqbuWJJG2SZpr0OHwZVC05i7n6sKjXNzHPc_50NUEJOemICm5HHd3MfeOVv-zGw/jo2T9uwLnvX_dNV9MBnCL6o5y91KipUtIADfitc57eQ",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/rec581Q7C1jwT61FU/fldoN8ktmukK5DsE4/att5ElsHJHIwVSQS6?layout=card&viewControls=on"
         }
       ]
     },
     {
-      "title": "Splash Big (C5P5-XA)",
+      "title": "Warheadz Big (C0K5-IXC)",
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "13.0",
+          "value": "6.0",
           "kind": "text"
         },
         {
           "label": "Tier A1 Price (1-10 lbs)",
+          "value": "$1,400",
+          "kind": "price"
+        },
+        {
+          "label": "Tier B1 Price (10-50 lbs)",
           "value": "$1,375",
           "kind": "price"
         },
         {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,350",
-          "kind": "price"
-        },
-        {
           "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,300",
+          "value": "$1,325",
           "kind": "price"
         },
         {
@@ -4512,270 +2339,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/6986c169cfcaf5e289.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/i7moPTQkJkbaSgSX9vvUUg/lqPiU1Lf5eFRuDY2VHH4LL2RW5NW84grZmFo5P-0nbrkKsma6mSz1GEpteJLEX0CqFrAebQTCteZPj2FHYhh6hMDjmVAHxUNhZnuruqc1STf_Rp8xJzw9gYy9vXffM0dPJyQSQcUFShuIPWnLrJCnQ/RSdQ3CZlm0DTiorNggdj7aA9v_ftsnck9lFdzk-kHMM",
       "media": [
         {
           "type": "image",
-          "src": "images/6986c169cfcaf5e289.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Street Guru Med (H4E1-XA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "25.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/i7moPTQkJkbaSgSX9vvUUg/lqPiU1Lf5eFRuDY2VHH4LL2RW5NW84grZmFo5P-0nbrkKsma6mSz1GEpteJLEX0CqFrAebQTCteZPj2FHYhh6hMDjmVAHxUNhZnuruqc1STf_Rp8xJzw9gYy9vXffM0dPJyQSQcUFShuIPWnLrJCnQ/RSdQ3CZlm0DTiorNggdj7aA9v_ftsnck9lFdzk-kHMM"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$650",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$625",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/45a6e4250363078982.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/45a6e4250363078982.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Street Tarts Small (H4E1-VIIIB)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "9.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/45h8S80hH-6qmvMjroL54g/Vsuj964ZquHBIrBdpXI_kMTKfMX-8sM3MenooopPTuMw3aX0SLUZMQp1r_qNArNNKIsykOwwZQSYBtnrR9pa6ex1WhZYcJ3Bl3gjsnE0NfJvb8ZMgkDp4amesBiu_x3_EybBkPn0FjJa4YJEgl42jg/1jqiuNe7RptWpzQDh-3tHv3x0py3OGqd0_uwLwMUSlM"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$725",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$675",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$650",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/06439f58b4c6c4fc63.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/06439f58b4c6c4fc63.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Street Tarts Small (H4E1-XA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "12.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$650",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$600",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$575",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/6722505a048ec32101.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/6722505a048ec32101.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Sugar Tarts Big (G1E3-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "43.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$850",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/bf1fc3a0f9d954981b.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/bf1fc3a0f9d954981b.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Super Runtz Big (C5P5-XA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "17.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,375",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,350",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,300",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/8c5b8d710e3b08e991.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/8c5b8d710e3b08e991.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Toad Venom Big (F6Y9-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "20.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,975",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,950",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,900",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/163655b6f3bd53390a.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/163655b6f3bd53390a.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Tropicana Big (C9M5-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "18.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$850",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/8152f5b45e4e74e473.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/8152f5b45e4e74e473.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/i_p6xWNgY6Pv-CEGKa1GuQ/DWIVkLzf0Fgk3qrvfOxHfa4ZMf05fI1YdUCqudNVbVMTOTBtC8XcBC_Q4RAwXlH7_ddYVewK18eAj1noYKJy8IJXod1k40zaVxgWiQ_4scjlIdK7tNVyzDK640KzpuI5BhnEm52LmVqCdodevsA2hGGJGcMVu7vVFkvgrzjaMzX4eG9ZsepJHVAa9hceYSLE/5jihGlP_uJ9zrI3E7ogMdsjhjYZNi1-KCHE152YxWP0",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/i7moPTQkJkbaSgSX9vvUUg/lqPiU1Lf5eFRuDY2VHH4LL2RW5NW84grZmFo5P-0nbrkKsma6mSz1GEpteJLEX0CqFrAebQTCteZPj2FHYhh6hMDjmVAHxUNhZnuruqc1STf_Rp8xJzw9gYy9vXffM0dPJyQSQcUFShuIPWnLrJCnQ/RSdQ3CZlm0DTiorNggdj7aA9v_ftsnck9lFdzk-kHMM",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/reclojjJ3Aw997OP0/fldoN8ktmukK5DsE4/attiLO1RkkCVOFQr5?layout=card&viewControls=on"
         }
       ]
     },
@@ -4784,7 +2362,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "50.0",
+          "value": "48.0",
           "kind": "text"
         },
         {
@@ -4808,85 +2386,21 @@
           "kind": "text"
         }
       ],
-      "image": "images/ecfe2af3b3443087cc.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/cXSJpQSvgO-t3Ik9UFUZMw/V6CEtG9x0G6oXrRzMHMP3gTpVb9ZMEDSJnZDtH6iWUFomQxaRYBmk0Dib7GaWtaMc3wi2TTDKa34m5wAvxkMFPLeqzJHY2__LLHQf8VLtleloT_7K0wuVtG9iRcalv9gnv8gDSj8JOpQhFi9K8gqTw/GB-MwmmYaPLmgvUZKWCH5o-KR1E6ggafjkvEhFNwfG8",
       "media": [
         {
           "type": "image",
-          "src": "images/ecfe2af3b3443087cc.jpg"
-        }
-      ]
-    },
-    {
-      "title": "White Runtz Big (G7O4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "22.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/cXSJpQSvgO-t3Ik9UFUZMw/V6CEtG9x0G6oXrRzMHMP3gTpVb9ZMEDSJnZDtH6iWUFomQxaRYBmk0Dib7GaWtaMc3wi2TTDKa34m5wAvxkMFPLeqzJHY2__LLHQf8VLtleloT_7K0wuVtG9iRcalv9gnv8gDSj8JOpQhFi9K8gqTw/GB-MwmmYaPLmgvUZKWCH5o-KR1E6ggafjkvEhFNwfG8"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/caffdab5acb8e6c0de.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/caffdab5acb8e6c0de.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Z Runtz Big (G8Y5-VIIIC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "9.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/yXveX78X1GV0N0IIiCCAQg/wQxhLndTwPY4SzInX_dXSA3lL1d_WL4Ahe_yu4nVJs3ORXhGWuI878wqLO0OzyFsTc0_uzsJECXu-Pvtqo4jcjUXOAD01ggBS7MwYJbPay7dPl0oA7Oszoy2zoKY_4Cv9E0EWx2_KAadfGzJzSJzkw/UREm_CoZz5aIXZktvN2yE6G4AYFkevQ99rPLKY3jqpQ"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,325",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/ca306d87c019c71207.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/ca306d87c019c71207.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/YX6Ika2lr7364LBt-VKghg/55aBEiKludBDw3Byc-A3QARYNu7r5zW_OQfdQd-Nnl6yJKtnF9h8h2L1dazxSC9e51Kfy1K4_heoGD2r-d7c8DJB1T0RVJ4j2CtYrJ3zD0H09R66gXwt7cCk2jzoPouFKrd2TLUDmfZcVkwQz0F0MRRHwF3c4qnR0Qf4hLA77MrVb8WHlwvmtRQCwK2JUeTv/Nu43gvcJRmfL-dgePbCiMToCH2tfGcJ9rbhm8_z-Sxg",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/cXSJpQSvgO-t3Ik9UFUZMw/V6CEtG9x0G6oXrRzMHMP3gTpVb9ZMEDSJnZDtH6iWUFomQxaRYBmk0Dib7GaWtaMc3wi2TTDKa34m5wAvxkMFPLeqzJHY2__LLHQf8VLtleloT_7K0wuVtG9iRcalv9gnv8gDSj8JOpQhFi9K8gqTw/GB-MwmmYaPLmgvUZKWCH5o-KR1E6ggafjkvEhFNwfG8",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recx1MhM7JcxThGi9/fldoN8ktmukK5DsE4/attqiXwiTuUkPqXzi?layout=card&viewControls=on"
         }
       ]
     },
@@ -4895,7 +2409,7 @@
       "fields": [
         {
           "label": "Quantity Available",
-          "value": "12.0",
+          "value": "11.0",
           "kind": "text"
         },
         {
@@ -4919,88 +2433,23 @@
           "kind": "text"
         }
       ],
-      "image": "images/86fed0fcba0e2e1e12.jpg",
+      "image": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/vzVtpbz0Q_NLgb3Cnpjt_w/LfzAx_JRK0u-C0YVckxyFuxn-ILgY2aaq_EbOK4t6TkTdy0fiDOpS4AMr8NhMAueTb826dpSl59Vo3m-aD6sswgunrgDcjuAUv_36rgoje2bpdmbNzAVnmKt6y3pDgDCPSngJygIM7RovUWiT34Tjw/oIldespGnmVHCHMwlqQibByBjx5aNY89mdE4TI9GpmY",
       "media": [
         {
           "type": "image",
-          "src": "images/86fed0fcba0e2e1e12.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Zonutz Big (G7O4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "14.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/vzVtpbz0Q_NLgb3Cnpjt_w/LfzAx_JRK0u-C0YVckxyFuxn-ILgY2aaq_EbOK4t6TkTdy0fiDOpS4AMr8NhMAueTb826dpSl59Vo3m-aD6sswgunrgDcjuAUv_36rgoje2bpdmbNzAVnmKt6y3pDgDCPSngJygIM7RovUWiT34Tjw/oIldespGnmVHCHMwlqQibByBjx5aNY89mdE4TI9GpmY"
         },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,325",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/74683581f164c25d17.jpg",
-      "media": [
         {
           "type": "image",
-          "src": "images/74683581f164c25d17.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Zuchi Big (G7O4-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "7.0",
-          "kind": "text"
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/3fkSq7gR12kEseF90TPqmA/Cp_MW4fB7w1fsjOUx0kLtUbnlIYSWoyf9hrzOp7ShScjMTt0zqhJNqSMTmLJZT6qGbcFGYG5-zBm96zraY3ZJJ7mbVb5dqip21Nsp8hENDry-4GNoOwBKa9e8DkNWyo2ziHanV2mvT58NQ_HFf_QaA/W7WA44mujxG17tZNujySzPcaalUB0BPBHyCPQXRYKV0"
         },
         {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/f823a48b83ed48c09c.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/f823a48b83ed48c09c.jpg"
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/GLan2hmtMTHBke8VbGRlsA/qnA1G7F5tiIY2A2sDnQ-NJNSdEKz4FgWaTWvE6rQle9-29oYBhPm_3uqpicEIUvgDPBnzMUcLf1yHmMbN_fB0OTvK-B8r9sl2jgWV3py0MD2HQ_BtTcWJ3hYlPSL-yoLI-beLnrLoySX3GiQMCiXbRmVJqOe7lwehSYdBksKegg/FJJuX8K1QQ1n3ioG_39t62XnsVKI5ZBAqv4rQHULQGo",
+          "poster": "https://v5.airtableusercontent.com/v3/u/58/58/1791309600000/vzVtpbz0Q_NLgb3Cnpjt_w/LfzAx_JRK0u-C0YVckxyFuxn-ILgY2aaq_EbOK4t6TkTdy0fiDOpS4AMr8NhMAueTb826dpSl59Vo3m-aD6sswgunrgDcjuAUv_36rgoje2bpdmbNzAVnmKt6y3pDgDCPSngJygIM7RovUWiT34Tjw/oIldespGnmVHCHMwlqQibByBjx5aNY89mdE4TI9GpmY",
+          "viewer": "https://airtable.com/app8fi2d28YAKjzNW/shruFTLcYIMpIIgqW/tblz5lnzfK0XW0G6R/viwf8swOd00CMca6z/recO48swxR3dAJeuu/fldoN8ktmukK5DsE4/attSDbXoIXuZ28tvP?layout=card&viewControls=on"
         }
       ]
     }
-  ],
-  "fullMediaProducts": 0
+  ]
 }
