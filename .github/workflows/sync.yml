@@ -38,7 +38,15 @@ jobs:
         env:
           AIRTABLE_SOURCE_URL: ${{ secrets.AIRTABLE_SOURCE_URL }}
         run: |
-          node -e "const fs=require('fs');const p='scripts/sync.mjs';let s=fs.readFileSync(p,'utf8');s=s.replace(\"const parent = thumb.locator('xpath=' + '../'.repeat(up));\",\"const parent = thumb.locator('xpath=..');\");fs.writeFileSync(p,s)"
+          node <<'NODE'
+          const fs=require('fs');
+          const p='scripts/sync.mjs';
+          let s=fs.readFileSync(p,'utf8');
+          s=s.replace("const parent = thumb.locator('xpath=' + '../'.repeat(up));","const parent = thumb.locator('xpath=..');");
+          s=s.replace("timeout: 5000,","timeout: 1200,");
+          s=s.replace("for (const u of candidates.slice(0, 40)) {","if (!globalThis.__ppVideoCandidatesLogged) { globalThis.__ppVideoCandidatesLogged=true; console.log('VIDEO_CANDIDATES='+JSON.stringify(candidates.slice(0,30).map(x=>{try{const u=new URL(x);return u.origin+u.pathname}catch{return x}}))); }\n    for (const u of candidates.filter(u=>/airtable|airtableusercontent|amazonaws|cloudfront|usercontent|storage/i.test(u)).slice(0, 12)) {");
+          fs.writeFileSync(p,s);
+          NODE
           node scripts/sync.mjs
       - name: Save refreshed catalog
         run: |
