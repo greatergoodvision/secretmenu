@@ -1,9 +1,10 @@
 {
-  "updatedAt": "2026-10-06T08:24:17.207Z",
+  "updatedAt": "2026-10-06T08:36:55.772Z",
   "count": 247,
-  "imageCount": 148,
-  "videoCount": 0,
-  "mediaCount": 148,
+  "imageCount": 202,
+  "videoCount": 50,
+  "mediaCount": 252,
+  "fullMediaProducts": 50,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -66,11 +67,20 @@
           "kind": "text"
         }
       ],
-      "image": "images/fd804e21feaa276c2b.png",
+      "image": "images/b8e5293be8ac423cf3.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/fd804e21feaa276c2b.png"
+          "src": "images/b8e5293be8ac423cf3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/d6eba70b171418bf83.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -490,6 +500,15 @@
         {
           "type": "image",
           "src": "images/5d92af8bbe8005355a.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/7552fd82e2a9faec9e.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -628,6 +647,10 @@
         {
           "type": "image",
           "src": "images/206d5cc0f9c8cd8df2.png"
+        },
+        {
+          "type": "image",
+          "src": "images/724c1ed5ccc99d6efc.jpg"
         }
       ]
     },
@@ -761,11 +784,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/af381d444780ce2c75.png",
+      "image": "images/3bd0ec655dcec76405.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/af381d444780ce2c75.png"
+          "src": "images/3bd0ec655dcec76405.jpg"
         }
       ]
     },
@@ -1148,6 +1171,15 @@
         {
           "type": "image",
           "src": "images/9321c2c45edfee9ac9.png"
+        },
+        {
+          "type": "image",
+          "src": "images/b07f944a92c1198393.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -1180,11 +1212,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/e18bc8c5cea2ca51a0.png",
+      "image": "images/6b0e3870f63247e844.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/e18bc8c5cea2ca51a0.png"
+          "src": "images/6b0e3870f63247e844.jpg"
         }
       ]
     },
@@ -1286,6 +1318,15 @@
         {
           "type": "image",
           "src": "images/c8835199e046a37548.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/defe508dc277506a55.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -1318,11 +1359,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/440c17b2aebdcb2839.png",
+      "image": "images/4574cd2d0492153238.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/440c17b2aebdcb2839.png"
+          "src": "images/4574cd2d0492153238.jpg"
         }
       ]
     },
@@ -1567,6 +1608,15 @@
         {
           "type": "image",
           "src": "images/ab6cbda11cbb769e27.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/c594d68fc3a39b3d92.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -1705,11 +1755,20 @@
           "kind": "text"
         }
       ],
-      "image": "images/903c4fca9417f73951.png",
+      "image": "images/0cb768587e1c751173.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/903c4fca9417f73951.png"
+          "src": "images/0cb768587e1c751173.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/5ef0adb4435797d852.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -1934,11 +1993,20 @@
           "kind": "text"
         }
       ],
-      "image": "images/453461bcee889885b2.png",
+      "image": "images/452fffc92e7ce6568e.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/453461bcee889885b2.png"
+          "src": "images/452fffc92e7ce6568e.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/caf8275ce45e34426e.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -2008,6 +2076,15 @@
         {
           "type": "image",
           "src": "images/22d9aa79db44a25e32.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/ffad78a689f6a54e75.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -2173,11 +2250,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/abc563d17724b81873.png",
+      "image": "images/900722293df22b6a57.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/abc563d17724b81873.png"
+          "src": "images/900722293df22b6a57.jpg"
         }
       ]
     },
@@ -2279,11 +2356,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/cb301146e1ce2c1236.png",
+      "image": "images/fac62f951c1e3866fa.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/cb301146e1ce2c1236.png"
+          "src": "images/fac62f951c1e3866fa.jpg"
         }
       ]
     },
@@ -2459,6 +2536,15 @@
         {
           "type": "image",
           "src": "images/0cd6cf3742d9a7b602.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/48246337e9b2004069.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -2496,6 +2582,15 @@
         {
           "type": "image",
           "src": "images/180bc1a567464c1002.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/f19238f68dbe7dccbf.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -2597,11 +2692,20 @@
           "kind": "text"
         }
       ],
-      "image": "images/549e40c86bc406d3d4.png",
+      "image": "images/bc12ec7c68ccbe5415.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/549e40c86bc406d3d4.png"
+          "src": "images/bc12ec7c68ccbe5415.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/df6d129535e282761c.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -2814,11 +2918,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/6f4ce290989540b0fd.png",
+      "image": "images/502cd661887a5e17c1.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/6f4ce290989540b0fd.png"
+          "src": "images/502cd661887a5e17c1.jpg"
         }
       ]
     },
@@ -2888,6 +2992,15 @@
         {
           "type": "image",
           "src": "images/c27f16110db63406a4.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/6e7d33f232a2dd6260.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://v5.airtableusercontent.com/v3/u/58/58/1791288000000/YGL65WLSnH3Kl3DGpK8E1A/GvjH0eZldXTftv4-Gu_7mBZ9sVogIcgup_jeNdUomZtPYohCwgr8DRLYHQQwSTQMpbpkGIIIlvZTc3t_gQbtTutI7giTlldy9W7XhMEfCdBdw4KnQeTfxjFGAHeHsnLRRwbnSEfytCPErh9WOjL7Qg/1oO-H4Mtc76ymOvdUA0n2cnQNnqe-TPMRXXFBtGNP7E",
+          "poster": null
         }
       ]
     },
@@ -2957,11 +3070,20 @@
           "kind": "text"
         }
       ],
-      "image": "images/32a1b7db0523dbf750.png",
+      "image": "images/9db77b0a3fdfbba505.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/32a1b7db0523dbf750.png"
+          "src": "images/9db77b0a3fdfbba505.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/1de278825013522ce9.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -3238,6 +3360,15 @@
         {
           "type": "image",
           "src": "images/99fabfd6ce057a2296.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/da1aa4eed51c4fb2d1.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -3339,6 +3470,15 @@
         {
           "type": "image",
           "src": "images/da41f88c974845aa8c.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/16cdd3f0bd3ca86dbe.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -3440,6 +3580,10 @@
         {
           "type": "image",
           "src": "images/a95ad54c50c056f264.png"
+        },
+        {
+          "type": "image",
+          "src": "images/20c52661471f561f17.jpg"
         }
       ]
     },
@@ -3546,6 +3690,15 @@
         {
           "type": "image",
           "src": "images/7b7616a5473837411e.png"
+        },
+        {
+          "type": "image",
+          "src": "images/f3da8c783089aaa066.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -3684,11 +3837,20 @@
           "kind": "text"
         }
       ],
-      "image": "images/9c360ba22852ae5a2f.png",
+      "image": "images/11b8bebe2e928e8d27.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/9c360ba22852ae5a2f.png"
+          "src": "images/11b8bebe2e928e8d27.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/99df1d11e624508f10.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -3795,6 +3957,15 @@
         {
           "type": "image",
           "src": "images/743e2c4ec33dff11be.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/7c7241861d2b767b8a.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -3864,6 +4035,10 @@
         {
           "type": "image",
           "src": "images/12009914ba701aa58e.png"
+        },
+        {
+          "type": "image",
+          "src": "images/31c72dbf06ee790143.jpg"
         }
       ]
     },
@@ -3970,6 +4145,15 @@
         {
           "type": "image",
           "src": "images/96fa46e450d86b9b5f.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/62e7fb4035ee51ee15.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -4172,11 +4356,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/05b39abd85aa14e740.png",
+      "image": "images/212f34a04ed95dfb73.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/05b39abd85aa14e740.png"
+          "src": "images/212f34a04ed95dfb73.jpg"
         }
       ]
     },
@@ -4241,11 +4425,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/e009efc9668b86a224.png",
+      "image": "images/79f5d927987d16b9e3.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/e009efc9668b86a224.png"
+          "src": "images/79f5d927987d16b9e3.jpg"
         }
       ]
     },
@@ -4283,6 +4467,15 @@
         {
           "type": "image",
           "src": "images/271f85e317533d4158.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/0937135c96316f0ae1.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -4394,6 +4587,15 @@
         {
           "type": "image",
           "src": "images/494c2d8ed5a5cdc833.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/c81f90ac332475f27a.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -4431,6 +4633,15 @@
         {
           "type": "image",
           "src": "images/b30afefb72e60c052e.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/c262ba8ad5202d3d23.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -4468,6 +4679,15 @@
         {
           "type": "image",
           "src": "images/3999b517fee866ad2c.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/34190060030b06b604.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -4500,11 +4720,20 @@
           "kind": "text"
         }
       ],
-      "image": "images/25c6b6748b5067ab94.png",
+      "image": "images/cdc2af65b9580f74ed.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/25c6b6748b5067ab94.png"
+          "src": "images/cdc2af65b9580f74ed.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/c04763c7b38e0b2527.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -4537,11 +4766,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/bb7cccf61efb5fab3c.png",
+      "image": "images/bbafee3fbcfabacf53.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/bb7cccf61efb5fab3c.png"
+          "src": "images/bbafee3fbcfabacf53.jpg"
         }
       ]
     },
@@ -4579,6 +4808,15 @@
         {
           "type": "image",
           "src": "images/f2d965957680617c95.png"
+        },
+        {
+          "type": "image",
+          "src": "images/4fcd23755a27ec9dd7.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -4616,6 +4854,15 @@
         {
           "type": "image",
           "src": "images/73ec7d093c60290be9.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/7e318bf566dd2bba94.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -4712,11 +4959,20 @@
           "kind": "text"
         }
       ],
-      "image": "images/2b361e887dee2cfd56.png",
+      "image": "images/024dca4db613b50adf.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/2b361e887dee2cfd56.png"
+          "src": "images/024dca4db613b50adf.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/ddc343bd51f6b93f9a.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -4818,6 +5074,15 @@
         {
           "type": "image",
           "src": "images/6867103a41ea5be3f1.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/93610da93ca146deaf.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -4855,6 +5120,15 @@
         {
           "type": "image",
           "src": "images/7a29fdbce65caa7f4d.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/20a5cb7b1e80c64d60.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -4892,6 +5166,15 @@
         {
           "type": "image",
           "src": "images/72f7ad3fd1497bf8ae.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/9988a9abc076ffe9ae.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -5030,11 +5313,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/448878f7601b68f4e7.png",
+      "image": "images/ab9322f2bd76f78331.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/448878f7601b68f4e7.png"
+          "src": "images/ab9322f2bd76f78331.jpg"
         }
       ]
     },
@@ -5146,6 +5429,15 @@
         {
           "type": "image",
           "src": "images/abe0befb1f50f5c5b5.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/cf3c0964e67c7f2aae.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -5321,6 +5613,15 @@
         {
           "type": "image",
           "src": "images/623bf73f6d30b9cb36.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/ac293078c3bfc6cd57.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -5358,6 +5659,15 @@
         {
           "type": "image",
           "src": "images/dfd9b63b0d9bc2e190.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/6df2eef1c1b94fec00.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -5390,11 +5700,20 @@
           "kind": "text"
         }
       ],
-      "image": "images/0caf23f67f1ca6cbb9.png",
+      "image": "images/ca1cd9ea77fc5ec0b1.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/0caf23f67f1ca6cbb9.png"
+          "src": "images/ca1cd9ea77fc5ec0b1.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/b8d71d44940c7a3266.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -5427,11 +5746,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/4e615202488f6a60e5.png",
+      "image": "images/ace442f6848e5c52db.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/4e615202488f6a60e5.png"
+          "src": "images/ace442f6848e5c52db.jpg"
         }
       ]
     },
@@ -5607,6 +5926,15 @@
         {
           "type": "image",
           "src": "images/be1b148c632c36b093.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/df8dbcadc7578585b3.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -5639,11 +5967,20 @@
           "kind": "text"
         }
       ],
-      "image": "images/45080d7ede5037e208.png",
+      "image": "images/e9307ddc4321d67891.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/45080d7ede5037e208.png"
+          "src": "images/e9307ddc4321d67891.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/6dad2ea85098bb85e5.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -5782,11 +6119,20 @@
           "kind": "text"
         }
       ],
-      "image": "images/245959d91e2a37f5de.png",
+      "image": "images/f67a7fd737cae6e43e.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/245959d91e2a37f5de.png"
+          "src": "images/f67a7fd737cae6e43e.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/86cb726bb43c7b8c54.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -6068,6 +6414,15 @@
         {
           "type": "image",
           "src": "images/3c127eaf8db3b8b234.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/dedc376f2401a6f940.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -6137,11 +6492,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/8d3c91a506c5b32812.png",
+      "image": "images/2d41f924a03b15aec2.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/8d3c91a506c5b32812.png"
+          "src": "images/2d41f924a03b15aec2.jpg"
         }
       ]
     },
@@ -6243,11 +6598,20 @@
           "kind": "text"
         }
       ],
-      "image": "images/a243c1fe6ad9ea2f92.png",
+      "image": "images/ca4d29f7d3594ad210.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/a243c1fe6ad9ea2f92.png"
+          "src": "images/ca4d29f7d3594ad210.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/d51a3b2ec6f2cc690c.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -6519,6 +6883,15 @@
         {
           "type": "image",
           "src": "images/a81b4534870f26f95d.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/e0fd722e0599746cd1.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -6556,6 +6929,15 @@
         {
           "type": "image",
           "src": "images/7dca193c396b9933e3.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/58310d3e6e71faf2e5.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -6726,11 +7108,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/6d71a9d35f4f7e4330.png",
+      "image": "images/76ca7b2a9359d4a208.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/6d71a9d35f4f7e4330.png"
+          "src": "images/76ca7b2a9359d4a208.jpg"
         }
       ]
     },
@@ -6768,6 +7150,10 @@
         {
           "type": "image",
           "src": "images/3c0d15a1b09c8a7101.png"
+        },
+        {
+          "type": "image",
+          "src": "images/6256c37699d0af1dde.jpg"
         }
       ]
     },
@@ -6869,6 +7255,15 @@
         {
           "type": "image",
           "src": "images/1516af73e41473b6d5.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/b629a500c4a4abbb22.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -7017,6 +7412,15 @@
         {
           "type": "image",
           "src": "images/782fdaa3d3adc81f89.png"
+        },
+        {
+          "type": "image",
+          "src": "images/00cd77cdfaed6d042a.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -7049,11 +7453,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/8b690eeb51d5e95dad.png",
+      "image": "images/3f761cf7d1cf1d3083.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/8b690eeb51d5e95dad.png"
+          "src": "images/3f761cf7d1cf1d3083.jpg"
         }
       ]
     },
@@ -7224,6 +7628,15 @@
         {
           "type": "image",
           "src": "images/c19b88f38eae814a10.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/ec875420313177eaa9.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -7261,6 +7674,15 @@
         {
           "type": "image",
           "src": "images/9282ee0d355dd89b6a.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/aabd9620101166ee59.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -7330,11 +7752,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/badda894e0edbaa657.png",
+      "image": "images/adaa4e4103541c51f9.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/badda894e0edbaa657.png"
+          "src": "images/adaa4e4103541c51f9.jpg"
         }
       ]
     },
@@ -7542,6 +7964,15 @@
         {
           "type": "image",
           "src": "images/63d085d07be0eda90e.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/3d2944ec8d4861e47d.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -7722,6 +8153,15 @@
         {
           "type": "image",
           "src": "images/374800355b3a333197.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/236feb98943c5dd444.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -8131,11 +8571,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/6f93f8621f20de8cea.png",
+      "image": "images/cc5eed27f9b36ced87.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/6f93f8621f20de8cea.png"
+          "src": "images/cc5eed27f9b36ced87.jpg"
         }
       ]
     },
@@ -8237,6 +8677,15 @@
         {
           "type": "image",
           "src": "images/fb3da72b0c87ce3db0.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/5e2908a3c50d04c07f.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -8274,6 +8723,15 @@
         {
           "type": "image",
           "src": "images/a42244e451306a44c1.jpg"
+        },
+        {
+          "type": "image",
+          "src": "images/9034e277954aed067c.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
@@ -8614,6 +9072,15 @@
         {
           "type": "image",
           "src": "images/a999a238b2cb04bd67.png"
+        },
+        {
+          "type": "image",
+          "src": "images/b569ffd6f18ce42bf9.jpg"
+        },
+        {
+          "type": "video",
+          "src": "https://static.airtable.com/images/attachment_thumbnails/video_dark.png",
+          "poster": null
         }
       ]
     },
