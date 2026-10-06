@@ -86,4 +86,5 @@ if(await downloadControl.count()){
 }
 
 page.off('request',onReq); page.off('response',onRes);
+console.log('DIAGNOSTIC_VERSION=public-button-v2');
 await browser.close();
