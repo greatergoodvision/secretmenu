@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'scripts/diagnose-media.mjs'
+      - 'tools/diagnose-csv.mjs'
       - '.github/workflows/diagnose-media.yml'
 
 permissions:
@@ -20,7 +20,7 @@ jobs:
           node-version: '22'
       - run: npm install
       - run: npx playwright install --with-deps chromium
-      - name: Inspect Airtable attachment viewer
+      - name: Test Airtable CSV attachment export
         env:
           AIRTABLE_SOURCE_URL: ${{ secrets.AIRTABLE_SOURCE_URL }}
-        run: node scripts/diagnose-media.mjs
+        run: node tools/diagnose-csv.mjs
