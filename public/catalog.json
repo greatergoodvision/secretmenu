@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-06T04:32:58.032Z",
-  "count": 251,
-  "imageCount": 152,
+  "updatedAt": "2026-10-06T05:32:50.266Z",
+  "count": 247,
+  "imageCount": 148,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -1303,7 +1303,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/e52a5e4035ef7fc5.png"
+      "image": "images/e52a5e4035ef7fc5.jpg"
     },
     {
       "title": "BX1 Big (T5S4-XA)",
@@ -2481,7 +2481,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/9a2dca89897e21dc.png"
+      "image": "images/9a2dca89897e21dc.jpg"
     },
     {
       "title": "Frosted Cereal Bomb Big (R1E9-IXC)",
@@ -2794,37 +2794,6 @@
       "image": "images/a12af107a5b36dae.jpg"
     },
     {
-      "title": "Gelato 45 Big (C1S9-VIIB)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "27.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,000",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$975",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$950",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/b834043b24332912.jpg"
-    },
-    {
       "title": "Gelato 45 Big (H7L6-VIIID)",
       "fields": [
         {
@@ -2853,7 +2822,7 @@
           "kind": "text"
         }
       ],
-      "image": "images/8e3440fed19ae3ef.png"
+      "image": "images/8e3440fed19ae3ef.jpg"
     },
     {
       "title": "Gelato Candy Big (L4Y2-XA)",
@@ -3939,37 +3908,6 @@
         }
       ],
       "image": "images/b4c53242053b54ee.jpg"
-    },
-    {
-      "title": "Kept Secret Big (H3S9-VIIB)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "6.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,050",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,025",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,000",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/bf370a35579f92ad.png"
     },
     {
       "title": "Kept Secret Small (H3S9-IXC)",
@@ -5460,37 +5398,6 @@
       "image": "images/82a3eda1545efbe5.jpg"
     },
     {
-      "title": "Pineapple Express Big (G8N4-VIIB)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "24.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/bff548363a18f44d.jpg"
-    },
-    {
       "title": "Pink Guava Big (G7O4-IXC)",
       "fields": [
         {
@@ -6140,37 +6047,6 @@
         }
       ],
       "image": null
-    },
-    {
-      "title": "Rainbow Runtz Big (C1S9-VIIB)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "8.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,000",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$975",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$950",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/abc011b392d5a0eb.jpg"
     },
     {
       "title": "Rainbow Sherb Big (G7O4-VIIIF)",
