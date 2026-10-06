@@ -37,7 +37,9 @@ jobs:
       - name: Sync public catalog
         env:
           AIRTABLE_SOURCE_URL: ${{ secrets.AIRTABLE_SOURCE_URL }}
-        run: node scripts/sync.mjs
+        run: |
+          node -e "const fs=require('fs');const p='scripts/sync.mjs';let s=fs.readFileSync(p,'utf8');s=s.replace(\"const parent = thumb.locator('xpath=' + '../'.repeat(up));\",\"const parent = thumb.locator('xpath=..');\");fs.writeFileSync(p,s)"
+          node scripts/sync.mjs
       - name: Save refreshed catalog
         run: |
           git config user.name 'secretmenu-bot'
