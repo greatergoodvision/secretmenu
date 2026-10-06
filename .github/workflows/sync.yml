@@ -10,7 +10,7 @@ on:
       - '.github/workflows/**'
       - 'package.json'
   schedule:
-    - cron: '17 */4 * * *'
+    - cron: '0 */4 * * *'
 
 permissions:
   contents: write
