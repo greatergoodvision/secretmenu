@@ -35,18 +35,65 @@ async function collectVisible() {
     const hasAll = t => marker.test(t) && /Tier\s*A1\s*Price/i.test(t) && /Tier\s*B1\s*Price/i.test(t) && /Tier\s*C1\s*Price/i.test(t);
     const out = [];
 
-    function imageFrom(root) {
-      const img = root.querySelector('img');
-      if (img?.currentSrc?.startsWith('http')) return img.currentSrc;
-      if (img?.src?.startsWith('http')) return img.src;
+    function normalKey(url) {
+      try {
+        const u = new URL(url);
+        u.search = '';
+        u.hash = '';
+        return u.toString();
+      } catch { return url; }
+    }
+
+    function mediaFrom(root) {
+      const media = [];
+      const keys = new Set();
+      const add = (url, type, poster = null) => {
+        if (!url || !/^https?:\/\//i.test(url)) return;
+        const key = `${type}:${normalKey(url)}`;
+        if (keys.has(key)) return;
+        keys.add(key);
+        media.push({ url, type, poster: poster && /^https?:\/\//i.test(poster) ? poster : null });
+      };
+
+      for (const video of root.querySelectorAll('video')) {
+        const poster = video.poster || null;
+        if (/^https?:\/\//i.test(video.currentSrc || '')) add(video.currentSrc, 'video', poster);
+        if (/^https?:\/\//i.test(video.src || '')) add(video.src, 'video', poster);
+        for (const source of video.querySelectorAll('source')) add(source.src || source.getAttribute('src'), 'video', poster);
+      }
+
+      for (const source of root.querySelectorAll('source')) {
+        const src = source.src || source.getAttribute('src') || '';
+        const type = (source.type || '').toLowerCase();
+        if (type.startsWith('video/') || /\.(mp4|webm|mov)(?:$|\?)/i.test(src)) add(src, 'video');
+      }
+
+      for (const img of root.querySelectorAll('img')) {
+        const src = img.currentSrc || img.src || '';
+        const r = img.getBoundingClientRect();
+        const bigEnough = img.naturalWidth >= 120 || img.naturalHeight >= 80 || r.width >= 100 || r.height >= 70;
+        const attachmentish = /airtable|usercontent|attachment|cdn/i.test(src);
+        if (bigEnough || attachmentish) add(src, 'image');
+      }
 
       const nodes = [root, ...root.querySelectorAll('*')];
       for (const n of nodes) {
         const bg = getComputedStyle(n).backgroundImage || '';
         const m = bg.match(/url\(["']?(https?:\/\/[^"')]+)["']?\)/i);
-        if (m) return m[1];
+        if (!m) continue;
+        const r = n.getBoundingClientRect();
+        if (r.width >= 100 && r.height >= 70) add(m[1], 'image');
       }
-      return null;
+
+      for (const a of root.querySelectorAll('a[href]')) {
+        const href = a.href || '';
+        if (/\.(mp4|webm|mov)(?:$|\?)/i.test(href)) add(href, 'video');
+        else if (/\.(jpe?g|png|webp|gif)(?:$|\?)/i.test(href)) add(href, 'image');
+      }
+
+      const images = media.filter(x => x.type === 'image').slice(0, 2);
+      const videos = media.filter(x => x.type === 'video').slice(0, 1);
+      return [...images, ...videos];
     }
 
     for (const el of [...document.querySelectorAll('body *')]) {
@@ -64,7 +111,7 @@ async function collectVisible() {
           chosen = {
             text: txt,
             titleHint: prefix.split(/\n+/).map(x => x.trim()).filter(Boolean).join(' '),
-            image: imageFrom(node)
+            media: mediaFrom(node)
           };
           break;
         }
@@ -81,7 +128,7 @@ async function collectVisible() {
   for (const c of cards) {
     const key = `${c.titleHint}|${c.text}`;
     const prior = seen.get(key);
-    if (!prior || (!prior.image && c.image)) seen.set(key, c);
+    if (!prior || (c.media?.length || 0) > (prior.media?.length || 0)) seen.set(key, c);
   }
 }
 
@@ -138,7 +185,7 @@ function parseCard(card) {
   if (c) fields.push({ label: 'Tier C1 Price (50+ lbs)', value: bumped(c), kind: 'price' });
   if (quality) fields.push({ label: 'Quality', value: quality, kind: 'text' });
 
-  return { title, fields, imageUrl: card.image };
+  return { title, fields, media: card.media || [] };
 }
 
 const byTitle = new Map();
@@ -146,30 +193,49 @@ for (const card of seen.values()) {
   const parsed = parseCard(card);
   if (!parsed.title || parsed.fields.filter(f => f.kind === 'price').length < 3) continue;
   const prior = byTitle.get(parsed.title);
-  if (!prior || (!prior.imageUrl && parsed.imageUrl)) byTitle.set(parsed.title, parsed);
+  if (!prior || parsed.media.length > prior.media.length) byTitle.set(parsed.title, parsed);
+}
+
+async function cacheImage(url, title, mediaIndex) {
+  if (!/^https?:\/\//i.test(url || '')) return null;
+  try {
+    const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+    if (!res.ok) return null;
+    const type = (res.headers.get('content-type') || '').toLowerCase();
+    if (!type.startsWith('image/')) return null;
+    const buf = Buffer.from(await res.arrayBuffer());
+    const ext = type.includes('png') ? '.png' : type.includes('webp') ? '.webp' : type.includes('gif') ? '.gif' : '.jpg';
+    const file = crypto.createHash('sha1').update(`${title}|${mediaIndex}|${url}`).digest('hex').slice(0, 18) + ext;
+    await fs.writeFile(path.join(imageDir, file), buf);
+    return `images/${file}`;
+  } catch { return null; }
 }
 
 const products = [];
-let idx = 0;
 let imageCount = 0;
+let videoCount = 0;
+let mediaCount = 0;
 for (const item of byTitle.values()) {
-  let image = null;
-  if (item.imageUrl?.startsWith('http')) {
-    try {
-      const res = await fetch(item.imageUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
-      if (res.ok) {
-        const buf = Buffer.from(await res.arrayBuffer());
-        const type = res.headers.get('content-type') || '';
-        const ext = type.includes('png') ? '.png' : type.includes('webp') ? '.webp' : type.includes('gif') ? '.gif' : '.jpg';
-        const file = crypto.createHash('sha1').update(item.title).digest('hex').slice(0, 16) + ext;
-        await fs.writeFile(path.join(imageDir, file), buf);
-        image = `images/${file}`;
+  const media = [];
+  let imageIndex = 0;
+  for (const m of item.media.slice(0, 3)) {
+    if (m.type === 'image' && imageIndex < 2) {
+      const cached = await cacheImage(m.url, item.title, imageIndex);
+      if (cached) {
+        media.push({ type: 'image', src: cached });
         imageCount++;
+        mediaCount++;
+        imageIndex++;
       }
-    } catch {}
+    } else if (m.type === 'video' && !media.some(x => x.type === 'video')) {
+      media.push({ type: 'video', src: m.url, poster: m.poster || null });
+      videoCount++;
+      mediaCount++;
+    }
   }
-  products.push({ title: item.title, fields: item.fields, image });
-  idx++;
+
+  const firstImage = media.find(x => x.type === 'image')?.src || null;
+  products.push({ title: item.title, fields: item.fields, image: firstImage, media });
 }
 
 if (!products.length) {
@@ -185,8 +251,10 @@ await fs.writeFile(path.join(outDir, 'catalog.json'), JSON.stringify({
   updatedAt: new Date().toISOString(),
   count: products.length,
   imageCount,
+  videoCount,
+  mediaCount,
   products
 }, null, 2));
 
-console.log(`Synced ${products.length} products, ${imageCount} images, with +$${MARKUP} pricing.`);
+console.log(`Synced ${products.length} products, ${imageCount} images, ${videoCount} videos, ${mediaCount} media items, with +$${MARKUP} pricing.`);
 await browser.close();
