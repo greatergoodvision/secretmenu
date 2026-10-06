@@ -25,9 +25,105 @@ await page.waitForFunction(
   () => /Quantity\s*Available/i.test(document.body?.innerText || '') || /Tier\s*A1\s*Price/i.test(document.body?.innerText || ''),
   { timeout: 60000 }
 ).catch(() => {});
-await page.waitForTimeout(3500);
+await page.waitForTimeout(3000);
 
 const seen = new Map();
+const videoChecked = new Set();
+let videoThumbCount = 0;
+let capturedVideoCount = 0;
+
+function cleanVideoUrl(url) {
+  if (!url || !/^https?:\/\//i.test(url)) return null;
+  if (/attachment_thumbnails\/video_dark\.png/i.test(url)) return null;
+  return url;
+}
+
+async function extractRecordVideo(openKey, title) {
+  if (!openKey || videoChecked.has(title)) return null;
+  videoChecked.add(title);
+
+  const card = page.locator(`[data-pp-open-key="${openKey}"]`).first();
+  if (!(await card.count())) return null;
+
+  try {
+    await card.scrollIntoViewIfNeeded({ timeout: 1200 }).catch(() => {});
+    await card.click({ timeout: 1600 });
+  } catch {
+    return null;
+  }
+
+  await page.waitForTimeout(180);
+
+  const thumb = page.locator('img[src*="attachment_thumbnails/video_dark"]:visible').first();
+  if (!(await thumb.count())) {
+    await page.keyboard.press('Escape').catch(() => {});
+    await page.waitForTimeout(60);
+    return null;
+  }
+
+  videoThumbCount++;
+  const captured = [];
+  const onResponse = response => {
+    try {
+      const url = response.url();
+      const ct = String(response.headers()['content-type'] || '').toLowerCase();
+      if (ct.startsWith('video/') || /\.(mp4|mov|webm)(?:$|\?)/i.test(url)) {
+        const clean = cleanVideoUrl(url);
+        if (clean) captured.push(clean);
+      }
+    } catch {}
+  };
+  page.on('response', onResponse);
+
+  try {
+    await thumb.click({ timeout: 1200 }).catch(async () => {
+      await thumb.locator('xpath=..').click({ timeout: 900 }).catch(() => {});
+    });
+
+    let direct = null;
+    for (let i = 0; i < 12 && !direct; i++) {
+      await page.waitForTimeout(180);
+
+      direct = await page.evaluate(() => {
+        const visible = el => {
+          const r = el.getBoundingClientRect();
+          const s = getComputedStyle(el);
+          return r.width > 20 && r.height > 20 && s.display !== 'none' && s.visibility !== 'hidden';
+        };
+
+        const videos = [...document.querySelectorAll('video')].filter(visible).reverse();
+        for (const v of videos) {
+          const src = v.currentSrc || v.src || v.querySelector('source')?.src || '';
+          if (/^https?:\/\//i.test(src)) return src;
+          try { v.muted = true; v.play().catch(() => {}); } catch {}
+        }
+
+        const links = [...document.querySelectorAll('a[href]')].filter(visible).reverse();
+        for (const a of links) {
+          const href = a.href || '';
+          if (/^https?:\/\//i.test(href) && /\.(mp4|mov|webm)(?:$|\?)/i.test(href)) return href;
+        }
+        return null;
+      }).catch(() => null);
+
+      direct = cleanVideoUrl(direct) || captured.at(-1) || null;
+    }
+
+    if (direct) {
+      capturedVideoCount++;
+      console.log(`VIDEO_LINK ${title} -> ${new URL(direct).origin}${new URL(direct).pathname}`);
+      return direct;
+    }
+    console.log(`VIDEO_MISSED ${title}`);
+    return null;
+  } finally {
+    page.off('response', onResponse);
+    await page.keyboard.press('Escape').catch(() => {});
+    await page.waitForTimeout(60);
+    await page.keyboard.press('Escape').catch(() => {});
+    await page.waitForTimeout(60);
+  }
+}
 
 async function collectVisible() {
   const cards = await page.evaluate(() => {
@@ -63,32 +159,18 @@ async function collectVisible() {
         for (const source of video.querySelectorAll('source')) add(source.src || source.getAttribute('src'), 'video', poster);
       }
 
-      for (const source of root.querySelectorAll('source')) {
-        const src = source.src || source.getAttribute('src') || '';
-        const type = (source.type || '').toLowerCase();
-        if (type.startsWith('video/') || /\.(mp4|webm|mov)(?:$|\?)/i.test(src)) add(src, 'video');
-      }
-
       for (const img of root.querySelectorAll('img')) {
         const src = img.currentSrc || img.src || '';
         const r = img.getBoundingClientRect();
-        const bigEnough = img.naturalWidth >= 120 || img.naturalHeight >= 80 || r.width >= 100 || r.height >= 70;
-        const attachmentish = /airtable|usercontent|attachment|cdn/i.test(src);
-        if (bigEnough || attachmentish) add(src, 'image');
+        if ((img.naturalWidth >= 120 || img.naturalHeight >= 80 || r.width >= 100 || r.height >= 70) && !/video_dark\.png/i.test(src)) add(src, 'image');
       }
 
       for (const n of [root, ...root.querySelectorAll('*')]) {
         const bg = getComputedStyle(n).backgroundImage || '';
         const m = bg.match(/url\(["']?(https?:\/\/[^"')]+)["']?\)/i);
-        if (!m) continue;
+        if (!m || /video_dark\.png/i.test(m[1])) continue;
         const r = n.getBoundingClientRect();
         if (r.width >= 100 && r.height >= 70) add(m[1], 'image');
-      }
-
-      for (const a of root.querySelectorAll('a[href]')) {
-        const href = a.href || '';
-        if (/\.(mp4|webm|mov)(?:$|\?)/i.test(href)) add(href, 'video');
-        else if (/\.(jpe?g|png|webp|gif)(?:$|\?)/i.test(href)) add(href, 'image');
       }
 
       return [
@@ -97,6 +179,7 @@ async function collectVisible() {
       ];
     }
 
+    let ordinal = 0;
     for (const el of [...document.querySelectorAll('body *')]) {
       const base = (el.innerText || '').trim();
       if (!base || !hasAll(base) || base.length > 1800) continue;
@@ -108,9 +191,12 @@ async function collectVisible() {
         const q = txt.search(marker);
         const prefix = q >= 0 ? txt.slice(0, q).trim() : '';
         if (prefix && prefix.length <= 500) {
+          const openKey = `pp-${Date.now()}-${ordinal++}-${Math.random().toString(36).slice(2, 8)}`;
+          node.setAttribute('data-pp-open-key', openKey);
           chosen = {
             text: txt,
             titleHint: prefix.split(/\n+/).map(x => x.trim()).filter(Boolean).join(' '),
+            openKey,
             media: mediaFrom(node)
           };
           break;
@@ -125,7 +211,14 @@ async function collectVisible() {
   for (const c of cards) {
     const key = `${c.titleHint}|${c.text}`;
     const prior = seen.get(key);
-    if (!prior || (c.media?.length || 0) > (prior.media?.length || 0)) seen.set(key, c);
+    let media = prior?.media || c.media || [];
+
+    if (!media.some(m => m.type === 'video')) {
+      const videoUrl = await extractRecordVideo(c.openKey, c.titleHint);
+      if (videoUrl) media = [...media, { type: 'video', url: videoUrl, poster: media.find(m => m.type === 'image')?.url || null }];
+    }
+
+    if (!prior || media.length > (prior.media?.length || 0)) seen.set(key, { ...c, media });
   }
 }
 
@@ -145,7 +238,7 @@ for (let i = 0; i < 90; i++) {
   await page.waitForTimeout(160);
   await collectVisible();
 }
-await page.waitForTimeout(1000);
+await page.waitForTimeout(600);
 await collectVisible();
 
 const moneyRe = /\$\s*(\d[\d,]*(?:\.\d{1,2})?)/;
@@ -208,7 +301,7 @@ let mediaCount = 0;
 for (const item of byTitle.values()) {
   const media = [];
   let imageIndex = 0;
-  for (const m of item.media.slice(0, 3)) {
+  for (const m of item.media) {
     if (m.type === 'image' && imageIndex < 2) {
       const cached = await cacheImage(m.url, item.title, imageIndex);
       if (cached) {
@@ -217,10 +310,13 @@ for (const item of byTitle.values()) {
         mediaCount++;
         imageIndex++;
       }
-    } else if (m.type === 'video' && !media.some(x => x.type === 'video') && /^https?:\/\//i.test(m.url)) {
-      media.push({ type: 'video', src: m.url, poster: m.poster || null });
-      videoCount++;
-      mediaCount++;
+    } else if (m.type === 'video' && !media.some(x => x.type === 'video')) {
+      const videoUrl = cleanVideoUrl(m.url);
+      if (videoUrl) {
+        media.push({ type: 'video', src: videoUrl, poster: m.poster || null });
+        videoCount++;
+        mediaCount++;
+      }
     }
   }
 
@@ -229,11 +325,7 @@ for (const item of byTitle.values()) {
   products.push({ title: item.title, fields: item.fields, image: firstImage, media });
 }
 
-if (!products.length) {
-  const bodyText = (await page.locator('body').innerText()).slice(0, 10000);
-  console.error(bodyText);
-  throw new Error('No media-backed catalog products detected');
-}
+if (!products.length) throw new Error('No media-backed catalog products detected');
 
 products.sort((x, y) => x.title.localeCompare(y.title));
 await fs.writeFile(path.join(outDir, 'catalog.json'), JSON.stringify({
@@ -246,5 +338,5 @@ await fs.writeFile(path.join(outDir, 'catalog.json'), JSON.stringify({
   products
 }, null, 2));
 
-console.log(`Published ${products.length} media-backed strains only: ${imageCount} images, ${videoCount} videos, +$${MARKUP} pricing.`);
+console.log(`Published ${products.length} media-backed strains: ${imageCount} images, ${videoCount} Airtable video links. Video thumbnails seen: ${videoThumbCount}; links captured: ${capturedVideoCount}. +$${MARKUP} pricing.`);
 await browser.close();
