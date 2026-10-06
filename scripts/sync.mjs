@@ -2,7 +2,7 @@ import { chromium } from 'playwright';
 import fs from 'node:fs/promises';
 
 const SOURCE_URL = process.env.AIRTABLE_SOURCE_URL;
-const MARKUP = 50;
+const MARKUP = 600;
 if (!SOURCE_URL) throw new Error('Missing AIRTABLE_SOURCE_URL');
 
 await fs.mkdir('public', { recursive: true });
