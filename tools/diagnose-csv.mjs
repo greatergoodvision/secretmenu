@@ -63,18 +63,21 @@ page.on('request',r=>{try{const u=r.url();if(/mp4|mov|webm|video|attachment|user
 page.on('response',r=>{try{const u=r.url(),ct=String(r.headers()['content-type']||'');if(/mp4|mov|webm|video|attachment|usercontent|octet-stream/i.test(u+' '+ct))res.push({s:r.status(),ct,u:safe(u)});}catch{}});
 context.on('page',p=>popups.push(p));
 
-const box=await button.boundingBox().catch(()=>null);
-if(box)await page.mouse.click(box.x+box.width/2,box.y+box.height/2).catch(()=>{});
-await page.waitForTimeout(600);
-let afterMouse=page.url();
-console.log('AFTER_MOUSE='+safe(afterMouse));
+await button.scrollIntoViewIfNeeded().catch(()=>{});
+await button.focus().catch(()=>{});
+await page.keyboard.press('Space').catch(()=>{});
+await page.waitForTimeout(1000);
+console.log('AFTER_SPACE='+safe(page.url()));
 
-if(afterMouse===before){await button.focus().catch(()=>{});await page.keyboard.press('Enter').catch(()=>{});await page.waitForTimeout(600);}
-let afterEnter=page.url();
-console.log('AFTER_ENTER='+safe(afterEnter));
+if(page.url()===before){
+  const box=await button.boundingBox().catch(()=>null);
+  if(box)await page.mouse.click(box.x+box.width/2,box.y+box.height/2).catch(()=>{});
+  await page.waitForTimeout(700);
+}
+console.log('AFTER_MOUSE='+safe(page.url()));
 
-if(afterEnter===before){await button.click({force:true,timeout:1200}).catch(()=>{});await page.waitForTimeout(800);}
-console.log('AFTER_FORCE='+safe(page.url()));
+if(page.url()===before){await button.focus().catch(()=>{});await page.keyboard.press('Enter').catch(()=>{});await page.waitForTimeout(700);}
+console.log('AFTER_ENTER='+safe(page.url()));
 
 const publicState=await page.evaluate(()=>{
   const vis=el=>{const r=el.getBoundingClientRect(),s=getComputedStyle(el);return r.width>10&&r.height>10&&s.display!=='none'&&s.visibility!=='hidden'};
