@@ -1,10 +1,11 @@
 {
-  "updatedAt": "2026-10-06T08:48:45.003Z",
+  "updatedAt": "2026-10-06T08:53:00.022Z",
   "count": 247,
-  "imageCount": 238,
+  "imageCount": 111,
   "videoCount": 0,
-  "mediaCount": 238,
+  "mediaCount": 111,
   "fullMediaProducts": 0,
+  "productsWithNetworkMedia": 0,
   "products": [
     {
       "title": "Alien OG Small (C9M5-IXB)",
@@ -67,17 +68,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/b8e5293be8ac423cf3.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/b8e5293be8ac423cf3.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/d6eba70b171418bf83.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Animal Funk Small (R1E9-IXB)",
@@ -182,10 +174,6 @@
         {
           "type": "image",
           "src": "images/f3694dda5d1ee7c14a.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/90db08c6cafd7ac7e1.jpg"
         }
       ]
     },
@@ -223,10 +211,6 @@
         {
           "type": "image",
           "src": "images/5437931781db370610.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/8635eddf401805c410.jpg"
         }
       ]
     },
@@ -264,10 +248,6 @@
         {
           "type": "image",
           "src": "images/603e6ec2d1654e746c.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/1a07add4a31ad0f0f2.jpg"
         }
       ]
     },
@@ -369,10 +349,6 @@
         {
           "type": "image",
           "src": "images/7bccacce9463332779.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/9e750089f0b9257ae2.jpg"
         }
       ]
     },
@@ -442,10 +418,6 @@
         {
           "type": "image",
           "src": "images/d90c59e8f23b68621d.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/7c2aa98ddb4b878e11.jpg"
         }
       ]
     },
@@ -515,10 +487,6 @@
         {
           "type": "image",
           "src": "images/5d92af8bbe8005355a.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/7552fd82e2a9faec9e.jpg"
         }
       ]
     },
@@ -652,17 +620,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/0535ee19fa40ef323a.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/0535ee19fa40ef323a.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/046d1155617232ff41.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Black Ice Big (L4Y2-IXE)",
@@ -794,17 +753,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/3bd0ec655dcec76405.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/3bd0ec655dcec76405.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/ed88694b03ea18b3da.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Blue Cayman Big (T0S2-VIIC)",
@@ -840,10 +790,6 @@
         {
           "type": "image",
           "src": "images/a573b87812200b5490.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/e56c81e93c8e1a1d34.jpg"
         }
       ]
     },
@@ -881,10 +827,6 @@
         {
           "type": "image",
           "src": "images/4280eafe73739fd547.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/e87ecaac21cacafac9.jpg"
         }
       ]
     },
@@ -1055,10 +997,6 @@
         {
           "type": "image",
           "src": "images/b5fd83c2527c0c74a8.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/00d8dc44290917cc32.jpg"
         }
       ]
     },
@@ -1192,17 +1130,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/9bcf36d2a0ad44093d.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/9bcf36d2a0ad44093d.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/98e51baa67dbe1fc40.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Blue Zangria Big (T9V3-VIIC)",
@@ -1334,10 +1263,6 @@
         {
           "type": "image",
           "src": "images/c8835199e046a37548.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/defe508dc277506a55.jpg"
         }
       ]
     },
@@ -1439,10 +1364,6 @@
         {
           "type": "image",
           "src": "images/1b53d056cc2123d032.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/56d7ff61da16459c60.jpg"
         }
       ]
     },
@@ -1517,10 +1438,6 @@
         {
           "type": "image",
           "src": "images/81577f0651f07b888b.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/730d7d2a595977b2da.jpg"
         }
       ]
     },
@@ -1691,10 +1608,6 @@
         {
           "type": "image",
           "src": "images/2c09dda81f71bdc0d7.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/a1e9d2e0856532c9fe.jpg"
         }
       ]
     },
@@ -1732,10 +1645,6 @@
         {
           "type": "image",
           "src": "images/90c85eb59e1c1b6cb5.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/93b49e1b02dbee501e.jpg"
         }
       ]
     },
@@ -1992,17 +1901,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/452fffc92e7ce6568e.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/452fffc92e7ce6568e.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/caf8275ce45e34426e.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Candy X Big (G7O4-IXE)",
@@ -2070,10 +1970,6 @@
         {
           "type": "image",
           "src": "images/22d9aa79db44a25e32.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/ffad78a689f6a54e75.jpg"
         }
       ]
     },
@@ -2239,13 +2135,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/900722293df22b6a57.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/900722293df22b6a57.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Cherry Sherbert Big (G1E3-IXD)",
@@ -2313,10 +2204,6 @@
         {
           "type": "image",
           "src": "images/58e864f49b4b03507f.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/6a2b715b4b56cfe575.jpg"
         }
       ]
     },
@@ -2349,17 +2236,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/fac62f951c1e3866fa.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/fac62f951c1e3866fa.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/52512c5e58a74bec48.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Cherry Slushie Big (E0M4-XA)",
@@ -2459,10 +2337,6 @@
         {
           "type": "image",
           "src": "images/07515677fc3c642997.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/2bdf657ccc54d29c5e.jpg"
         }
       ]
     },
@@ -2500,10 +2374,6 @@
         {
           "type": "image",
           "src": "images/ae655c5b944764db05.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/c55f30786877c45581.jpg"
         }
       ]
     },
@@ -2541,10 +2411,6 @@
         {
           "type": "image",
           "src": "images/0cd6cf3742d9a7b602.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/48246337e9b2004069.jpg"
         }
       ]
     },
@@ -2582,10 +2448,6 @@
         {
           "type": "image",
           "src": "images/180bc1a567464c1002.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/f19238f68dbe7dccbf.jpg"
         }
       ]
     },
@@ -2687,17 +2549,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/bc12ec7c68ccbe5415.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/bc12ec7c68ccbe5415.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/df6d129535e282761c.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Double Runtz Big (T0E8-IXE)",
@@ -2876,10 +2729,6 @@
         {
           "type": "image",
           "src": "images/0bd64001b00ce0c5b6.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/f1d679014ab54da9e0.jpg"
         }
       ]
     },
@@ -2912,17 +2761,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/502cd661887a5e17c1.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/502cd661887a5e17c1.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/72e7b2ef7a25a2dd25.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Frosted Cherry Big (T5S4-XA)",
@@ -2990,10 +2830,6 @@
         {
           "type": "image",
           "src": "images/c27f16110db63406a4.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/6e7d33f232a2dd6260.jpg"
         }
       ]
     },
@@ -3233,10 +3069,6 @@
         {
           "type": "image",
           "src": "images/43164a2aff6143271f.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/fd887c0cd82c048dbf.jpg"
         }
       ]
     },
@@ -3274,10 +3106,6 @@
         {
           "type": "image",
           "src": "images/1dbb7c65361a2a16d7.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/42020374262193975a.jpg"
         }
       ]
     },
@@ -3347,10 +3175,6 @@
         {
           "type": "image",
           "src": "images/99fabfd6ce057a2296.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/da1aa4eed51c4fb2d1.jpg"
         }
       ]
     },
@@ -3452,10 +3276,6 @@
         {
           "type": "image",
           "src": "images/da41f88c974845aa8c.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/16cdd3f0bd3ca86dbe.jpg"
         }
       ]
     },
@@ -3552,17 +3372,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/6426e5660845c2d5ac.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/6426e5660845c2d5ac.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/2cd83b002f89e98b07.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Glitter Bomb Big (B3M3-VIIIC)",
@@ -3662,17 +3473,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/90b611d6c68333ae9c.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/90b611d6c68333ae9c.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/ff15fb7c237f3e0288.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Glue Dawg Big (G1E3-IXE)",
@@ -3809,17 +3611,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/11b8bebe2e928e8d27.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/11b8bebe2e928e8d27.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/99df1d11e624508f10.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Grape Stomper Big (B3S9-IXE)",
@@ -3924,10 +3717,6 @@
         {
           "type": "image",
           "src": "images/743e2c4ec33dff11be.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/7c7241861d2b767b8a.jpg"
         }
       ]
     },
@@ -3992,17 +3781,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/2708acfbd508b498cc.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/2708acfbd508b498cc.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/02a07605c7b6cc56f8.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Gumbo Big (G7O4-IXE)",
@@ -4070,10 +3850,6 @@
         {
           "type": "image",
           "src": "images/fbe3e265e1120b7753.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/6aba226742556b4bb3.jpg"
         }
       ]
     },
@@ -4111,10 +3887,6 @@
         {
           "type": "image",
           "src": "images/96fa46e450d86b9b5f.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/62e7fb4035ee51ee15.jpg"
         }
       ]
     },
@@ -4216,10 +3988,6 @@
         {
           "type": "image",
           "src": "images/1ea4fe5b49ccdf3977.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/b5fe444d2a23178613.jpg"
         }
       ]
     },
@@ -4321,17 +4089,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/212f34a04ed95dfb73.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/212f34a04ed95dfb73.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/e8d1c9ff60d5ef312a.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Jealousy Big (G7O4-IXE)",
@@ -4394,17 +4153,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/79f5d927987d16b9e3.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/79f5d927987d16b9e3.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/9cb3e020cc61543bc4.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Jelly Roll Small (T0E8-IXD)",
@@ -4440,10 +4190,6 @@
         {
           "type": "image",
           "src": "images/271f85e317533d4158.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/0937135c96316f0ae1.jpg"
         }
       ]
     },
@@ -4481,10 +4227,6 @@
         {
           "type": "image",
           "src": "images/48f91de147edb7830b.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/378c133dbed0291e00.jpg"
         }
       ]
     },
@@ -4522,10 +4264,6 @@
         {
           "type": "image",
           "src": "images/d0c5d9a4c2cfd8c6f0.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/4becb8371e866158e5.jpg"
         }
       ]
     },
@@ -4563,10 +4301,6 @@
         {
           "type": "image",
           "src": "images/494c2d8ed5a5cdc833.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/c81f90ac332475f27a.jpg"
         }
       ]
     },
@@ -4604,10 +4338,6 @@
         {
           "type": "image",
           "src": "images/b30afefb72e60c052e.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/c262ba8ad5202d3d23.jpg"
         }
       ]
     },
@@ -4645,10 +4375,6 @@
         {
           "type": "image",
           "src": "images/3999b517fee866ad2c.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/34190060030b06b604.jpg"
         }
       ]
     },
@@ -4681,17 +4407,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/cdc2af65b9580f74ed.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/cdc2af65b9580f74ed.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/c04763c7b38e0b2527.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Larry OG Big (G9Y3-VIIE)",
@@ -4722,17 +4439,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/bbafee3fbcfabacf53.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/bbafee3fbcfabacf53.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/62e5970d6e603dce5e.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Lava Candy Big (P5T7-VIIID)",
@@ -4763,17 +4471,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/591f0aedf7d0d53769.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/591f0aedf7d0d53769.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/3bc4f89ee049c9344f.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "LCG Big (H0D7-XA)",
@@ -4809,10 +4508,6 @@
         {
           "type": "image",
           "src": "images/73ec7d093c60290be9.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/7e318bf566dd2bba94.jpg"
         }
       ]
     },
@@ -4909,17 +4604,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/024dca4db613b50adf.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/024dca4db613b50adf.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/ddc343bd51f6b93f9a.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Lemon Cherry Fuel Big (G1E3-IXC)",
@@ -5019,10 +4705,6 @@
         {
           "type": "image",
           "src": "images/6867103a41ea5be3f1.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/93610da93ca146deaf.jpg"
         }
       ]
     },
@@ -5097,10 +4779,6 @@
         {
           "type": "image",
           "src": "images/72f7ad3fd1497bf8ae.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/9988a9abc076ffe9ae.jpg"
         }
       ]
     },
@@ -5175,10 +4853,6 @@
         {
           "type": "image",
           "src": "images/2de4f57f74a5ddf34a.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/4fed98bb8ad17b4584.jpg"
         }
       ]
     },
@@ -5317,10 +4991,6 @@
         {
           "type": "image",
           "src": "images/617b8d5fb8f2fd653c.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/bb095683b1c33be60a.jpg"
         }
       ]
     },
@@ -5358,10 +5028,6 @@
         {
           "type": "image",
           "src": "images/abe0befb1f50f5c5b5.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/cf3c0964e67c7f2aae.jpg"
         }
       ]
     },
@@ -5399,10 +5065,6 @@
         {
           "type": "image",
           "src": "images/0dfe61eedf5032389d.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/c24889207f14d36c07.jpg"
         }
       ]
     },
@@ -5504,10 +5166,6 @@
         {
           "type": "image",
           "src": "images/f90568f0bd63848d09.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/c683c24d888464ec05.jpg"
         }
       ]
     },
@@ -5582,10 +5240,6 @@
         {
           "type": "image",
           "src": "images/dfd9b63b0d9bc2e190.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/6df2eef1c1b94fec00.jpg"
         }
       ]
     },
@@ -5618,17 +5272,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/ca1cd9ea77fc5ec0b1.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/ca1cd9ea77fc5ec0b1.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/b8d71d44940c7a3266.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "MOB Big (P5T7-VIIID)",
@@ -5659,17 +5304,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/ace442f6848e5c52db.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/ace442f6848e5c52db.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/a5d94dce57366580d7.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Mob Big (S3M0-IXE)",
@@ -5774,10 +5410,6 @@
         {
           "type": "image",
           "src": "images/8cf169e780afd95dff.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/bc18ad439565d92f76.jpg"
         }
       ]
     },
@@ -5847,10 +5479,6 @@
         {
           "type": "image",
           "src": "images/be1b148c632c36b093.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/df8dbcadc7578585b3.jpg"
         }
       ]
     },
@@ -5952,10 +5580,6 @@
         {
           "type": "image",
           "src": "images/f2966fa7bd1c29d73f.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/d4b19699916fd472b4.jpg"
         }
       ]
     },
@@ -5993,10 +5617,6 @@
         {
           "type": "image",
           "src": "images/8b54450d84f38603de.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/0620f60ebd28885884.jpg"
         }
       ]
     },
@@ -6029,17 +5649,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/f67a7fd737cae6e43e.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/f67a7fd737cae6e43e.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/86cb726bb43c7b8c54.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Papaya Punch Big (C9M5-IXD)",
@@ -6181,10 +5792,6 @@
         {
           "type": "image",
           "src": "images/d4e8b45e63452f1a95.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/019a6646968ae316ba.jpg"
         }
       ]
     },
@@ -6323,10 +5930,6 @@
         {
           "type": "image",
           "src": "images/3c127eaf8db3b8b234.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/dedc376f2401a6f940.jpg"
         }
       ]
     },
@@ -6364,10 +5967,6 @@
         {
           "type": "image",
           "src": "images/7a2b35c01e2303fc3d.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/11c9e2474420fc440e.jpg"
         }
       ]
     },
@@ -6400,17 +5999,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/2d41f924a03b15aec2.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/2d41f924a03b15aec2.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/99fb235606d012393a.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Pink Runtz Big (G7O4-IXD)",
@@ -6446,10 +6036,6 @@
         {
           "type": "image",
           "src": "images/732f3d3d7ad504ccd7.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/62229a61a3f7c59986.jpg"
         }
       ]
     },
@@ -6514,17 +6100,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/ca4d29f7d3594ad210.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/ca4d29f7d3594ad210.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/d51a3b2ec6f2cc690c.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Pink Runtz Big (T6U9-IXD)",
@@ -6693,10 +6270,6 @@
         {
           "type": "image",
           "src": "images/7db8a1fae2b7c3088e.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/2f32a0e351017c6bb7.jpg"
         }
       ]
     },
@@ -6798,10 +6371,6 @@
         {
           "type": "image",
           "src": "images/a81b4534870f26f95d.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/e0fd722e0599746cd1.jpg"
         }
       ]
     },
@@ -6839,10 +6408,6 @@
         {
           "type": "image",
           "src": "images/7dca193c396b9933e3.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/58310d3e6e71faf2e5.jpg"
         }
       ]
     },
@@ -6912,10 +6477,6 @@
         {
           "type": "image",
           "src": "images/fd49b5c3b6af14c02b.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/0a1ac837d1e1aec291.jpg"
         }
       ]
     },
@@ -7017,17 +6578,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/76ca7b2a9359d4a208.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/76ca7b2a9359d4a208.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/70158957f0f46a04bb.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Rainbow Big (G9Y3-VIIE)",
@@ -7159,10 +6711,6 @@
         {
           "type": "image",
           "src": "images/1516af73e41473b6d5.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/b629a500c4a4abbb22.jpg"
         }
       ]
     },
@@ -7274,10 +6822,6 @@
         {
           "type": "image",
           "src": "images/ec65da9ba63e75b5c4.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/f2e373de385c15cc33.jpg"
         }
       ]
     },
@@ -7310,17 +6854,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/6076e98b06dd1ad67b.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/6076e98b06dd1ad67b.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/cd2482f2b6d5222248.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Runtz Big (T0E8-IXD)",
@@ -7351,17 +6886,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/3f761cf7d1cf1d3083.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/3f761cf7d1cf1d3083.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/57dcff7c77c8e7de4c.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "SA-F Big (M8A0-IXD)",
@@ -7530,10 +7056,6 @@
         {
           "type": "image",
           "src": "images/c19b88f38eae814a10.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/ec875420313177eaa9.jpg"
         }
       ]
     },
@@ -7640,17 +7162,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/adaa4e4103541c51f9.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/adaa4e4103541c51f9.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/9435d97575eb813785.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Skywalker OG Big (G8N4-VIIID)",
@@ -7718,10 +7231,6 @@
         {
           "type": "image",
           "src": "images/3fa0bcaab2669e2d47.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/92bee7b5549269dee0.jpg"
         }
       ]
     },
@@ -7860,10 +7369,6 @@
         {
           "type": "image",
           "src": "images/63d085d07be0eda90e.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/3d2944ec8d4861e47d.jpg"
         }
       ]
     },
@@ -7901,10 +7406,6 @@
         {
           "type": "image",
           "src": "images/96a44a78f89fc48423.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/4903ecb340e13a087e.jpg"
         }
       ]
     },
@@ -8048,10 +7549,6 @@
         {
           "type": "image",
           "src": "images/374800355b3a333197.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/236feb98943c5dd444.jpg"
         }
       ]
     },
@@ -8089,10 +7586,6 @@
         {
           "type": "image",
           "src": "images/6269217f96fae38a14.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/e4267bb425f08c4d4f.jpg"
         }
       ]
     },
@@ -8566,10 +8059,6 @@
         {
           "type": "image",
           "src": "images/fb3da72b0c87ce3db0.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/5e2908a3c50d04c07f.jpg"
         }
       ]
     },
@@ -8607,10 +8096,6 @@
         {
           "type": "image",
           "src": "images/a42244e451306a44c1.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/9034e277954aed067c.jpg"
         }
       ]
     },
@@ -8712,10 +8197,6 @@
         {
           "type": "image",
           "src": "images/41d02c1371be897167.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/ba2be5fe424b9866f5.jpg"
         }
       ]
     },
@@ -8849,10 +8330,6 @@
         {
           "type": "image",
           "src": "images/cf17752edc5ff48b38.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/9687134cd95f3d2145.jpg"
         }
       ]
     },
@@ -8890,10 +8367,6 @@
         {
           "type": "image",
           "src": "images/0afaf377950d378ed3.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/1e772e5ada319d7b01.jpg"
         }
       ]
     },
@@ -8958,17 +8431,8 @@
           "kind": "text"
         }
       ],
-      "image": "images/7ea1e20f90af273af4.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/7ea1e20f90af273af4.jpg"
-        },
-        {
-          "type": "image",
-          "src": "images/671451800a4ecd6024.jpg"
-        }
-      ]
+      "image": null,
+      "media": []
     },
     {
       "title": "Zumbo Big (G7O4-IXE)",
