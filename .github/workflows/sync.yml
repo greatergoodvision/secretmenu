@@ -44,7 +44,7 @@ jobs:
         run: |
           git config user.name 'secretmenu-bot'
           git config user.email 'actions@users.noreply.github.com'
-          git add -A public/catalog.json public/images || true
+          git add -A public
           git diff --cached --quiet || git commit -m 'Refresh remote-media catalog'
           git push
       - uses: actions/configure-pages@v5
