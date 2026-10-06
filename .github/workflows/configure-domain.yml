@@ -1,0 +1,41 @@
+name: Configure menu domain
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/configure-domain.yml'
+
+permissions:
+  contents: read
+  pages: write
+
+jobs:
+  configure:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set custom domain on GitHub Pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          code=$(curl -sS -o /tmp/resp.txt -w "%{http_code}" \
+            -X PUT \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "X-GitHub-Api-Version: 2026-03-10" \
+            https://api.github.com/repos/${GITHUB_REPOSITORY}/pages \
+            -d '{"cname":"menu.poundsdistrict.com","build_type":"workflow"}')
+          echo "HTTP ${code}"
+          cat /tmp/resp.txt || true
+          test "$code" = "204"
+
+      - name: Verify Pages config
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          curl -sS \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "X-GitHub-Api-Version: 2026-03-10" \
+            https://api.github.com/repos/${GITHUB_REPOSITORY}/pages
