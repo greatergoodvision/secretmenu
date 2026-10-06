@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-06T14:54:21.770Z",
-  "count": 149,
-  "imageCount": 149,
+  "updatedAt": "2026-10-06T15:10:18.616Z",
+  "count": 135,
+  "imageCount": 135,
   "videoCount": 0,
-  "mediaCount": 149,
+  "mediaCount": 135,
   "filteredToMediaOnly": true,
   "products": [
     {
@@ -35,11 +35,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/fd804e21feaa276c2b.png",
+      "image": "images/a1fe92b9728ec9ccd8.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/fd804e21feaa276c2b.png"
+          "src": "images/a1fe92b9728ec9ccd8.jpg"
         }
       ]
     },
@@ -257,11 +257,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/496f04465986976420.png",
+      "image": "images/3303d7edf6e91d170a.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/496f04465986976420.png"
+          "src": "images/3303d7edf6e91d170a.jpg"
         }
       ]
     },
@@ -405,11 +405,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/206d5cc0f9c8cd8df2.png",
+      "image": "images/3f06dd222c693da4a0.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/206d5cc0f9c8cd8df2.png"
+          "src": "images/3f06dd222c693da4a0.jpg"
         }
       ]
     },
@@ -479,11 +479,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/af381d444780ce2c75.png",
+      "image": "images/765b8a59473d3bcc59.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/af381d444780ce2c75.png"
+          "src": "images/765b8a59473d3bcc59.jpg"
         }
       ]
     },
@@ -701,48 +701,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/9321c2c45edfee9ac9.png",
+      "image": "images/a8932ee1ef0b4acd05.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/9321c2c45edfee9ac9.png"
-        }
-      ]
-    },
-    {
-      "title": "Blue Zangria Big (T9V3-VIIC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,250",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,200",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/e18bc8c5cea2ca51a0.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/e18bc8c5cea2ca51a0.png"
+          "src": "images/a8932ee1ef0b4acd05.jpg"
         }
       ]
     },
@@ -780,43 +743,6 @@
         {
           "type": "image",
           "src": "images/1d731a059c4edb9f63.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Bubble Blaster Big (T9V3-IXB)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "8.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,100",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,075",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/440c17b2aebdcb2839.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/440c17b2aebdcb2839.png"
         }
       ]
     },
@@ -1043,43 +969,6 @@
       ]
     },
     {
-      "title": "Candy Fumez Big (T9V3-IXB)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,100",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/903c4fca9417f73951.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/903c4fca9417f73951.png"
-        }
-      ]
-    },
-    {
       "title": "Candy Rain Big (T0E8-IXA)",
       "fields": [
         {
@@ -1108,11 +997,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/453461bcee889885b2.png",
+      "image": "images/ff874939ce80a614ae.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/453461bcee889885b2.png"
+          "src": "images/ff874939ce80a614ae.jpg"
         }
       ]
     },
@@ -1219,11 +1108,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/abc563d17724b81873.png",
+      "image": "images/8cc70014ae72055dd8.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/abc563d17724b81873.png"
+          "src": "images/8cc70014ae72055dd8.jpg"
         }
       ]
     },
@@ -1293,11 +1182,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/cb301146e1ce2c1236.png",
+      "image": "images/3a2a9969cd07ea3139.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/cb301146e1ce2c1236.png"
+          "src": "images/3a2a9969cd07ea3139.jpg"
         }
       ]
     },
@@ -1515,11 +1404,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/549e40c86bc406d3d4.png",
+      "image": "images/1e4476fec2bd1429bc.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/549e40c86bc406d3d4.png"
+          "src": "images/1e4476fec2bd1429bc.jpg"
         }
       ]
     },
@@ -1672,43 +1561,6 @@
       ]
     },
     {
-      "title": "Frosted Cereal Bomb Big (R1E9-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "7.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,100",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/6f4ce290989540b0fd.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/6f4ce290989540b0fd.png"
-        }
-      ]
-    },
-    {
       "title": "G41 Big (B3S9-IXE)",
       "fields": [
         {
@@ -1779,43 +1631,6 @@
         {
           "type": "image",
           "src": "images/8558c557db539a8a70.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Garcia Runtz Big (R1E9-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "6.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,150",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,125",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Premium",
-          "kind": "text"
-        }
-      ],
-      "image": "images/32a1b7db0523dbf750.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/32a1b7db0523dbf750.png"
         }
       ]
     },
@@ -2033,11 +1848,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/a95ad54c50c056f264.png",
+      "image": "images/cac760067df9a2528d.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/a95ad54c50c056f264.png"
+          "src": "images/cac760067df9a2528d.jpg"
         }
       ]
     },
@@ -2107,11 +1922,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/7b7616a5473837411e.png",
+      "image": "images/d99a0152d2656baacd.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/7b7616a5473837411e.png"
+          "src": "images/d99a0152d2656baacd.jpg"
         }
       ]
     },
@@ -2218,11 +2033,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/9c360ba22852ae5a2f.png",
+      "image": "images/5abc4913b2c808ed85.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/9c360ba22852ae5a2f.png"
+          "src": "images/5abc4913b2c808ed85.jpg"
         }
       ]
     },
@@ -2329,11 +2144,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/12009914ba701aa58e.png",
+      "image": "images/aadd3f41d15d450292.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/12009914ba701aa58e.png"
+          "src": "images/aadd3f41d15d450292.jpg"
         }
       ]
     },
@@ -2514,11 +2329,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/05b39abd85aa14e740.png",
+      "image": "images/5b9bd69014d49e4548.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/05b39abd85aa14e740.png"
+          "src": "images/5b9bd69014d49e4548.jpg"
         }
       ]
     },
@@ -2551,11 +2366,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/e009efc9668b86a224.png",
+      "image": "images/4fa06dcfc2b776a988.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/e009efc9668b86a224.png"
+          "src": "images/4fa06dcfc2b776a988.jpg"
         }
       ]
     },
@@ -2810,85 +2625,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/25c6b6748b5067ab94.png",
+      "image": "images/72c8559c75dd273391.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/25c6b6748b5067ab94.png"
-        }
-      ]
-    },
-    {
-      "title": "Larry OG Big (G9Y3-VIIE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$675",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$650",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/bb7cccf61efb5fab3c.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/bb7cccf61efb5fab3c.png"
-        }
-      ]
-    },
-    {
-      "title": "Lava Candy Big (P5T7-VIIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "6.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/f2d965957680617c95.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/f2d965957680617c95.png"
+          "src": "images/72c8559c75dd273391.jpg"
         }
       ]
     },
@@ -2958,48 +2699,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/2b361e887dee2cfd56.png",
+      "image": "images/5cda095176840308fc.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/2b361e887dee2cfd56.png"
-        }
-      ]
-    },
-    {
-      "title": "Lemon Kush Big (T5S4-IXE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "35.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$850",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/cf9d3ade97c820d388.jpg",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/cf9d3ade97c820d388.jpg"
+          "src": "images/5cda095176840308fc.jpg"
         }
       ]
     },
@@ -3148,43 +2852,6 @@
         {
           "type": "image",
           "src": "images/fa4a2695c1841fa44a.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Lip Smackerz Big (T9V3-VIIC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "7.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/448878f7601b68f4e7.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/448878f7601b68f4e7.png"
         }
       ]
     },
@@ -3476,11 +3143,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/0caf23f67f1ca6cbb9.png",
+      "image": "images/64c02007fe4a273d73.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/0caf23f67f1ca6cbb9.png"
+          "src": "images/64c02007fe4a273d73.jpg"
         }
       ]
     },
@@ -3513,11 +3180,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/4e615202488f6a60e5.png",
+      "image": "images/1a908b5d4249455209.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/4e615202488f6a60e5.png"
+          "src": "images/1a908b5d4249455209.jpg"
         }
       ]
     },
@@ -3633,43 +3300,6 @@
       ]
     },
     {
-      "title": "Nuclear Slurpee Big (R1E9-VIIID)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "6.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,275",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,225",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,175",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/45080d7ede5037e208.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/45080d7ede5037e208.png"
-        }
-      ]
-    },
-    {
       "title": "Original Glue Big (L9E9-IXA)",
       "fields": [
         {
@@ -3772,11 +3402,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/245959d91e2a37f5de.png",
+      "image": "images/1caf25e094734ae975.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/245959d91e2a37f5de.png"
+          "src": "images/1caf25e094734ae975.jpg"
         }
       ]
     },
@@ -4031,11 +3661,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/8d3c91a506c5b32812.png",
+      "image": "images/57eea3ff4232faa0bf.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/8d3c91a506c5b32812.png"
+          "src": "images/57eea3ff4232faa0bf.jpg"
         }
       ]
     },
@@ -4073,43 +3703,6 @@
         {
           "type": "image",
           "src": "images/f771a2932b6dacb406.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Pink Runtz Big (T0E8-IXA)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$675",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$650",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/a243c1fe6ad9ea2f92.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/a243c1fe6ad9ea2f92.png"
         }
       ]
     },
@@ -4364,48 +3957,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/6d71a9d35f4f7e4330.png",
+      "image": "images/773bc92fea1e92c4b9.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/6d71a9d35f4f7e4330.png"
-        }
-      ]
-    },
-    {
-      "title": "Rainbow Big (G9Y3-VIIE)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "5.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$775",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$700",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$675",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/3c0d15a1b09c8a7101.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/3c0d15a1b09c8a7101.png"
+          "src": "images/773bc92fea1e92c4b9.jpg"
         }
       ]
     },
@@ -4586,48 +4142,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/782fdaa3d3adc81f89.png",
+      "image": "images/08a2e6ae1a145ac770.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/782fdaa3d3adc81f89.png"
-        }
-      ]
-    },
-    {
-      "title": "Runtz Big (T0E8-IXD)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "8.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$750",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$675",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$650",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "Standard",
-          "kind": "text"
-        }
-      ],
-      "image": "images/8b690eeb51d5e95dad.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/8b690eeb51d5e95dad.png"
+          "src": "images/08a2e6ae1a145ac770.jpg"
         }
       ]
     },
@@ -4808,11 +4327,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/badda894e0edbaa657.png",
+      "image": "images/ef662fc6e075fbb2fa.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/badda894e0edbaa657.png"
+          "src": "images/ef662fc6e075fbb2fa.jpg"
         }
       ]
     },
@@ -5261,43 +4780,6 @@
       ]
     },
     {
-      "title": "Warheadz Big (C0K5-IXC)",
-      "fields": [
-        {
-          "label": "Quantity Available",
-          "value": "6.0",
-          "kind": "text"
-        },
-        {
-          "label": "Tier A1 Price (1-10 lbs)",
-          "value": "$1,400",
-          "kind": "price"
-        },
-        {
-          "label": "Tier B1 Price (10-50 lbs)",
-          "value": "$1,375",
-          "kind": "price"
-        },
-        {
-          "label": "Tier C1 Price (50+ lbs)",
-          "value": "$1,325",
-          "kind": "price"
-        },
-        {
-          "label": "Quality",
-          "value": "AAA Premium Exotic",
-          "kind": "text"
-        }
-      ],
-      "image": "images/6f93f8621f20de8cea.png",
-      "media": [
-        {
-          "type": "image",
-          "src": "images/6f93f8621f20de8cea.png"
-        }
-      ]
-    },
-    {
       "title": "Wedding Pie Big (B3S9-IXE)",
       "fields": [
         {
@@ -5511,11 +4993,11 @@
           "kind": "text"
         }
       ],
-      "image": "images/a999a238b2cb04bd67.png",
+      "image": "images/f823a48b83ed48c09c.jpg",
       "media": [
         {
           "type": "image",
-          "src": "images/a999a238b2cb04bd67.png"
+          "src": "images/f823a48b83ed48c09c.jpg"
         }
       ]
     }
