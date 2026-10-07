@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "referenceSources": [
+    {
+      "name": "Leafly",
+      "url": "https://www.leafly.com/strains"
+    },
+    {
+      "name": "AllBud",
+      "url": "https://www.allbud.com/marijuana-strains/search"
+    },
+    {
+      "name": "Hytiva",
+      "url": "https://www.hytiva.com/strains"
+    }
+  ],
+  "profiles": {
+    "Donny Burger": {
+      "type": "Indica-leaning hybrid",
+      "flavor": "Cheese, pepper, sweet citrus",
+      "nose": "Pungent, spicy, lemon",
+      "lineage": "GMO × Han Solo Burger",
+      "profile": "Reported as relaxing, hazy and euphoric.",
+      "sources": [
+        "https://www.leafly.com/strains/donny-burger",
+        "https://www.allbud.com/marijuana-strains/indica/donny-burger",
+        "https://www.hytiva.com/strains/hybrid/donny-burger"
+      ]
+    },
+    "Gelonade": {
+      "type": "Sativa-leaning hybrid",
+      "flavor": "Lemon, citrus, sweet vanilla",
+      "nose": "Sharp citrus, sweet vanilla, light pine",
+      "lineage": "Lemon Tree × Gelato #41",
+      "profile": "Commonly reported as energetic, talkative and focused.",
+      "sources": [
+        "https://www.leafly.com/strains/gelonade",
+        "https://www.allbud.com/marijuana-strains/sativa-dominant-hybrid/gelonade",
+        "https://www.hytiva.com/strains/hybrid/gelonade"
+      ]
+    },
+    "Gushers": {
+      "type": "Indica-leaning hybrid",
+      "flavor": "Tropical fruit, berry, sweet cream",
+      "nose": "Fruity, grape, herbal, earthy",
+      "lineage": "Gelato #41 × Triangle Kush",
+      "profile": "Commonly reported as tingly, relaxed and euphoric.",
+      "sources": [
+        "https://www.leafly.com/strains/gushers",
+        "https://www.allbud.com/marijuana-strains/indica-dominant-hybrid/gushers"
+      ]
+    },
+    "Pink Runtz": {
+      "type": "Hybrid",
+      "flavor": "Sweet, floral, candy",
+      "nose": "Sweet fruit and candy",
+      "lineage": "Runtz phenotype; Zkittlez × Gelato lineage",
+      "profile": "Commonly reported as giggly, tingly and talkative.",
+      "sources": [
+        "https://www.leafly.com/strains/pink-runtz"
+      ]
+    },
+    "Sour D": {
+      "type": "Sativa-leaning hybrid",
+      "flavor": "Diesel, chemical, skunk",
+      "nose": "Pungent diesel",
+      "lineage": "Chemdawg × Super Skunk",
+      "profile": "Commonly reported as energetic, uplifted and talkative.",
+      "sources": [
+        "https://www.leafly.com/strains/sour-diesel",
+        "https://www.allbud.com/marijuana-strains/sativa-dominant-hybrid/sour-diesel"
+      ]
+    },
+    "Original Glue": {
+      "type": "Indica-leaning hybrid",
+      "flavor": "Pungent, earthy, pine",
+      "nose": "Pungent, earthy and sour",
+      "lineage": "Chem's Sister × Sour Dubb × Chocolate Diesel",
+      "profile": "Commonly reported as deeply relaxing and sleepy.",
+      "sources": [
+        "https://www.leafly.com/strains/original-glue",
+        "https://www.allbud.com/marijuana-strains/indica-dominant-hybrid/original-glue-gg4"
+      ]
+    },
+    "Wedding Pie": {
+      "type": "Indica-leaning hybrid",
+      "flavor": "Grape, sweet, buttery",
+      "nose": "Fruity dessert, lemon, gas",
+      "lineage": "Wedding Cake × Grape Pie",
+      "profile": "Commonly reported as relaxing, giggly and sleepy.",
+      "sources": [
+        "https://www.leafly.com/strains/wedding-pie",
+        "https://www.allbud.com/marijuana-strains/indica-dominant-hybrid/wedding-pie"
+      ]
+    },
+    "Gelato 45": {
+      "type": "Indica-leaning hybrid",
+      "flavor": "Sweet berry, citrus, creamy earth",
+      "nose": "Berry, pine, creamy sour citrus",
+      "lineage": "Girl Scout Cookies × Sherbet",
+      "profile": "Commonly reported as relaxed, euphoric and happy.",
+      "sources": [
+        "https://www.leafly.com/strains/gelato-45",
+        "https://www.allbud.com/marijuana-strains/indica-dominant-hybrid/gelato-45"
+      ]
+    }
+  }
+}
