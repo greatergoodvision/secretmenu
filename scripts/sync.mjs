@@ -255,6 +255,5 @@ await fs.writeFile('public/catalog.json', JSON.stringify({
   completeMediaOnly:true,
   mediaHostedBy:'airtable',
   products
-}, null, 2));
-console.log(`Published ${products.length} strains with exactly 2 Airtable-hosted photos + 1 Airtable-hosted video each. +$${MARKUP} pricing.`);
+}, null, 2));console.log(`Published ${products.length} strains with exactly 2 Airtable-hosted photos + 1 Airtable-hosted video each. Category-based pricing applied.`);
 await browser.close();
