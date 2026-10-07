@@ -2,7 +2,13 @@ import { chromium } from 'playwright';
 import fs from 'node:fs/promises';
 
 const SOURCE_URL = process.env.AIRTABLE_SOURCE_URL;
-const MARKUP = 600;
+const MARKUP_BY_QUALITY = {
+  'Lows': 200,
+  'Standard': 250,
+  'Premium': 275,
+  'AAA Exotic': 250,
+  'AAA Premium Exotic': 375
+};
 if (!SOURCE_URL) throw new Error('Missing AIRTABLE_SOURCE_URL');
 
 await fs.mkdir('public', { recursive: true });
@@ -186,10 +192,19 @@ await collectVisible();
 
 const moneyRe = /\$\s*(\d[\d,]*(?:\.\d{1,2})?)/;
 const capture = (text,re) => text.match(re)?.[1]?.trim() || '';
-function bumped(v) {
-  const m = String(v).match(moneyRe); if (!m) return String(v).trim();
-  const raw = m[1], amount = Number(raw.replace(/,/g,'')) + MARKUP, dec = raw.includes('.') ? 2 : 0;
-  return '$' + amount.toLocaleString('en-US',{minimumFractionDigits:dec,maximumFractionDigits:dec});
+function bumped(v, quality) {
+  const m = String(v).match(moneyRe);
+  if (!m) return String(v).trim();
+
+  const markup = MARKUP_BY_QUALITY[quality] ?? 0;
+  const raw = m[1];
+  const amount = Number(raw.replace(/,/g,'')) + markup;
+  const dec = raw.includes('.') ? 2 : 0;
+
+  return '$' + amount.toLocaleString('en-US',{
+    minimumFractionDigits: dec,
+    maximumFractionDigits: dec
+  });
 }
 function fields(text) {
   text = text.replace(/\r/g,''); const f = [];
@@ -199,9 +214,9 @@ function fields(text) {
   const c = capture(text,/Tier\s*C1\s*Price\s*\(50\+\s*lbs\)\s*\n?\s*([^\n]+)/i);
   const q = capture(text,/Quality\s*\n?\s*([^\n]+)/i);
   if (qty) f.push({label:'Quantity Available',value:qty,kind:'text'});
-  if (a) f.push({label:'Tier A1 Price (1-10 lbs)',value:bumped(a),kind:'price'});
-  if (b) f.push({label:'Tier B1 Price (10-50 lbs)',value:bumped(b),kind:'price'});
-  if (c) f.push({label:'Tier C1 Price (50+ lbs)',value:bumped(c),kind:'price'});
+if (a) f.push({label:'Tier A1 Price (1-10 lbs)',value:bumped(a, q),kind:'price'});
+if (b) f.push({label:'Tier B1 Price (10-50 lbs)',value:bumped(b, q),kind:'price'});
+if (c) f.push({label:'Tier C1 Price (50+ lbs)',value:bumped(c, q),kind:'price'});
   if (q) f.push({label:'Quality',value:q,kind:'text'});
   return f;
 }
