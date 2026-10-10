@@ -137,8 +137,7 @@ async function expandedMedia(openKey, title) {
   await page.waitForTimeout(60);
 
   const images = uniq(imageUrls).slice(0, 2);
-  if (images.length < 2 || !videoUrl) return { images, video: null };
-  return { images, video: { url: videoUrl, viewer: viewerUrl } };
+  return { images, video: videoUrl ? { url: videoUrl, viewer: viewerUrl } : null };
 }
 
 async function collectVisible() {
@@ -222,38 +221,40 @@ if (c) f.push({label:'Tier C1 Price (50+ lbs)',value:bumped(c, q),kind:'price'})
 }
 
 const products = [];
-let complete = 0, twoPhotos = 0, videos = 0;
+let withMedia = 0, withoutMedia = 0, imageCount = 0, videoCount = 0;
 for (const r of records.values()) {
   const f = fields(r.text);
-  const images = r.media?.images || [];
-  const video = r.media?.video || null;
-  if (images.length >= 2) twoPhotos++;
-  if (video?.url) videos++;
-  if (images.length < 2 || !video?.url || f.filter(x => x.kind === 'price').length < 3) continue;
-  complete++;
+  // Keep every valid Airtable listing, even when attachments are missing.
+  if (!f.some(x => x.label === 'Tier A1 Price (1-10 lbs)' && x.value)) continue;
+  const images = (r.media?.images || []).filter(Boolean).slice(0, 2);
+  const video = r.media?.video?.url ? r.media.video : null;
+  const media = [
+    ...images.map(src => ({ type:'image', src })),
+    ...(video ? [{type:'video',src:video.url,poster:images[0] || '',viewer:video.viewer || null}] : [])
+  ];
+  imageCount += images.length;
+  if (video) videoCount++;
+  if (media.length) withMedia++;
+  else withoutMedia++;
   products.push({
     title:r.title,
     fields:f,
-    image:images[0],
-    media:[
-      {type:'image',src:images[0]},
-      {type:'image',src:images[1]},
-      {type:'video',src:video.url,poster:images[0],viewer:video.viewer || null}
-    ]
+    image:images[0] || '',
+    media
   });
 }
 products.sort((a,b) => a.title.localeCompare(b.title));
-console.log(`Scanned ${records.size} products: ${twoPhotos} with 2 photos, ${videos} with real Airtable video, ${complete} complete.`);
-if (!products.length) throw new Error('No complete 2-photo + video strains detected');
+console.log(`Scanned ${records.size} Airtable listings: ${withMedia} with media, ${withoutMedia} without media.`);
+if (!products.length) throw new Error('No priced Airtable listings detected');
 
 await fs.writeFile('public/catalog.json', JSON.stringify({
   updatedAt:new Date().toISOString(),
   count:products.length,
-  imageCount:products.length*2,
-  videoCount:products.length,
-  mediaCount:products.length*3,
-  completeMediaOnly:true,
+  imageCount,
+  videoCount,
+  mediaCount:imageCount + videoCount,
   mediaHostedBy:'airtable',
   products
-}, null, 2));console.log(`Published ${products.length} strains with exactly 2 Airtable-hosted photos + 1 Airtable-hosted video each. Category-based pricing applied.`);
+}, null, 2));
+console.log(`Published ${products.length} Airtable listings, including media-free strains.`);
 await browser.close();
